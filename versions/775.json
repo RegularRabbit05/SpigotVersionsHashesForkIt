@@ -1,0 +1,11 @@
+{
+	"name": "775",
+	"description": "Jenkins build 775",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "8ce4d2f45fbdb7cd85346b220f6a9d34f2000910",
+		"CraftBukkit": "f92e01ba5cf46c123d0cd38b29321c78706257e0",
+		"Spigot": "1480adb82751e38cca5bcc75202ece68277b0113"
+	},
+	"toolsVersion": 47
+}

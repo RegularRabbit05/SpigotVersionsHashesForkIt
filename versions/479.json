@@ -1,0 +1,10 @@
+{
+	"name": "479",
+	"description": "Jenkins build 479",
+	"refs": {
+		"BuildData": "c48104cb841f7e7740aced01792b5aa79bed4278",
+		"Bukkit": "4e1d0de1118bca0cf65f088d0df92890ebde1d54",
+		"CraftBukkit": "7723b90d913efb5cd9cdf85b772bbd4520540ec6",
+		"Spigot": "b3c0272c43b286202f207eb41c540573dc042349"
+	}
+}

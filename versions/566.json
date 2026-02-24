@@ -1,0 +1,10 @@
+{
+	"name": "566",
+	"description": "Jenkins build 566",
+	"refs": {
+		"BuildData": "838b40587fa7a68a130b75252959bc8a3481d94f",
+		"Bukkit": "76ffae6d58900d6ffd6f4a165d03b16eac0aaf65",
+		"CraftBukkit": "18fbb24b46427e2b41d3715a79f829b356b05ed5",
+		"Spigot": "db6de12919982a660de79df83af75e9c18965aa8"
+	}
+}

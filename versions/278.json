@@ -1,0 +1,10 @@
+{
+	"name": "278",
+	"description": "Jenkins build 278",
+	"refs": {
+		"BuildData": "c6fee81b6145012635654dfed3560abba911dbb2",
+		"Bukkit": "53a4447b8457d14342d5b8c10b7f98cb5e4b585d",
+		"CraftBukkit": "c8f17232cf6eacbebf9b7feb4763d22fedc6daec",
+		"Spigot": "2130aaa8703811b96ddf40b73cf46f4e00481bb4"
+	}
+}

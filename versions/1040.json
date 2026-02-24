@@ -1,0 +1,11 @@
+{
+	"name": "1040",
+	"description": "Jenkins build 1040",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "5037da9d4c088c32d235647c7ff37e4ad573926d",
+		"CraftBukkit": "691628ab5cc38c77b9c1a9bd884c7ce40b96373c",
+		"Spigot": "261f18109ea6338aa7a5dfe34fbb87e87945b8e5"
+	},
+	"toolsVersion": 47
+}

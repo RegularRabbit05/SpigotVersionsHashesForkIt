@@ -1,0 +1,11 @@
+{
+	"name": "880",
+	"description": "Jenkins build 880",
+	"refs": {
+		"BuildData": "cede5450c952c76341e047b8d04f9894f16e596d",
+		"Bukkit": "eb9f4ee387c12e0179e32cd581575d79d2b93ec5",
+		"CraftBukkit": "9856d8a18395617ffa0ecc05dcbf9255e6a66d12",
+		"Spigot": "c55900f7285842593df7101bf7ee81516aacb0c5"
+	},
+	"toolsVersion": 47
+}

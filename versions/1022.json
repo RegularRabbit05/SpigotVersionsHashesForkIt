@@ -1,0 +1,11 @@
+{
+	"name": "1022",
+	"description": "Jenkins build 1022",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "c1a8e12c9ce0686b527bacd40fcda6e3051f53b9",
+		"CraftBukkit": "ead445ec995e66378957ed400f1b4c698febfb9f",
+		"Spigot": "16c940b0677cc9065df920e1113c80b5a047ca32"
+	},
+	"toolsVersion": 47
+}

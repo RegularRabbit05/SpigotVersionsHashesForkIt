@@ -1,0 +1,11 @@
+{
+	"name": "1621",
+	"description": "Jenkins build 1621",
+	"refs": {
+		"BuildData": "a5effc614208d06202688a775f25d7b820b36d47",
+		"Bukkit": "1d21dc022e7e6905ef64f54b165e7559dfa40ade",
+		"CraftBukkit": "de019a35f009518bbabb3f39383e374cf8aae799",
+		"Spigot": "83d9d09afb65204de4f6050c4033d482dd2a0d6a"
+	},
+	"toolsVersion": 75
+}

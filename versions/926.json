@@ -1,0 +1,11 @@
+{
+	"name": "926",
+	"description": "Jenkins build 926",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "057635bcd07d37932f7077a62cc73bf7367d8142",
+		"CraftBukkit": "2a5461deb10cbf1ca00797716b0e7d5523d1bdaa",
+		"Spigot": "078e2f8b3c4d46cfc88cef5a0818891aeca78a2e"
+	},
+	"toolsVersion": 47
+}

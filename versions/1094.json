@@ -1,0 +1,11 @@
+{
+	"name": "1094",
+	"description": "Jenkins build 1094",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "47a45036fc7aa18c4dd306be562e7d08f693b7ac",
+		"CraftBukkit": "7dfa530395a35ce287463e0a166d96a19c26d671",
+		"Spigot": "f950f8e3b87663d53997c2497f2ce1909c8c634a"
+	},
+	"toolsVersion": 47
+}

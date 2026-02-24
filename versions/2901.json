@@ -1,0 +1,12 @@
+{
+	"name": "2901",
+	"description": "Jenkins build 2901",
+	"refs": {
+		"BuildData": "2589242ccafbffaeb0a36d16e9f59f97ab3411b7",
+		"Bukkit": "b56e8160a9514bb58a7348432255489e85dff8cf",
+		"CraftBukkit": "39806409e71c5df7a22b55919923b05e5402b5d9",
+		"Spigot": "b5a13e6d369902135ae04e4e218846ad10201c85"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

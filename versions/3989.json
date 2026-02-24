@@ -1,0 +1,12 @@
+{
+	"name": "3989",
+	"description": "Jenkins build 3989",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "cc9aa21a289b9a7d361c4a8f99b56d5300f40d4c",
+		"CraftBukkit": "752aac66979b1fa81a4cd7606205ae08f9052c63",
+		"Spigot": "86b5dd6a29342782ac71f98987d2c08c182bd642"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "3704",
+	"description": "Jenkins build 3704",
+	"refs": {
+		"BuildData": "4d9436f7b66190ad21fe4e3975b73a36b7ad2a7e",
+		"Bukkit": "0a2c4b4bb33c992d04048e4004d6fcce7ff9de2b",
+		"CraftBukkit": "20e8a486fe53b0ddaae7c0d22829e41686f7bb59",
+		"Spigot": "6ad4b93c2ab4d981910821bd43be6a085177bed9"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 64]
+}

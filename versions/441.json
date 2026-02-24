@@ -1,0 +1,10 @@
+{
+	"name": "441",
+	"description": "Jenkins build 441",
+	"refs": {
+		"BuildData": "16282cac77b18aca195bb6cab1ef8055c860e21d",
+		"Bukkit": "b465559cb5e8ff4fb028f61e7a740788e3f0b0f2",
+		"CraftBukkit": "b29f737cb3f14f858ae65e8b90839d70d9912022",
+		"Spigot": "6a6b83943e9b399ef9ef31c61f00d8a1ab1b4898"
+	}
+}

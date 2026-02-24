@@ -1,0 +1,12 @@
+{
+	"name": "3701",
+	"description": "Jenkins build 3701",
+	"refs": {
+		"BuildData": "4d9436f7b66190ad21fe4e3975b73a36b7ad2a7e",
+		"Bukkit": "bceda6abd980a97681c2cd8bef4e0af68ba4af6d",
+		"CraftBukkit": "eff1743b9c4e4833d02eda4327cdd1f84464ba4b",
+		"Spigot": "6ad4b93c2ab4d981910821bd43be6a085177bed9"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 64]
+}

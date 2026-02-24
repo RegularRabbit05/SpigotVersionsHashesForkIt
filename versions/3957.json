@@ -1,0 +1,12 @@
+{
+	"name": "3957",
+	"description": "Jenkins build 3957",
+	"refs": {
+		"BuildData": "58819a3c2a15e6e47ad89d32fb60d44c253491f3",
+		"Bukkit": "9a294519b082385a41711eed78797c6b7f3c2476",
+		"CraftBukkit": "ec1fa2ead3eec4267e6312b28ff259364bfd6b4b",
+		"Spigot": "9d728858d26d780a91aa8e3541bcfda9de7f76dc"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

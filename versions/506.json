@@ -1,0 +1,10 @@
+{
+	"name": "506",
+	"description": "Jenkins build 506",
+	"refs": {
+		"BuildData": "c48104cb841f7e7740aced01792b5aa79bed4278",
+		"Bukkit": "5ce44d45312122ecf210dbf614e125f72289f43f",
+		"CraftBukkit": "a03743b3b4c5474b1f381377c8a593a0ff763c7c",
+		"Spigot": "6d0ae89c6eb0a15fb233fde356bf1462680bd90a"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2404",
+	"description": "Jenkins build 2404",
+	"refs": {
+		"BuildData": "d526c9af5ffd94a80fdb5994c05275b87ea67a53",
+		"Bukkit": "e99c94440124f246a75f080cce7e2338d5e669db",
+		"CraftBukkit": "eb2e657871c7305a09060c56ceb2a93d3ee15009",
+		"Spigot": "9a643a6af514ba081c8b828a939bc4eb921a5089"
+	},
+	"toolsVersion": 101,
+	"javaVersions": [52, 56]
+}

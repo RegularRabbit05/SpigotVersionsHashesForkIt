@@ -1,0 +1,12 @@
+{
+	"name": "2862",
+	"description": "Jenkins build 2862",
+	"refs": {
+		"BuildData": "2589242ccafbffaeb0a36d16e9f59f97ab3411b7",
+		"Bukkit": "c45e2fafdd1c29b3bff0212a546a77f2c0664ef2",
+		"CraftBukkit": "13945b768759978501e6b53d7145803f544bc021",
+		"Spigot": "379750e0474d4ed87bbbf715545fe2e75c0ca4e9"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

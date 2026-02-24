@@ -1,0 +1,11 @@
+{
+	"name": "724",
+	"description": "Jenkins build 724",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "3c2337eebff5dd9ae2497b751586def2571c9470",
+		"CraftBukkit": "d4e50bef9d5a2b3258e36162280d3d228048b98c",
+		"Spigot": "f04e043eb1aa5cb0c8450cd57d88fdb051cf99fd"
+	},
+	"toolsVersion": 47
+}

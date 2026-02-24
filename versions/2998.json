@@ -1,0 +1,12 @@
+{
+	"name": "2998",
+	"description": "Jenkins build 2998",
+	"refs": {
+		"BuildData": "656df5e622bba97efb4e858e8cd3ec428a0b2d71",
+		"Bukkit": "e70a125f4f4fe1c22d8d225dfa606155e7348ac9",
+		"CraftBukkit": "08de4679f03b406714cdb4308566804a17abfb48",
+		"Spigot": "89d6047d1aea78b9011ba38681663780a63233c9"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 59]
+}

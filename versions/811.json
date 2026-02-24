@@ -1,0 +1,11 @@
+{
+	"name": "811",
+	"description": "Jenkins build 811",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "2a1d9d6033c8d4734dc38b8f7d42e3a7101c354a",
+		"CraftBukkit": "d884ab38d82eeab912a9cf866b5b704e60702679",
+		"Spigot": "e6f93f4eed1696907104cb95c00a6f6c035c82f2"
+	},
+	"toolsVersion": 47
+}

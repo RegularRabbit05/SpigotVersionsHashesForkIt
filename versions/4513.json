@@ -1,0 +1,16 @@
+{
+	"name": "4513",
+	"description": "Jenkins build 4513",
+	"refs": {
+		"BuildData": "281ac0de7a76d808753ede97d11b034bc801b63d",
+		"Bukkit": "263d8147c921a2e04d6713c792622c9c74f00a26",
+		"CraftBukkit": "596f58154d57949f7420bd1dc79c8af76768f007",
+		"Spigot": "d5ca3f833bb6128d88eaab2211b9c203953d23db"
+	},
+	"hashes": {
+		"CraftBukkit": "7ffd9f10c2542451fc1a4db2dccb1269035a9a975f35834e9dbf8ad197b6937d",
+		"Spigot": "4fdfd3e05b795d070f832ddf4a37c1eda317dd47f5c30ca274194434fe33effd"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 68]
+}

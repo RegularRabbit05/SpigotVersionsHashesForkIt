@@ -1,0 +1,12 @@
+{
+	"name": "3089",
+	"description": "Jenkins build 3089",
+	"refs": {
+		"BuildData": "f0a5ed1aeff8156ba4afa504e190c838dd1af50c",
+		"Bukkit": "0e11bc1faa72b7e23b0ad1f5de847250e06b6118",
+		"CraftBukkit": "c51c0f7fbb1157aa47c1b32a756ca568b581816f",
+		"Spigot": "9fb885e86def1d9d86e25233c9b5a4de45b7a09d"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 60]
+}

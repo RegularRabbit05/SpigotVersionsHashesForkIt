@@ -1,0 +1,11 @@
+{
+	"name": "955",
+	"description": "Jenkins build 955",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "89e4f83cd41117cc8a0264e70049f2f6e490740a",
+		"CraftBukkit": "43ab2669d768f1a2cfe32418cd275d110691af05",
+		"Spigot": "455072c24e822b3e6f9c50ec1d3712bcefbcc92c"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2744",
+	"description": "Jenkins build 2744",
+	"refs": {
+		"BuildData": "be3371e67489b5a2293306e24420793106baadc1",
+		"Bukkit": "e4db04aeb2aa92409f5f58443c721abf9e54bc9b",
+		"CraftBukkit": "4d92db6f0be10bcedc45295f0d2d51e52553a6ea",
+		"Spigot": "6f4ff1b691828e538ae534eac66e80a1bf2c1adf"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

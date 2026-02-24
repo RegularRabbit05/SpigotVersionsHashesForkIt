@@ -1,0 +1,11 @@
+{
+	"name": "796",
+	"description": "Jenkins build 796",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "85107d1f3d607cd2a38926f3abaae7d6f376eead",
+		"CraftBukkit": "420b983d59aecc1739b11916f60756933302f577",
+		"Spigot": "944aa2003b1a56b732e8cf6062f189aaef45a058"
+	},
+	"toolsVersion": 47
+}

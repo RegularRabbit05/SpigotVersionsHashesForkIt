@@ -1,0 +1,12 @@
+{
+	"name": "2910",
+	"description": "Jenkins build 2910",
+	"refs": {
+		"BuildData": "b2025bdddde79aea004399ec5f3652a1bce56b7a",
+		"Bukkit": "30dc3e37252f8599f970ceb38a2cca47cf18167d",
+		"CraftBukkit": "bf3d7207140a295c35d4024a43cd188824c5a359",
+		"Spigot": "3a70bd92b96d836dd046576a57deb7c8573c88a7"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 59]
+}

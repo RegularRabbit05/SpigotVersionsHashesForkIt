@@ -1,0 +1,12 @@
+{
+	"name": "4032",
+	"description": "Jenkins build 4032",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "1851857b78b149775a630c7eacdbbd0cee0fd857",
+		"CraftBukkit": "4949f556d9854170371517ea5b3b99214f27a5e3",
+		"Spigot": "c198da22a814a0ba9c3128c3a9946286e0839b5a"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

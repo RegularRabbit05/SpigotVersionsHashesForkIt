@@ -1,0 +1,12 @@
+{
+	"name": "4003",
+	"description": "Jenkins build 4003",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "0c7aedbceabcf05dde0a483001acd3d957e06c03",
+		"CraftBukkit": "69027820058ea32a6cc95214539b42a4ea8b830e",
+		"Spigot": "828f059332b479c47d3b7928cc7947d82faf4638"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

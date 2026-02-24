@@ -1,0 +1,10 @@
+{
+	"name": "374",
+	"description": "Jenkins build 374",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "dcd92097e987ccd4030fa11135cf5147d6b6f7ad",
+		"CraftBukkit": "6a374be73752b0d6317ac6e1dfdf1cea312cbacd",
+		"Spigot": "ea179b395a8244239c90f7fe5cd048ed8a31fb62"
+	}
+}

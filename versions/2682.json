@@ -1,0 +1,12 @@
+{
+	"name": "2682",
+	"description": "Jenkins build 2682",
+	"refs": {
+		"BuildData": "455d45a4244894335cd07451bdda79ccd380aff6",
+		"Bukkit": "da9ef3c55fa3bce91f7fdcd77d50171be7297d7d",
+		"CraftBukkit": "214ffea95efb102f3fe194cafe68c48276971dae",
+		"Spigot": "2040c4c476931e2b1582cd14e2e4d1e260eb5322"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

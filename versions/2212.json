@@ -1,0 +1,12 @@
+{
+	"name": "2212",
+	"description": "Jenkins build 2212",
+	"refs": {
+		"BuildData": "df665071847a0ace1b4b7149f504e5bb8eca992c",
+		"Bukkit": "11a6d2ef7c9868c17adc112e959734cdd36f1800",
+		"CraftBukkit": "c9fa596b9d5a7c4348554b63358635022491834f",
+		"Spigot": "fa078785ca1ace887495c06d8ef66f5f51459145"
+	},
+	"toolsVersion": 101,
+	"javaVersions": [52, 56]
+}

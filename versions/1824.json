@@ -1,0 +1,11 @@
+{
+	"name": "1824",
+	"description": "Jenkins build 1824",
+	"refs": {
+		"BuildData": "83455962edb05fea080f04d6708eede4fa8be7b1",
+		"Bukkit": "410a601d008d1c13612815b900f28c00ac4b90a6",
+		"CraftBukkit": "908516f1027b1aef661787de6d0f559a5eac5901",
+		"Spigot": "2440e18926007124b1b968b7d81b0aa29627c332"
+	},
+	"toolsVersion": 75
+}

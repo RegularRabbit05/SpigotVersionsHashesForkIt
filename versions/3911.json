@@ -1,0 +1,12 @@
+{
+	"name": "3911",
+	"description": "Jenkins build 3911",
+	"refs": {
+		"BuildData": "172197ceb99364701937947ea7fc424ecf1bb694",
+		"Bukkit": "897a0a238bc989f9ca89613f0ee413254bd1106b",
+		"CraftBukkit": "71b0135cc7986690f2e0950dbcf679271e894245",
+		"Spigot": "e0e223fe5197272feb12eba337cfbbc567316a84"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

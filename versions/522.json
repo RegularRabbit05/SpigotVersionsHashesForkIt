@@ -1,0 +1,10 @@
+{
+	"name": "522",
+	"description": "Jenkins build 522",
+	"refs": {
+		"BuildData": "c48104cb841f7e7740aced01792b5aa79bed4278",
+		"Bukkit": "3e3e3430e2baf9d07bedad2dd2cc601d9bb7322b",
+		"CraftBukkit": "87b9f46d72040ca15d8b0bd9008030be962f86ec",
+		"Spigot": "6d16e64a2a50e5e1866116ffb6e59221b4f7c6bb"
+	}
+}

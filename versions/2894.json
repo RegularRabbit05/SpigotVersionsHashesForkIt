@@ -1,0 +1,12 @@
+{
+	"name": "2894",
+	"description": "Jenkins build 2894",
+	"refs": {
+		"BuildData": "2589242ccafbffaeb0a36d16e9f59f97ab3411b7",
+		"Bukkit": "323d6ca31870ea42606ba2a6a75f3f7e0f2248b2",
+		"CraftBukkit": "e14c9acbec53f6484da2a8f040b16cab466e810f",
+		"Spigot": "b5a13e6d369902135ae04e4e218846ad10201c85"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

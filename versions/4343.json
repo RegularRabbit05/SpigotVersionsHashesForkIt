@@ -1,0 +1,12 @@
+{
+	"name": "4343",
+	"description": "Jenkins build 4343",
+	"refs": {
+		"BuildData": "533b02cd6ba8dbf8c8607250b02bf2d8c36421e8",
+		"Bukkit": "bb4e97c60d2978a1d008f21295a5234228341e14",
+		"CraftBukkit": "0a7bd6c81a33cfaaa2f4d2456c6b237792f38fe6",
+		"Spigot": "a759b629cbf86401aab56b8c3f21a635e9e76c15"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 67]
+}

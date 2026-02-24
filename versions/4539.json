@@ -1,0 +1,16 @@
+{
+	"name": "4539",
+	"description": "Jenkins build 4539",
+	"refs": {
+		"BuildData": "42d18d4c4653ffc549778dbe223f6994a031d69e",
+		"Bukkit": "b6d15d8f8b03e16ffac4cc0b263f5735504b6766",
+		"CraftBukkit": "d1d7bf6f133e2091a725ff87e48bd6beaa243311",
+		"Spigot": "688b11a232392c6c672bf18fdee6f7e966c12ee4"
+	},
+	"hashes": {
+		"CraftBukkit": "61a34c9f1c1ca9619b90611dbd03993024a71362366d9289872d52efa3d5765f",
+		"Spigot": "8752f8a9c4facec1864969fa017b66fee767abb78040bfee6b8c879b3f3b2264"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 69]
+}

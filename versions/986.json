@@ -1,0 +1,11 @@
+{
+	"name": "986",
+	"description": "Jenkins build 986",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "570e0e67528698b67770ea12e22c82d937fd3080",
+		"CraftBukkit": "51263e97187a84338f89698eef187284055a682a",
+		"Spigot": "de459a282d9f494bbc5588b461b3e8eacd74f744"
+	},
+	"toolsVersion": 47
+}

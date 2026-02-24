@@ -1,0 +1,11 @@
+{
+	"name": "958",
+	"description": "Jenkins build 958",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "89e4f83cd41117cc8a0264e70049f2f6e490740a",
+		"CraftBukkit": "43ab2669d768f1a2cfe32418cd275d110691af05",
+		"Spigot": "34287dbe611efa0a37bfe76f72fa3ddfeceb4c30"
+	},
+	"toolsVersion": 47
+}

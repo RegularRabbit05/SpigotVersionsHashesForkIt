@@ -1,0 +1,12 @@
+{
+	"name": "4361",
+	"description": "Jenkins build 4361",
+	"refs": {
+		"BuildData": "0c5ebabcb4ce41f69a7d2319b468b6faee434038",
+		"Bukkit": "a38581aa8953b162f215adc99473a10d3bdab3b4",
+		"CraftBukkit": "6029040030de5f73e8c4d56e0d6a46c1734f95c7",
+		"Spigot": "5eb8a94b2f4dfefed5c71a40f87a84c34d1c8828"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 67]
+}

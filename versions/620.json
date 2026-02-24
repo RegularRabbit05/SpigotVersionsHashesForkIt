@@ -1,0 +1,11 @@
+{
+	"name": "620",
+	"description": "Jenkins build 620",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "fac79d860e9fc9697a9f995fe1f1517e9b243f4a",
+		"CraftBukkit": "f5f09ffcbfbe6be42aa2ac3777d835cdeaccfffb",
+		"Spigot": "43ef9168e4a6ca98a218206170ccf51475040b41"
+	},
+    "toolsVersion": 47
+}

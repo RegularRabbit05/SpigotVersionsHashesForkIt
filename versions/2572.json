@@ -1,0 +1,12 @@
+{
+	"name": "2572",
+	"description": "Jenkins build 2572",
+	"refs": {
+		"BuildData": "b5c57c4676ac2e808179bb545eef531304165d3e",
+		"Bukkit": "58d299a56f783ba04943502d709d86d5a4227daa",
+		"CraftBukkit": "b91ce1192a9fd0ea6d16044fd8edd8ffff6b47e1",
+		"Spigot": "037559e7b4721c8a0af0ead3788733886ce9f49d"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2070",
+	"description": "Jenkins build 2070",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "d58803c2b640ab583f259a5c6a8b5d1919634ae3",
+		"CraftBukkit": "ed274c517f57b2fa0d181d3c32c5b3544d67689d",
+		"Spigot": "f56e2e787f425025af0d7410ff4cdb4f8edf7f3b"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

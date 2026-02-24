@@ -1,0 +1,16 @@
+{
+	"name": "4523",
+	"description": "Jenkins build 4523",
+	"refs": {
+		"BuildData": "62f9b85b300b6bbf1c559e379567699a6e281cec",
+		"Bukkit": "8271394e249e73d9c7cd3c9ac34ce4536f1db982",
+		"CraftBukkit": "d116f42501f1a3d9adb5f97cc72cea515059eeb8",
+		"Spigot": "739dbf379bcc86632f5a74de17711eb04b46f304"
+	},
+	"hashes": {
+		"CraftBukkit": "fc86ce0c524e8e33ec0f850470d79cc30a8fa5aa43e4136fe62af7368d749ac6",
+		"Spigot": "27110da4b36b234c8ad118431d1aed741feb9988fe5d2f46848da8137913a4c2"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 68]
+}

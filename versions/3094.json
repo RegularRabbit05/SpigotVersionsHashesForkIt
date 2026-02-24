@@ -1,0 +1,12 @@
+{
+	"name": "3094",
+	"description": "Jenkins build 3094",
+	"refs": {
+		"BuildData": "f0a5ed1aeff8156ba4afa504e190c838dd1af50c",
+		"Bukkit": "04df07fe9a45f382bedd4ee83948382d3e7baae8",
+		"CraftBukkit": "fae895ac110a830e4bbd5cc9eadbf70104ce215e",
+		"Spigot": "9fb885e86def1d9d86e25233c9b5a4de45b7a09d"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 60]
+}

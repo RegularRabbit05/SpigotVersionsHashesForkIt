@@ -1,0 +1,11 @@
+{
+	"name": "673",
+	"description": "Jenkins build 673",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "0c042936d8219121ae44d93c4fe0071ce7a9b50a",
+		"CraftBukkit": "68b72776a9193885da46c78da560d7b6bafeba7c",
+		"Spigot": "3104eb114124a17ab6db441bb69b59adc3d62939"
+	},
+    "toolsVersion": 47
+}

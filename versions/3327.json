@@ -1,0 +1,12 @@
+{
+	"name": "3327",
+	"description": "Jenkins build 3327",
+	"refs": {
+		"BuildData": "403e1fc440fdc9eeb6e854e6db1c1974034fccab",
+		"Bukkit": "810cb078fd22fde8bf94b5a23ed3329f0b1f68db",
+		"CraftBukkit": "37fd1917e73f1f0b16dcef01cac940cd52510d73",
+		"Spigot": "2b2a3d56693ab3765552021a6d9ef9aef97cb23e"
+	},
+	"toolsVersion": 138,
+	"javaVersions": [61, 61]
+}

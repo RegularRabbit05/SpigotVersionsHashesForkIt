@@ -1,0 +1,10 @@
+{
+	"name": "308",
+	"description": "Jenkins build 308",
+	"refs": {
+		"BuildData": "946ba99fbb82b6fb2f723bded5bfdb3133f80540",
+		"Bukkit": "5bfe821f3d561d1063e1cff344a9a31dac7000b8",
+		"CraftBukkit": "2c31a4b409f7958d86a38eab2ca0556d16351636",
+		"Spigot": "8a983f97a1096aaca249cbed1882a8b98b0cc039"
+	}
+}

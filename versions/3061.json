@@ -1,0 +1,12 @@
+{
+	"name": "3061",
+	"description": "Jenkins build 3061",
+	"refs": {
+		"BuildData": "f0a5ed1aeff8156ba4afa504e190c838dd1af50c",
+		"Bukkit": "edf1881e6ae1294aa7f93847626750b253a72452",
+		"CraftBukkit": "b6fdc7adb2695242ebd636566551c9254705c3e4",
+		"Spigot": "bd6b56689828d8bb08f6b5f46935162f9cc43d87"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 60]
+}

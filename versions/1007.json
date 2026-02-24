@@ -1,0 +1,11 @@
+{
+	"name": "1007",
+	"description": "Jenkins build 1007",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "84845e07fe6b11376f21b02296522f9ae870b899",
+		"CraftBukkit": "4bf2fc878208caea140b44d6a51bca0368d5a985",
+		"Spigot": "d60de0a65bf852f67f22586fcd9e604b988224a3"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2518",
+	"description": "Jenkins build 2518",
+	"refs": {
+		"BuildData": "f845c6ee8a6d41562c71dc218c7d5b7b9eeb03d6",
+		"Bukkit": "333b9f02897384708573682fa35605d71a78a4db",
+		"CraftBukkit": "e631456c7deac6ce4fae656405723faa8571d736",
+		"Spigot": "047b6f86bc7927f729039fb212aae9ca676da019"
+	},
+	"toolsVersion": 101,
+	"javaVersions": [52, 57]
+}

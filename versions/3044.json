@@ -1,0 +1,12 @@
+{
+	"name": "3044",
+	"description": "Jenkins build 3044",
+	"refs": {
+		"BuildData": "f0a5ed1aeff8156ba4afa504e190c838dd1af50c",
+		"Bukkit": "9477fa26f2d29dba3250b1486cd2b353d697b011",
+		"CraftBukkit": "28d72c4bd8c22f568384560459d0d703c2d0fefe",
+		"Spigot": "a25e8ed26cbca903b4d6ee3823d1b9f4f5d06cc3"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 60]
+}

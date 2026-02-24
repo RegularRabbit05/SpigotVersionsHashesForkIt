@@ -1,0 +1,11 @@
+{
+	"name": "900",
+	"description": "Jenkins build 900",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "f0973327a93ed495f86e96a3e32bc5678b66a15d",
+		"CraftBukkit": "6b843d995ffa4b1d5e50124bb67ea58289598596",
+		"Spigot": "3996d7d5c02c6a13ff621eb3cb37c17fc7ec1954"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2609",
+	"description": "Jenkins build 2609",
+	"refs": {
+		"BuildData": "4a6af056693a191400cc4bc242823734c865c282",
+		"Bukkit": "e4e4bf701089da4c4adc1bc2c96b98676b018ae6",
+		"CraftBukkit": "6bbb4e7348252b6c918946a4e02dcd575653287c",
+		"Spigot": "f2c1cd15d99e523ef21cd1f761914a2b9eb940b8"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

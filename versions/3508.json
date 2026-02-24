@@ -1,0 +1,12 @@
+{
+	"name": "3508",
+	"description": "Jenkins build 3508",
+	"refs": {
+		"BuildData": "e6ebde42e39100b18ca0265596b04f557b2b27cc",
+		"Bukkit": "4b08dbc5ce3ddb031df2cff7be350842670f1929",
+		"CraftBukkit": "50ef122ef8f56e7e36860e94e6e0d986165fb30e",
+		"Spigot": "fa893f0bb7c6e1cbd28315f77da5c37a67afbe98"
+	},
+	"toolsVersion": 138,
+	"javaVersions": [61, 62]
+}

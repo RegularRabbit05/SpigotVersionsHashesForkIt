@@ -1,0 +1,10 @@
+{
+	"name": "404",
+	"description": "Jenkins build 404",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "8d91199e35c782e94c4dd41fdc8140f84e048ef1",
+		"CraftBukkit": "a5b7881dbeedf6ac67c7729e25d3f06c70b27ee9",
+		"Spigot": "2f787bd9962e65a89fa6b5954db39b101181e36a"
+	}
+}

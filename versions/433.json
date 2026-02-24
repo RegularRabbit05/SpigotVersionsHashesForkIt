@@ -1,0 +1,10 @@
+{
+	"name": "433",
+	"description": "Jenkins build 433",
+	"refs": {
+		"BuildData": "10ffe71dcde690d1b2b41786b9396434f332ecb4",
+		"Bukkit": "8deca8c9aaadc4f45b3ed27349ceb51be24a9f1c",
+		"CraftBukkit": "f87cd1a53d86d1c9f961c3a4664f98510182a3b7",
+		"Spigot": "5818108e3ac7e96e66484b36ad4bf1cda23cc6ad"
+	}
+}

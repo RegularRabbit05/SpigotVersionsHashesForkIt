@@ -1,0 +1,12 @@
+{
+	"name": "3217",
+	"description": "Jenkins build 3217",
+	"refs": {
+		"BuildData": "a4785704979a469daa2b7f6826c84e7fe886bb03",
+		"Bukkit": "01ff04f4419fee522e6275196124a6ec0e3bb5ef",
+		"CraftBukkit": "4f6bcc84f9cc534388061a0b9d1335aed8c8bc92",
+		"Spigot": "b166a49b7be907f8cf7f4bfa7fe8160eeb858d55"
+	},
+	"toolsVersion": 128,
+	"javaVersions": [60, 61]
+}

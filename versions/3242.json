@@ -1,0 +1,12 @@
+{
+	"name": "3242",
+	"description": "Jenkins build 3242",
+	"refs": {
+		"BuildData": "a4785704979a469daa2b7f6826c84e7fe886bb03",
+		"Bukkit": "2a0a2e2ebb881d213840510eae1ac993f2a0c6a8",
+		"CraftBukkit": "d3cc412075bdd483e357ea0e4db78beefbdd0398",
+		"Spigot": "6c1c1b2650e2f166fbba2f670ab37af8ce20156d"
+	},
+	"toolsVersion": 128,
+	"javaVersions": [60, 61]
+}

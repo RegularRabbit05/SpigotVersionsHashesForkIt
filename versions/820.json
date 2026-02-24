@@ -1,0 +1,11 @@
+{
+	"name": "820",
+	"description": "Jenkins build 820",
+	"refs": {
+		"BuildData": "9b100f8a6f0d86b5fd5f22f65dd6dd9eba6547d3",
+		"Bukkit": "b7b8f1e11ae7789a465f0e987be24161a1eba7df",
+		"CraftBukkit": "c5e9a169fa564f3b8119b6666f8df59d5a9b45c3",
+		"Spigot": "4af49dc0abc0056b1f66f92a2ee107f9f1749a82"
+	},
+	"toolsVersion": 47
+}

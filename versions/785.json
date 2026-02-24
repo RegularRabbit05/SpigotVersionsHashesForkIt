@@ -1,0 +1,11 @@
+{
+	"name": "785",
+	"description": "Jenkins build 785",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "8ce4d2f45fbdb7cd85346b220f6a9d34f2000910",
+		"CraftBukkit": "3dc138d98059b6841694d75615a9efadb4a65732",
+		"Spigot": "f6feaaae5b036bd574632a98c684b2fddf4454b9"
+	},
+	"toolsVersion": 47
+}

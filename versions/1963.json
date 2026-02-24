@@ -1,0 +1,12 @@
+{
+	"name": "1963",
+	"description": "Jenkins build 1963",
+	"refs": {
+		"BuildData": "f527a8ff0d2f2efafc292ac7648ae3a184245a74",
+		"Bukkit": "9a793cce8c9257ce85069c531486f369ad6328f1",
+		"CraftBukkit": "8cd538e66144bd93f9139574b179b2413ee5dd62",
+		"Spigot": "bc4adcbfd6b819e6c8c08760a906d69b98cec0d7"
+	},
+	"toolsVersion": 75,
+	"javaVersions": [52, 55]
+}

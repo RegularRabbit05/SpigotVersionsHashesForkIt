@@ -1,0 +1,10 @@
+{
+	"name": "500",
+	"description": "Jenkins build 500",
+	"refs": {
+		"BuildData": "c48104cb841f7e7740aced01792b5aa79bed4278",
+		"Bukkit": "d29af24528428c7763b3dd32e26e07e5d12fae68",
+		"CraftBukkit": "d432434fd84066363fb89d58b071a81d2c50cbc0",
+		"Spigot": "f928e7aa73b10dfaa6023608e244d0f29c4dcb81"
+	}
+}

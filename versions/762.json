@@ -1,0 +1,11 @@
+{
+	"name": "762",
+	"description": "Jenkins build 762",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "56605a05f6c85762d46b0b76b9eb20cfc7991e7e",
+		"CraftBukkit": "44216f12ed39a8cfb4100f03a5d7bc46a52622a6",
+		"Spigot": "2038f4a1ee03c4152ac216589a008bcdd099cd67"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,12 @@
+{
+	"name": "1991",
+	"description": "Jenkins build 1991",
+	"refs": {
+		"BuildData": "370a4d9802d37f4228aa33720bdd5e9675222784",
+		"Bukkit": "ad28b19f7281819ca4b5da8dd4e44f80ca8dfff4",
+		"CraftBukkit": "4b843638ea8f10752363eb97e455174dfef19d46",
+		"Spigot": "1dc156ce484f25ce6cfc7526f1de88aac5ac7a95"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

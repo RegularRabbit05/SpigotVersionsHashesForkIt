@@ -1,0 +1,12 @@
+{
+	"name": "4439",
+	"description": "Jenkins build 4439",
+	"refs": {
+		"BuildData": "3edaf46ec1eed4115ce1b18d2846cded42577e42",
+		"Bukkit": "c0ecd48cfded73f6a8c1a6182ac4f55a7c5fa9cc",
+		"CraftBukkit": "ade46cc79fefdfec66fde294ebfdde687c501b04",
+		"Spigot": "e5a64e7315952650156f7c51a05d95de94b283ae"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 67]
+}

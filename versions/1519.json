@@ -1,0 +1,11 @@
+{
+	"name": "1519",
+	"description": "Jenkins build 1519",
+	"refs": {
+		"BuildData": "a9c4523879abc011821f06283dd468c67c3b0097",
+		"Bukkit": "d9006fb04c37444226a867b64c14cb4cfe830610",
+		"CraftBukkit": "16e3560b90fe9b2b873015a4c5386f6da9be1deb",
+		"Spigot": "4bd94dc87d622db89bd58f414ffa479348775e88"
+	},
+	"toolsVersion": 47
+}

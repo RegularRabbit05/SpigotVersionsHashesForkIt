@@ -1,0 +1,11 @@
+{
+	"name": "912",
+	"description": "Jenkins build 912",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "a1760b6baec0db18f0eeda14e371a75fa6fc3d3b",
+		"CraftBukkit": "54902261c188b6f2715967d957b27a6ebe77b68e",
+		"Spigot": "f09019bf81bcbcf4b8d71bf608928bf49bd8968d"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2639",
+	"description": "Jenkins build 2639",
+	"refs": {
+		"BuildData": "4a6af056693a191400cc4bc242823734c865c282",
+		"Bukkit": "ae72ba3a43a119801e2566afec296ec4446f3967",
+		"CraftBukkit": "d5ef2eab9ea18a1433580316dc494c33ab45fa9e",
+		"Spigot": "8faa8b45b477f6804c52184fe1a6bec9bf1dff65"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

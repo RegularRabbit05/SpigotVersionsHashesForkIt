@@ -1,0 +1,12 @@
+{
+	"name": "4081",
+	"description": "Jenkins build 4081",
+	"refs": {
+		"BuildData": "a9c23e0aa2429445ce39109e093bce0d89a14ab3",
+		"Bukkit": "624c810c36acb3ea24d80855016cdbc927765d50",
+		"CraftBukkit": "e8f91497fa7f098aa90eb5eb6fe454557d6b3d4e",
+		"Spigot": "b754dccf0c43518a34701b863125fde5a9fbbd32"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 66]
+}

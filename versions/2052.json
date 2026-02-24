@@ -1,0 +1,12 @@
+{
+	"name": "2052",
+	"description": "Jenkins build 2052",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "dacf8f8d5342c8fecd4a8458a0f8d1290fdcb932",
+		"CraftBukkit": "0c715b32b02a156fc72dadebe0d6ee1be7344f98",
+		"Spigot": "f56e2e787f425025af0d7410ff4cdb4f8edf7f3b"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

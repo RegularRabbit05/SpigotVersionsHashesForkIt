@@ -1,0 +1,10 @@
+{
+	"name": "298",
+	"description": "Jenkins build 298",
+	"refs": {
+		"BuildData": "946ba99fbb82b6fb2f723bded5bfdb3133f80540",
+		"Bukkit": "5bfe821f3d561d1063e1cff344a9a31dac7000b8",
+		"CraftBukkit": "2f50138ba3e39132f5f004abf0fa5b085f0886e7",
+		"Spigot": "952179b880a1aa91da6893ecf3554fbe65f73641"
+	}
+}

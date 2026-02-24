@@ -1,0 +1,10 @@
+{
+	"name": "319",
+	"description": "Jenkins build 319",
+	"refs": {
+		"BuildData": "946ba99fbb82b6fb2f723bded5bfdb3133f80540",
+		"Bukkit": "66c832f8ca365c528aab0250a93fe46b91f2ca56",
+		"CraftBukkit": "1af2a2283aa04aa4244d8626a98b2ed3170bfaf3",
+		"Spigot": "b73910a7b7dbc45e5b493b988201c8ba8a8de66f"
+	}
+}

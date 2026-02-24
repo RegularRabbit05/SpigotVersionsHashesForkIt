@@ -1,0 +1,12 @@
+{
+	"name": "3050",
+	"description": "Jenkins build 3050",
+	"refs": {
+		"BuildData": "f0a5ed1aeff8156ba4afa504e190c838dd1af50c",
+		"Bukkit": "80ece5de932aee4d2c37d13189722b26d45aec5b",
+		"CraftBukkit": "a8d7c94a5b698732029f2f153904cbe943e70e71",
+		"Spigot": "a25e8ed26cbca903b4d6ee3823d1b9f4f5d06cc3"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 60]
+}

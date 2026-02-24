@@ -1,0 +1,12 @@
+{
+	"name": "2645",
+	"description": "Jenkins build 2645",
+	"refs": {
+		"BuildData": "455d45a4244894335cd07451bdda79ccd380aff6",
+		"Bukkit": "6148fca75953d5f8f656453848137a018e11a5b3",
+		"CraftBukkit": "fc2493409826a7fdcd2d69ab5d25ce8c492eb996",
+		"Spigot": "6de3d4be46f609f86c968b58a4e5c12e90779fed"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

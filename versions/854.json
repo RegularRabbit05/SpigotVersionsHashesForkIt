@@ -1,0 +1,11 @@
+{
+	"name": "854",
+	"description": "Jenkins build 854",
+	"refs": {
+		"BuildData": "cede5450c952c76341e047b8d04f9894f16e596d",
+		"Bukkit": "a4fe2264e678cdc646098df61398ea8a10b0731a",
+		"CraftBukkit": "b2f31b74d0b455977493e058c2c217bd166aa3cd",
+		"Spigot": "da278d16b469b98f961d0e8fbffe81f274a930db"
+	},
+	"toolsVersion": 47
+}

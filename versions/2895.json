@@ -1,0 +1,12 @@
+{
+	"name": "2895",
+	"description": "Jenkins build 2895",
+	"refs": {
+		"BuildData": "2589242ccafbffaeb0a36d16e9f59f97ab3411b7",
+		"Bukkit": "6ff6e0330578458e7e0f869a8b7e7e09a63361e1",
+		"CraftBukkit": "7d31adb5f7e871581044fc8547eb723f4fad6a5d",
+		"Spigot": "b5a13e6d369902135ae04e4e218846ad10201c85"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

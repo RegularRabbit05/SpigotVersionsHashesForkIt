@@ -1,0 +1,11 @@
+{
+	"name": "999",
+	"description": "Jenkins build 999",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "0099068dbdb2e5fb31141a95ecd899441ea6fb81",
+		"CraftBukkit": "64032adfd28dbe545ce9dab346a1b9abbc56d349",
+		"Spigot": "d60de0a65bf852f67f22586fcd9e604b988224a3"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2534",
+	"description": "Jenkins build 2534",
+	"refs": {
+		"BuildData": "b5c57c4676ac2e808179bb545eef531304165d3e",
+		"Bukkit": "1bf1f3f456413d227a859929d2c5418e1535428d",
+		"CraftBukkit": "062680a826451d77e9b0822b0649809f953be3a0",
+		"Spigot": "05bb8bcfea17355cab4b4986524329c51ed5f5fc"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

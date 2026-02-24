@@ -1,0 +1,12 @@
+{
+	"name": "2538",
+	"description": "Jenkins build 2538",
+	"refs": {
+		"BuildData": "b5c57c4676ac2e808179bb545eef531304165d3e",
+		"Bukkit": "bbfd13dd14aeb217cd2730619d06fdb6dcdf23d1",
+		"CraftBukkit": "817116de01089fb23c0334579cd18b9f5e079c4f",
+		"Spigot": "05bb8bcfea17355cab4b4986524329c51ed5f5fc"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

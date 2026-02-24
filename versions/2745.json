@@ -1,0 +1,12 @@
+{
+	"name": "2745",
+	"description": "Jenkins build 2745",
+	"refs": {
+		"BuildData": "be3371e67489b5a2293306e24420793106baadc1",
+		"Bukkit": "e4db04aeb2aa92409f5f58443c721abf9e54bc9b",
+		"CraftBukkit": "1601ec31e3ef864f324369a315ec586bee4f8e33",
+		"Spigot": "6f4ff1b691828e538ae534eac66e80a1bf2c1adf"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

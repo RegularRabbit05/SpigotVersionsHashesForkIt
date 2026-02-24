@@ -1,0 +1,12 @@
+{
+	"name": "3666",
+	"description": "Jenkins build 3666",
+	"refs": {
+		"BuildData": "6dfa7428ba5c4275211f739316cd2a5f9644505d",
+		"Bukkit": "34725e60fea04078bce6824204ee5aadd53dd3fd",
+		"CraftBukkit": "2cdd5883b52e213281a8f5cae740ad9a82b61f44",
+		"Spigot": "a2190e302dde05a08e245990d97fb09184815583"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 64]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "1301",
+	"description": "Jenkins build 1301",
+	"refs": {
+		"BuildData": "ebd264edb506ff3e72e92dd16b1b68c46905972c",
+		"Bukkit": "7b5ab33d620b1d19e00152b4a0d64c160712c3b7",
+		"CraftBukkit": "2c34c38d7a521ad6808e7b962c086a63d13b1516",
+		"Spigot": "ce2a94f02b481ab9d298f5adc61d1b8aaf4ddc4d"
+	},
+	"toolsVersion": 47
+}

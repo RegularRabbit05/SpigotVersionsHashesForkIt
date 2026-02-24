@@ -1,0 +1,12 @@
+{
+	"name": "4175",
+	"description": "Jenkins build 4175",
+	"refs": {
+		"BuildData": "32d1baf2f4e0e7cd1ac22c7b2f6eb4c387e8a343",
+		"Bukkit": "6f6b2123bfd3718d3dd1c2ae5bcced29f8623d0e",
+		"CraftBukkit": "5d7d675b953b55eb93c6a57c94e960336cb62fe1",
+		"Spigot": "342f4939f5e80bdeaba2c5303efc80261b8658cf"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 66]
+}

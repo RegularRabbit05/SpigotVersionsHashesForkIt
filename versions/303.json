@@ -1,0 +1,10 @@
+{
+	"name": "303",
+	"description": "Jenkins build 303",
+	"refs": {
+		"BuildData": "946ba99fbb82b6fb2f723bded5bfdb3133f80540",
+		"Bukkit": "5bfe821f3d561d1063e1cff344a9a31dac7000b8",
+		"CraftBukkit": "0cf233dd6d9457b43201a03155242e43ff401461",
+		"Spigot": "952179b880a1aa91da6893ecf3554fbe65f73641"
+	}
+}

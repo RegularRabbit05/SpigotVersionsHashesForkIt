@@ -1,0 +1,12 @@
+{
+	"name": "4358",
+	"description": "Jenkins build 4358",
+	"refs": {
+		"BuildData": "0c5ebabcb4ce41f69a7d2319b468b6faee434038",
+		"Bukkit": "63472efba09c4112bb5a93f8c6744077dc208e82",
+		"CraftBukkit": "6bb0db5cb7eee3b5a7cd91e834fecac13fe79c35",
+		"Spigot": "5eb8a94b2f4dfefed5c71a40f87a84c34d1c8828"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 67]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "3020",
+	"description": "Jenkins build 3020",
+	"refs": {
+		"BuildData": "656df5e622bba97efb4e858e8cd3ec428a0b2d71",
+		"Bukkit": "c589f5464d0c822a21ffff763af526ef4ecfb243",
+		"CraftBukkit": "ee5006d1873170ce1ad908455f680b228096da87",
+		"Spigot": "bff526193eec525c624bf7e65f8a5239866bfcbf"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 59]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "738",
+	"description": "Jenkins build 738",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "db1761e3c9dd2a74cda188145a5d3dc9da57f712",
+		"CraftBukkit": "99f22a5c59dac803c7002ea176520c9cd91b8c35",
+		"Spigot": "5d4e372f482b9291a1255c62a6b02c754b66d5f8"
+	},
+	"toolsVersion": 47
+}

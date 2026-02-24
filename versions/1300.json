@@ -1,0 +1,11 @@
+{
+	"name": "1300",
+	"description": "Jenkins build 1300",
+	"refs": {
+		"BuildData": "ebd264edb506ff3e72e92dd16b1b68c46905972c",
+		"Bukkit": "7b5ab33d620b1d19e00152b4a0d64c160712c3b7",
+		"CraftBukkit": "1b3122eef1455f51180b3f49ab3de8d0e7bfd1d1",
+		"Spigot": "ce2a94f02b481ab9d298f5adc61d1b8aaf4ddc4d"
+	},
+	"toolsVersion": 47
+}

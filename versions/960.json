@@ -1,0 +1,11 @@
+{
+	"name": "960",
+	"description": "Jenkins build 960",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "a25e56c4b6133c9e77d0c71fc0b1db1ace430197",
+		"CraftBukkit": "4d87c3422c4f3d0576c63859e12e37c29031bbad",
+		"Spigot": "f9671b84fbd5192fdbf13c0f9072f1d608f94f2e"
+	},
+	"toolsVersion": 47
+}

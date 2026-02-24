@@ -1,0 +1,11 @@
+{
+	"name": "804",
+	"description": "Jenkins build 804",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "2a1d9d6033c8d4734dc38b8f7d42e3a7101c354a",
+		"CraftBukkit": "b103841da3263c7bce42ec5e4331ebc821bfd65e",
+		"Spigot": "5a403651d2b6da681d7aba14e3b1df8171fc5249"
+	},
+	"toolsVersion": 47
+}

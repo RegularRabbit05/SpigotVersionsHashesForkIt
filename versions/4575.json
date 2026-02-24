@@ -1,0 +1,16 @@
+{
+	"name": "4575",
+	"description": "Jenkins build 4575",
+	"refs": {
+		"BuildData": "17f77cee7117ab9d6175f088ae8962bfd04e61a9",
+		"Bukkit": "5905bd8fff152aae44cee72612910838c7f0bb80",
+		"CraftBukkit": "6975b4b974bb5a8610c6a3ef597af0ce58a6b215",
+		"Spigot": "66411b972b0dc482dc64fe1e5ffe1b976de82ccb"
+	},
+	"hashes": {
+		"CraftBukkit": "c2a0e69988d31f7c991c99d5ee3c4efcfd003cbe01ccc906741ae77e990b5a15",
+		"Spigot": "2a02a087d95ec0305583257b63ee7796a96875e9df53eac207eb067b5df36380"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 69]
+}

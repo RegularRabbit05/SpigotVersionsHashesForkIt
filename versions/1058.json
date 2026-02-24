@@ -1,0 +1,11 @@
+{
+	"name": "1058",
+	"description": "Jenkins build 1058",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "beb39797294b37e7d444d1ad62404f7a43552a2b",
+		"CraftBukkit": "2b7808f416b912d9a8ee00e1a8bd4944f0f15fc0",
+		"Spigot": "31fef093d5fe506081252010e3952d7b6b3a5476"
+	},
+	"toolsVersion": 47
+}

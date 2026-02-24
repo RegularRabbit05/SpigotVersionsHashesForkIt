@@ -1,0 +1,12 @@
+{
+	"name": "2010",
+	"description": "Jenkins build 2010",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "771db4aa6ba23afc4d4c943aad8c21302f967848",
+		"CraftBukkit": "0afed59271531c7c03c35b3fa74c63f81d3a9f75",
+		"Spigot": "7cc46316ed2375298c3beddce86dc81b6b4fe536"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "4268",
+	"description": "Jenkins build 4268",
+	"refs": {
+		"BuildData": "ae1e7b1e31cd3a3892bb05a6ccdcecc48c73c455",
+		"Bukkit": "1fe2c75a21ca3d317ba01214f8f9647d3b6f9b0e",
+		"CraftBukkit": "2c12b2187eca4d2fa8df53780cf4e0eb8a075b3b",
+		"Spigot": "5bbef5ad33ea0f6a5f743ce123b385d3d22ff3f9"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 66]
+}

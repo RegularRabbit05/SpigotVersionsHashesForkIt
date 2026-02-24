@@ -1,0 +1,12 @@
+{
+	"name": "2904",
+	"description": "Jenkins build 2904",
+	"refs": {
+		"BuildData": "2589242ccafbffaeb0a36d16e9f59f97ab3411b7",
+		"Bukkit": "0e90062a2976d944b4c58187cbd8af95b9764b11",
+		"CraftBukkit": "1d74403327235004ff05260d18efe4f573a69883",
+		"Spigot": "b5a13e6d369902135ae04e4e218846ad10201c85"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

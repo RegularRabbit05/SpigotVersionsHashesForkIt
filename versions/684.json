@@ -1,0 +1,11 @@
+{
+	"name": "684",
+	"description": "Jenkins build 684",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "84276e224728ba8385f2f956f0bb9280c9ee3fae",
+		"CraftBukkit": "75286088fe01abc77edb96b5c240f9de6da86c7c",
+		"Spigot": "8ccef51618163deb53559608cecf0f6c5c9103ca"
+	},
+    "toolsVersion": 47
+}

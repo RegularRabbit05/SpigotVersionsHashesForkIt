@@ -1,0 +1,12 @@
+{
+	"name": "4418",
+	"description": "Jenkins build 4418",
+	"refs": {
+		"BuildData": "3edaf46ec1eed4115ce1b18d2846cded42577e42",
+		"Bukkit": "ab74003f43155010cd60b62fdd7682f347369fd4",
+		"CraftBukkit": "fa10c5029fe4fbbeeca358a67db501a88123ec61",
+		"Spigot": "aa7842e06c80aab2328feb80f11abbdaed92b8d2"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 67]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2040",
+	"description": "Jenkins build 2040",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "d4e8c8b3b3e87accede8a4d1765d601313ad3d9b",
+		"CraftBukkit": "9dc56581e66ae04eb2acedc8fddc243223bc73bc",
+		"Spigot": "f56e2e787f425025af0d7410ff4cdb4f8edf7f3b"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

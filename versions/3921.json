@@ -1,0 +1,12 @@
+{
+	"name": "3921",
+	"description": "Jenkins build 3921",
+	"refs": {
+		"BuildData": "172197ceb99364701937947ea7fc424ecf1bb694",
+		"Bukkit": "5010ed00d3f83b7c7acbf4c1b16f7c89f309eb9a",
+		"CraftBukkit": "67a52a64854b21060cfd6eb7ca8bb7c2cdf02d1b",
+		"Spigot": "dba3cdc33be9abb98bb8d13b612b33b18a812db6"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

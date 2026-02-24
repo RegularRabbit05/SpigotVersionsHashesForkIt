@@ -1,0 +1,16 @@
+{
+	"name": "4454",
+	"description": "Jenkins build 4454",
+	"refs": {
+		"BuildData": "686446e5669a9aab7d35179fd989032560f289fc",
+		"Bukkit": "dde0ff02083164b4aa99d40faf9539dbd9bc2385",
+		"CraftBukkit": "743e59541b6a5f9ed7a5912e4a6ffa4f662eb76f",
+		"Spigot": "73860e064edc2599604dd46c0bc5202283e57e9c"
+	},
+	"hashes": {
+		"CraftBukkit": "1ca9c0771091c2ba3b2347d72bf3a692542cab9270c378af46308e08a4459974",
+		"Spigot": "d0e4a8f88b88db5619cccb68bc1e515ea27a4caa8212400fc28ad1bdb94edae0"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 67]
+}

@@ -1,0 +1,10 @@
+{
+	"name": "473",
+	"description": "Jenkins build 473",
+	"refs": {
+		"BuildData": "16282cac77b18aca195bb6cab1ef8055c860e21d",
+		"Bukkit": "a5af83911d4d1ea1267b256e02e080800ced298f",
+		"CraftBukkit": "e8c64031b1e4e06a918594ab349fff7e39c789ce",
+		"Spigot": "044d928e25a94cb5739469f4adfe1414c652c13a"
+	}
+}

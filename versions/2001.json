@@ -1,0 +1,12 @@
+{
+	"name": "2001",
+	"description": "Jenkins build 2001",
+	"refs": {
+		"BuildData": "370a4d9802d37f4228aa33720bdd5e9675222784",
+		"Bukkit": "0969eedc88f58ce58fc03bcd4acdfaa1ac91301c",
+		"CraftBukkit": "24c5e68c5fe1c24ab7919a3c99e1a5af764f8c4b",
+		"Spigot": "573cdf2c734efd81d75a18f0b6c64d5b4b95efa2"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

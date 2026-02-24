@@ -1,0 +1,10 @@
+{
+	"name": "401",
+	"description": "Jenkins build 401",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "8d91199e35c782e94c4dd41fdc8140f84e048ef1",
+		"CraftBukkit": "1a1bc08e38a635088c4764210e2dfa7ab6e04aba",
+		"Spigot": "2f787bd9962e65a89fa6b5954db39b101181e36a"
+	}
+}

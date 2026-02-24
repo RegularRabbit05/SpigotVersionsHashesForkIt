@@ -1,0 +1,11 @@
+{
+	"name": "1303",
+	"description": "Jenkins build 1303",
+	"refs": {
+		"BuildData": "ebd264edb506ff3e72e92dd16b1b68c46905972c",
+		"Bukkit": "7b5ab33d620b1d19e00152b4a0d64c160712c3b7",
+		"CraftBukkit": "ed8c725d1906b97ab83eaeef4b6acf187c90575a",
+		"Spigot": "53dcd96fa1e2d38d869118ae2019cf9d8769143f"
+	},
+	"toolsVersion": 47
+}

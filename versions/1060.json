@@ -1,0 +1,11 @@
+{
+	"name": "1060",
+	"description": "Jenkins build 1060",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "beb39797294b37e7d444d1ad62404f7a43552a2b",
+		"CraftBukkit": "2b7808f416b912d9a8ee00e1a8bd4944f0f15fc0",
+		"Spigot": "f950f8e3b87663d53997c2497f2ce1909c8c634a"
+	},
+	"toolsVersion": 47
+}

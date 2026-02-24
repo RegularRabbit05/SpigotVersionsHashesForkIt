@@ -1,0 +1,11 @@
+{
+	"name": "806",
+	"description": "Jenkins build 806",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "2a1d9d6033c8d4734dc38b8f7d42e3a7101c354a",
+		"CraftBukkit": "78434e8910379dc42d0c9f439d815a6f40eaf2c8",
+		"Spigot": "f972b368da8f4aa32dea47c27c5ac428b37f70d3"
+	},
+	"toolsVersion": 47
+}

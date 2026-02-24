@@ -1,0 +1,10 @@
+{
+	"name": "290",
+	"description": "Jenkins build 290",
+	"refs": {
+		"BuildData": "946ba99fbb82b6fb2f723bded5bfdb3133f80540",
+		"Bukkit": "5bfe821f3d561d1063e1cff344a9a31dac7000b8",
+		"CraftBukkit": "5c49acdcc99e7199c030df034d1a71b648283515",
+		"Spigot": "952179b880a1aa91da6893ecf3554fbe65f73641"
+	}
+}

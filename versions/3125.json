@@ -1,0 +1,12 @@
+{
+	"name": "3125",
+	"description": "Jenkins build 3125",
+	"refs": {
+		"BuildData": "3cec511b16ffa31cb414997a14be313716882e12",
+		"Bukkit": "5dcdd48e52cba9ad82bb4abfb96ade82b6c0e3d2",
+		"CraftBukkit": "bc835ae644c0d87277cff647c245f43c43654c29",
+		"Spigot": "66f9d3c17bd578dacbb87702cc0347148696e105"
+	},
+	"toolsVersion": 128,
+	"javaVersions": [60, 60]
+}

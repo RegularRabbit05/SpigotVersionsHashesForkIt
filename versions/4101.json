@@ -1,0 +1,12 @@
+{
+	"name": "4101",
+	"description": "Jenkins build 4101",
+	"refs": {
+		"BuildData": "2e2c7cd23daeeddf71226b4e604f8603d71cfca0",
+		"Bukkit": "9ea9bb32fe341b8308f6071bcc5f31c1e73a9d26",
+		"CraftBukkit": "062d2bb13b341b2bcc9a504677b2196c6f68ecb3",
+		"Spigot": "b698b49caf14f97a717afd67e13fd7ac59f51089"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [65, 66]
+}

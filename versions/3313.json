@@ -1,0 +1,12 @@
+{
+	"name": "3313",
+	"description": "Jenkins build 3313",
+	"refs": {
+		"BuildData": "09c3da501e40b5090cbd93cc91c8e5c49ce053b7",
+		"Bukkit": "d25437bce34e0cb0b7c895867183dc949ea41667",
+		"CraftBukkit": "99f3dddeacaeceedde7e076ed47e8a78dab0ee38",
+		"Spigot": "7840c2af5f487981d5a2eab4f9e832fdd7cfb298"
+	},
+	"toolsVersion": 138,
+	"javaVersions": [61, 61]
+}

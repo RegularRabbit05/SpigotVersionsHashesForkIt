@@ -1,0 +1,10 @@
+{
+	"name": "335",
+	"description": "Jenkins build 335",
+	"refs": {
+		"BuildData": "fb4caf12d7c245a08b12283ffb38a167b2e4584d",
+		"Bukkit": "fb96a1afa922ee61b6a66420f640d6fef9771145",
+		"CraftBukkit": "ee6d0fa9384fba4be2efe5ea2a0e06ba7df8df11",
+		"Spigot": "35348a58a564beb247ecc3b5ea3336614615eba2"
+	}
+}

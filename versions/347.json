@@ -1,0 +1,10 @@
+{
+	"name": "347",
+	"description": "Jenkins build 347",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "78af97dbe303df77eb9443074ee0494cd80e0ac9",
+		"CraftBukkit": "4e47c1c39302e211f23cb1e31b30d2f4b1ca58e9",
+		"Spigot": "b100cf9e7dec5b4fb2a4dcecf450cc4003eb9010"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"name": "1618",
+	"description": "Jenkins build 1618",
+	"refs": {
+		"BuildData": "a5effc614208d06202688a775f25d7b820b36d47",
+		"Bukkit": "1d21dc022e7e6905ef64f54b165e7559dfa40ade",
+		"CraftBukkit": "3e814e7b7d714b7604c01c6580f35c77a6517d0d",
+		"Spigot": "11bdb291b30fed321b346668a4b5e4ddf45229b6"
+	},
+	"toolsVersion": 75
+}

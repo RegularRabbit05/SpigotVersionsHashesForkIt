@@ -1,0 +1,12 @@
+{
+	"name": "3860",
+	"description": "Jenkins build 3860",
+	"refs": {
+		"BuildData": "faff587dcbe915bc565bf01f2d54c6af86039414",
+		"Bukkit": "82af5dc60eae0a6223be15ea4f69c560521c97a9",
+		"CraftBukkit": "4f7ff4dece765d31d78ffede958c74af777ffb5e",
+		"Spigot": "94e187b577b93759e4f46e85c892049a6baa3bcc"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 64]
+}

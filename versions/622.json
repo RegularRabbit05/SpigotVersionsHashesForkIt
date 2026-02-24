@@ -1,0 +1,11 @@
+{
+	"name": "622",
+	"description": "Jenkins build 622",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "fccf27b47d27d5bece10ccfc21770adfe89e26de",
+		"CraftBukkit": "e2c5473e0780cea305203070ac25f4c9d2369077",
+		"Spigot": "43ef9168e4a6ca98a218206170ccf51475040b41"
+	},
+    "toolsVersion": 47
+}

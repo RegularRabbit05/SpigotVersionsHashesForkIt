@@ -1,0 +1,11 @@
+{
+	"name": "641",
+	"description": "Jenkins build 641",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "c44c41ef02307f87bd978a6021a10d9b3d751d5e",
+		"CraftBukkit": "ac251f0cf9767e97ebdf1664c26cc9a565298843",
+		"Spigot": "b39373b6c56639c4aefced2044fb818a7fb4baf3"
+	},
+    "toolsVersion": 47
+}

@@ -1,0 +1,11 @@
+{
+	"name": "904",
+	"description": "Jenkins build 904",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "db2ee1f9776478e4935304a1365a7ccd100185a1",
+		"CraftBukkit": "67b242440b79352602c8328158effcd5a4c1fda9",
+		"Spigot": "a9631d283112b9a22a1a3969ad3fd9d611915589"
+	},
+	"toolsVersion": 47
+}

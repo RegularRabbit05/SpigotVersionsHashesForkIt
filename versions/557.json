@@ -1,0 +1,10 @@
+{
+	"name": "557",
+	"description": "Jenkins build 557",
+	"refs": {
+		"BuildData": "838b40587fa7a68a130b75252959bc8a3481d94f",
+		"Bukkit": "76ffae6d58900d6ffd6f4a165d03b16eac0aaf65",
+		"CraftBukkit": "d4e32cef0caaa8a81f0fe60216554fd7e0b922cb",
+		"Spigot": "76236cb74c4a1fe1a3e1b8e49b0540584b13ef08"
+	}
+}

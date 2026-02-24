@@ -1,0 +1,12 @@
+{
+	"name": "2011",
+	"description": "Jenkins build 2011",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "771db4aa6ba23afc4d4c943aad8c21302f967848",
+		"CraftBukkit": "79ded7a8cad4cd6837283a5e2a6f64705a25ef4d",
+		"Spigot": "7cc46316ed2375298c3beddce86dc81b6b4fe536"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

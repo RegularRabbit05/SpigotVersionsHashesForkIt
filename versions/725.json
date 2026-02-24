@@ -1,0 +1,11 @@
+{
+	"name": "725",
+	"description": "Jenkins build 725",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "3c2337eebff5dd9ae2497b751586def2571c9470",
+		"CraftBukkit": "616a9687a101689f8ad577446cf9caf80ee8ecd4",
+		"Spigot": "f04e043eb1aa5cb0c8450cd57d88fdb051cf99fd"
+	},
+	"toolsVersion": 47
+}

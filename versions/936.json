@@ -1,0 +1,11 @@
+{
+	"name": "936",
+	"description": "Jenkins build 936",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "78d84f67890ed0ba57c1701cfd6c1ef94e89899d",
+		"CraftBukkit": "83a9dbdef609f7e8dfd4c0a5758be72fe732d8c9",
+		"Spigot": "90f61bc448cdf47982cbeadcad280f229fe10b24"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,12 @@
+{
+	"name": "1965",
+	"description": "Jenkins build 1965",
+	"refs": {
+		"BuildData": "f527a8ff0d2f2efafc292ac7648ae3a184245a74",
+		"Bukkit": "9a793cce8c9257ce85069c531486f369ad6328f1",
+		"CraftBukkit": "97b0057ad3577bc433cc44ed44cc09263ab58f89",
+		"Spigot": "a1f2566f6906c2d67514cc6473ababaf3986f9ac"
+	},
+	"toolsVersion": 75,
+	"javaVersions": [52, 55]
+}

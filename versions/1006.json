@@ -1,0 +1,11 @@
+{
+	"name": "1006",
+	"description": "Jenkins build 1006",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "84845e07fe6b11376f21b02296522f9ae870b899",
+		"CraftBukkit": "486ba9f4817aa786c3daef979e680a8d8c470605",
+		"Spigot": "d60de0a65bf852f67f22586fcd9e604b988224a3"
+	},
+	"toolsVersion": 47
+}

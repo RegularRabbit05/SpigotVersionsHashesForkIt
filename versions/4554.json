@@ -1,0 +1,16 @@
+{
+	"name": "4554",
+	"description": "Jenkins build 4554",
+	"refs": {
+		"BuildData": "6cf716da198f9d94f9c36e36d9be6417c5c24824",
+		"Bukkit": "d508d4f895671eb242a080cff2f4221aba365e51",
+		"CraftBukkit": "91f0bbb203a2317d846768e94585fbd0d5dd5e14",
+		"Spigot": "6e369ba56125a52a628785448c15afa062a76932"
+	},
+	"hashes": {
+		"CraftBukkit": "8309f9562b7160811bd8b2219b56f35b8d021bdf263fe75915697bc1ea508fba",
+		"Spigot": "d40487da914213e379fc1096591e39620000ac2df692ad019b7a4ed5a3b8c6c2"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 69]
+}

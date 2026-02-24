@@ -1,0 +1,12 @@
+{
+	"name": "2098",
+	"description": "Jenkins build 2098",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "d13fdf8c293a3d0535d9d6fa0d8a1a24e46c5ce2",
+		"CraftBukkit": "40cbae42b17df685e2d59a6ef33d0011455bd278",
+		"Spigot": "3cb9dcb53e1a5e8c6c199abf8213f1092e3628f8"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

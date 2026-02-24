@@ -1,0 +1,12 @@
+{
+	"name": "3657",
+	"description": "Jenkins build 3657",
+	"refs": {
+		"BuildData": "177811e1fa90f674897a302820f3ed84e4d65688",
+		"Bukkit": "37262de84b9613e61809f31691e6f9db48dce0a8",
+		"CraftBukkit": "4a929b5d661fa58737f02b9a24cff4ced9bf74aa",
+		"Spigot": "19641c7577eefd3f47df12167c5e01f449bce47c"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 63]
+}

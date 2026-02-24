@@ -1,0 +1,11 @@
+{
+	"name": "817",
+	"description": "Jenkins build 817",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "d19bb5b8c5a47a395e11d2456ec86c9ffee88964",
+		"CraftBukkit": "ed60c01794282696e4cf1ae0d7c51cb49306bd55",
+		"Spigot": "e6f93f4eed1696907104cb95c00a6f6c035c82f2"
+	},
+	"toolsVersion": 47
+}

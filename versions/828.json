@@ -1,0 +1,11 @@
+{
+	"name": "828",
+	"description": "Jenkins build 828",
+	"refs": {
+		"BuildData": "9b100f8a6f0d86b5fd5f22f65dd6dd9eba6547d3",
+		"Bukkit": "329ef57aea4529ce36b9d59b22d2ce00d1c64cb0",
+		"CraftBukkit": "4e19de129580f7e2e9bf10734e09d3dbc3ca9722",
+		"Spigot": "4af49dc0abc0056b1f66f92a2ee107f9f1749a82"
+	},
+	"toolsVersion": 47
+}

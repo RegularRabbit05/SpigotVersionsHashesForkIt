@@ -1,0 +1,11 @@
+{
+	"name": "1020",
+	"description": "Jenkins build 1020",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "6c22b7154d62d5db3dc72132de1d966ca4d5a6b0",
+		"CraftBukkit": "32048c46904db321719d30a9ed2312e361f8d889",
+		"Spigot": "16c940b0677cc9065df920e1113c80b5a047ca32"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,11 @@
+{
+	"name": "588",
+	"description": "Jenkins build 588",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "499807467c9e5d6fc856131cdcb3cc94f94465cf",
+		"CraftBukkit": "5eceede8a15eb98a4fdcb1d90a0b13b477960239",
+		"Spigot": "7ebe8ffe9ae0e0cb1c237b544ffdda9324f21b8f"
+	},
+    "toolsVersion": 47
+}

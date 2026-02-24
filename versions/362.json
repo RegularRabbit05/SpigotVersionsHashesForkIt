@@ -1,0 +1,10 @@
+{
+	"name": "362",
+	"description": "Jenkins build 362",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "82f9df99196967fd21216fdc211f0e2ec3255ffd",
+		"CraftBukkit": "20ef9f5676c3c2790c96e8ec4b835c9a7e2149ef",
+		"Spigot": "529ff99cb5c9d3b678dc91909a1a4aac9f29e2c0"
+	}
+}

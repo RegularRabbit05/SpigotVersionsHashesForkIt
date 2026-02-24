@@ -1,0 +1,11 @@
+{
+	"name": "1052",
+	"description": "Jenkins build 1052",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "beb39797294b37e7d444d1ad62404f7a43552a2b",
+		"CraftBukkit": "a0d5a841daee1c7983981d87a676d3491df0bfd7",
+		"Spigot": "0f17cfb6c463710def7e7ea8b9b93d91df09231c"
+	},
+	"toolsVersion": 47
+}

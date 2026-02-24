@@ -1,0 +1,12 @@
+{
+	"name": "2624",
+	"description": "Jenkins build 2624",
+	"refs": {
+		"BuildData": "4a6af056693a191400cc4bc242823734c865c282",
+		"Bukkit": "cd0da59db5a255936bd24ee3179cfe03eb97d009",
+		"CraftBukkit": "2d151f4c33b8a61d52297fa810f22d960f1cf76c",
+		"Spigot": "c574e08b715634fcaee82dea911226f8194362a8"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

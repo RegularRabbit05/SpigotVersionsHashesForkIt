@@ -1,0 +1,12 @@
+{
+	"name": "2148-b",
+	"description": "Jenkins build 2148-b",
+	"refs": {
+		"BuildData": "8eaf2804afba334ca73c3e190cf092064c631692",
+		"Bukkit": "987016eada9da174c27b90126759a73eb21bdf76",
+		"CraftBukkit": "84f3da353f467a940c6f889b5516a73c62da1f9e",
+		"Spigot": "1a3504a4240611e2c712af645d4a82a59d764f36"
+	},
+	"toolsVersion": 93,
+	"javaVersions": [52, 56]
+}

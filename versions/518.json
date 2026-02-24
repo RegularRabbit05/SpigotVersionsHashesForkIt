@@ -1,0 +1,10 @@
+{
+	"name": "518",
+	"description": "Jenkins build 518",
+	"refs": {
+		"BuildData": "c48104cb841f7e7740aced01792b5aa79bed4278",
+		"Bukkit": "3e3e3430e2baf9d07bedad2dd2cc601d9bb7322b",
+		"CraftBukkit": "bf4818b94a4794a38c71d4a79b469e0cab9e35e4",
+		"Spigot": "6d16e64a2a50e5e1866116ffb6e59221b4f7c6bb"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "428",
+	"description": "Jenkins build 428",
+	"refs": {
+		"BuildData": "10ffe71dcde690d1b2b41786b9396434f332ecb4",
+		"Bukkit": "b333b58c05a0392f3fcf825028c058518a50d1c7",
+		"CraftBukkit": "3408adb0090bea5ced539d40fcb6a383d75f3120",
+		"Spigot": "5818108e3ac7e96e66484b36ad4bf1cda23cc6ad"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "3040",
+	"description": "Jenkins build 3040",
+	"refs": {
+		"BuildData": "f0a5ed1aeff8156ba4afa504e190c838dd1af50c",
+		"Bukkit": "b302317a9590f13ee937fa58941048c8b72fd9f8",
+		"CraftBukkit": "0e26ddb6a3f17222efa24654432b71f89b341c79",
+		"Spigot": "a25e8ed26cbca903b4d6ee3823d1b9f4f5d06cc3"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 60]
+}

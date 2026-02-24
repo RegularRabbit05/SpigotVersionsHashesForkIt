@@ -1,0 +1,12 @@
+{
+	"name": "3053",
+	"description": "Jenkins build 3053",
+	"refs": {
+		"BuildData": "f0a5ed1aeff8156ba4afa504e190c838dd1af50c",
+		"Bukkit": "1c0c52ae4faef8fa3261a9ad0a37cdb39a663237",
+		"CraftBukkit": "69c8e7850967830f7acb3aea010783b8a80a4c44",
+		"Spigot": "4225eac084af31c8b9dca9eed3f7d146f3bc3625"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 60]
+}

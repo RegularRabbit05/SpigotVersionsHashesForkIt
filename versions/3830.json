@@ -1,0 +1,12 @@
+{
+	"name": "3830",
+	"description": "Jenkins build 3830",
+	"refs": {
+		"BuildData": "faff587dcbe915bc565bf01f2d54c6af86039414",
+		"Bukkit": "f6d8d44a0292cc3251c8e20af6738be08b88016c",
+		"CraftBukkit": "36b107660433035f22f67feaee7972f897ead315",
+		"Spigot": "0ca4eb6634d789ff31d0a5128134c8c2263540e9"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 64]
+}

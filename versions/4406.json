@@ -1,0 +1,12 @@
+{
+	"name": "4406",
+	"description": "Jenkins build 4406",
+	"refs": {
+		"BuildData": "3edaf46ec1eed4115ce1b18d2846cded42577e42",
+		"Bukkit": "8c69edd891b11fe07ba239870a0365e39539c6a1",
+		"CraftBukkit": "57f48e54c273e28cb5930f07350a6fbdeaaacddc",
+		"Spigot": "33ece3efc24165112baa4177f2e9343dd922f5bf"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 67]
+}

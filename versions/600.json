@@ -1,0 +1,11 @@
+{
+	"name": "600",
+	"description": "Jenkins build 600",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "ad385cd3f6e3ab9911cfb51683ea9c4dc9cff523",
+		"CraftBukkit": "4ca1f899071572fbd5d89fe52aeaeec1e474e920",
+		"Spigot": "1a196e11b3872febd1a92e5e401389094979ebf2"
+	},
+    "toolsVersion": 47
+}

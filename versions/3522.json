@@ -1,0 +1,12 @@
+{
+	"name": "3522",
+	"description": "Jenkins build 3522",
+	"refs": {
+		"BuildData": "e6ebde42e39100b18ca0265596b04f557b2b27cc",
+		"Bukkit": "45d9c73c34736f64e2bbdf4227081be5d41dc093",
+		"CraftBukkit": "effea36a28a3a0796a6ac0cc35609573c404e73c",
+		"Spigot": "1dffefb44e3f2feaffe93434bb2e888817798d42"
+	},
+	"toolsVersion": 138,
+	"javaVersions": [61, 62]
+}

@@ -1,0 +1,10 @@
+{
+	"name": "486",
+	"description": "Jenkins build 486",
+	"refs": {
+		"BuildData": "c48104cb841f7e7740aced01792b5aa79bed4278",
+		"Bukkit": "2d21a7d62995f003071e68392296c68906c513a5",
+		"CraftBukkit": "251bc99d1e3d3a870ee39131e3f0dd24799cecb2",
+		"Spigot": "44c59bf9a81f1263d3e3860aa26c612f11eab258"
+	}
+}

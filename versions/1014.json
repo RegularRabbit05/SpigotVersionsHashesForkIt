@@ -1,0 +1,11 @@
+{
+	"name": "1014",
+	"description": "Jenkins build 1014",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "da81c56cee19f4ad6d9676682a8a43c83481e5a7",
+		"CraftBukkit": "965e2d59570877187c136fd655b34c951c1443cd",
+		"Spigot": "16c940b0677cc9065df920e1113c80b5a047ca32"
+	},
+	"toolsVersion": 47
+}

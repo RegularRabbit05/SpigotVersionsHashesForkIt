@@ -1,0 +1,11 @@
+{
+	"name": "898",
+	"description": "Jenkins build 898",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "f0973327a93ed495f86e96a3e32bc5678b66a15d",
+		"CraftBukkit": "287ef78890f06e95513c95793d401086f0484cc5",
+		"Spigot": "5391d732ffc9118bda74005a22e90efd749b3983"
+	},
+	"toolsVersion": 47
+}

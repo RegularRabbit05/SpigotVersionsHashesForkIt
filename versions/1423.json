@@ -1,0 +1,11 @@
+{
+	"name": "1423",
+	"description": "Jenkins build 1423",
+	"refs": {
+		"BuildData": "a9c4523879abc011821f06283dd468c67c3b0097",
+		"Bukkit": "cef79e55153e438d9ef4b87f4de45cd59233f01e",
+		"CraftBukkit": "53fccdf958fe3e10cb9bdb0f396a454e9ac6ead9",
+		"Spigot": "5695bca2df7302a6a911e8591591925e8852e0e9"
+	},
+	"toolsVersion": 47
+}

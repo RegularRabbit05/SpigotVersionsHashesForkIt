@@ -1,0 +1,12 @@
+{
+	"name": "2923",
+	"description": "Jenkins build 2923",
+	"refs": {
+		"BuildData": "b2025bdddde79aea004399ec5f3652a1bce56b7a",
+		"Bukkit": "ccb9614e9506fe08c159e1c566561bdacf03935d",
+		"CraftBukkit": "5c77bd28168a4ee3b2f057a1c25849c5b1502c8e",
+		"Spigot": "988b41197dad25f715bf535ec725af7c0c1a1627"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 59]
+}

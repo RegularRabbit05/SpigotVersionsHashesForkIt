@@ -1,0 +1,12 @@
+{
+	"name": "2504",
+	"description": "Jenkins build 2504",
+	"refs": {
+		"BuildData": "f845c6ee8a6d41562c71dc218c7d5b7b9eeb03d6",
+		"Bukkit": "170d7386ad0243eb9a27f4de9a296dcb08b516c6",
+		"CraftBukkit": "de42aa13f387632b360c5b1b003b212499f3f4f2",
+		"Spigot": "530f6689ba4fea0365550cc95a50d6b76bbd9dbb"
+	},
+	"toolsVersion": 101,
+	"javaVersions": [52, 57]
+}

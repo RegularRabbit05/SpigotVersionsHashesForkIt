@@ -1,0 +1,12 @@
+{
+	"name": "2564",
+	"description": "Jenkins build 2564",
+	"refs": {
+		"BuildData": "b5c57c4676ac2e808179bb545eef531304165d3e",
+		"Bukkit": "7dd1cfcdbcb7b53f66533c85d469cde5646175b7",
+		"CraftBukkit": "01334e7dcba25af640f308c64078c32387349e57",
+		"Spigot": "037559e7b4721c8a0af0ead3788733886ce9f49d"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

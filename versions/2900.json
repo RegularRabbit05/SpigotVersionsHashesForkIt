@@ -1,0 +1,12 @@
+{
+	"name": "2900",
+	"description": "Jenkins build 2900",
+	"refs": {
+		"BuildData": "2589242ccafbffaeb0a36d16e9f59f97ab3411b7",
+		"Bukkit": "565a57274a4c8259ffdd9792b70c0a9fe5adb214",
+		"CraftBukkit": "927200a96161a3cbfb0eaff1ba4474abe608298a",
+		"Spigot": "b5a13e6d369902135ae04e4e218846ad10201c85"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

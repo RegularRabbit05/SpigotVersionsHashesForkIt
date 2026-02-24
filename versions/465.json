@@ -1,0 +1,10 @@
+{
+	"name": "465",
+	"description": "Jenkins build 465",
+	"refs": {
+		"BuildData": "16282cac77b18aca195bb6cab1ef8055c860e21d",
+		"Bukkit": "d24844cdd9ed1568412ebc2ad7e6b6157ac2c26a",
+		"CraftBukkit": "55202e1f991a2c3c2cb3dff6604bf85ae812ab60",
+		"Spigot": "ae403273f82d5426db1a168ea9e457fc00f3e272"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "333",
+	"description": "Jenkins build 333",
+	"refs": {
+		"BuildData": "946ba99fbb82b6fb2f723bded5bfdb3133f80540",
+		"Bukkit": "9f071ab402a8cdab804626d58bfc19855e8a8e05",
+		"CraftBukkit": "ee6d0fa9384fba4be2efe5ea2a0e06ba7df8df11",
+		"Spigot": "8c3dd1f281a589824f56e74f9efb55ba78c0aacb"
+	}
+}

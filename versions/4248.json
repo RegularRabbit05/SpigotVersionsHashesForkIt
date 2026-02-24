@@ -1,0 +1,12 @@
+{
+	"name": "4248",
+	"description": "Jenkins build 4248",
+	"refs": {
+		"BuildData": "ae1e7b1e31cd3a3892bb05a6ccdcecc48c73c455",
+		"Bukkit": "9738f00514c04b663b24df4b514a45fce3d2f818",
+		"CraftBukkit": "ae4f5a0be5a881b0c9822048eb7d77f9b215a88c",
+		"Spigot": "491f36750240694ded097bb893aa03d5f7bb81d8"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 66]
+}

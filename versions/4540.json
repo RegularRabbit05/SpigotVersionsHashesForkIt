@@ -1,0 +1,16 @@
+{
+	"name": "4540",
+	"description": "Jenkins build 4540",
+	"refs": {
+		"BuildData": "42d18d4c4653ffc549778dbe223f6994a031d69e",
+		"Bukkit": "b6d15d8f8b03e16ffac4cc0b263f5735504b6766",
+		"CraftBukkit": "6976b0a99c0af8fe8357c8ad6dce9a96eeb42ad5",
+		"Spigot": "688b11a232392c6c672bf18fdee6f7e966c12ee4"
+	},
+	"hashes": {
+		"CraftBukkit": "902e301f6051f8bf2e8faecc86ffa9d86ecb79236d1d3d4f3dafe2a7241b785c",
+		"Spigot": "c669b4ec77246c8d0af90e4b1d466c68585047b1529215c1dc573ace278caa9e"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 69]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2008",
+	"description": "Jenkins build 2008",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "55462509c61b3e0301340aa7acacd7e1b2f5bb68",
+		"CraftBukkit": "2b2d084ac9b0782007e3f4fac6024911ae606b76",
+		"Spigot": "82e117e11381ab38167a0c29eca94bf61e014e56"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

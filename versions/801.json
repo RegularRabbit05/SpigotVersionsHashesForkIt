@@ -1,0 +1,11 @@
+{
+	"name": "801",
+	"description": "Jenkins build 801",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "85107d1f3d607cd2a38926f3abaae7d6f376eead",
+		"CraftBukkit": "f6313791d0f8575e4a3a35c11145f794b8acedd4",
+		"Spigot": "5a403651d2b6da681d7aba14e3b1df8171fc5249"
+	},
+	"toolsVersion": 47
+}

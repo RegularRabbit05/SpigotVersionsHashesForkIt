@@ -1,0 +1,11 @@
+{
+	"name": "965",
+	"description": "Jenkins build 965",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "9d85e3f475303d7f5bfe8e8b5dee1bd8509ec838",
+		"CraftBukkit": "c1b529eddc72b313fcc81c9d55b6b06200d4becb",
+		"Spigot": "570526c2b4840753183aa81995ea81008238eeb2"
+	},
+	"toolsVersion": 47
+}

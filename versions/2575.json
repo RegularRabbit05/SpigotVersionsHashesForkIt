@@ -1,0 +1,12 @@
+{
+	"name": "2575",
+	"description": "Jenkins build 2575",
+	"refs": {
+		"BuildData": "4a6af056693a191400cc4bc242823734c865c282",
+		"Bukkit": "f5b9c6840363f42b5bc64284b52033fc170cc816",
+		"CraftBukkit": "6881a108035ee461f43c39300c5bf67c49598ce7",
+		"Spigot": "652756fb4152e1ce2680579c5ec2d09b5be1d317"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

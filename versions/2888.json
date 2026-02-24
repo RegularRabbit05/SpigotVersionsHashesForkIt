@@ -1,0 +1,12 @@
+{
+	"name": "2888",
+	"description": "Jenkins build 2888",
+	"refs": {
+		"BuildData": "2589242ccafbffaeb0a36d16e9f59f97ab3411b7",
+		"Bukkit": "7d3323d84b0d2cfd60f097c7eb52bc70a2622ab9",
+		"CraftBukkit": "8c6115604b762c1e200e88a5282218c13a6f25dd",
+		"Spigot": "b5a13e6d369902135ae04e4e218846ad10201c85"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "4440",
+	"description": "Jenkins build 4440",
+	"refs": {
+		"BuildData": "3edaf46ec1eed4115ce1b18d2846cded42577e42",
+		"Bukkit": "c0ecd48cfded73f6a8c1a6182ac4f55a7c5fa9cc",
+		"CraftBukkit": "43f66f6cb76bec82e9cc12c9dd3f3ca37f0f20c4",
+		"Spigot": "e5a64e7315952650156f7c51a05d95de94b283ae"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 67]
+}

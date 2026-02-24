@@ -1,0 +1,12 @@
+{
+	"name": "2030",
+	"description": "Jenkins build 2030",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "b85cc32fcccabf25edad020a121e5d807d33b68a",
+		"CraftBukkit": "d0a9130d2401a26cb0286cfc5ee27c781992b7eb",
+		"Spigot": "8ede0393feaa75cb58e6fd711dce05d7a9bb2ce0"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

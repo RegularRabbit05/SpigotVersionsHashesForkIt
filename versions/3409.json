@@ -1,0 +1,12 @@
+{
+	"name": "3409",
+	"description": "Jenkins build 3409",
+	"refs": {
+		"BuildData": "f31eb04b918592f66c6edd17c9b5998383581ae5",
+		"Bukkit": "2af60c806780969df782dec9263094ed3ecab39b",
+		"CraftBukkit": "30b4043e2a5385518a72e6ca4b9efa664bad4a55",
+		"Spigot": "862678eabf78c1fc309e4b9cd1c38515712e7ada"
+	},
+	"toolsVersion": 138,
+	"javaVersions": [61, 61]
+}

@@ -1,0 +1,10 @@
+{
+	"name": "309",
+	"description": "Jenkins build 309",
+	"refs": {
+		"BuildData": "946ba99fbb82b6fb2f723bded5bfdb3133f80540",
+		"Bukkit": "5bfe821f3d561d1063e1cff344a9a31dac7000b8",
+		"CraftBukkit": "e81edfc7251b6c7cb19f49f1c53da5b29f5cef5b",
+		"Spigot": "8a983f97a1096aaca249cbed1882a8b98b0cc039"
+	}
+}

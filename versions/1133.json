@@ -1,0 +1,11 @@
+{
+	"name": "1133",
+	"description": "Jenkins build 1133",
+	"refs": {
+		"BuildData": "c7f29d05017084c03eb1424919ba41ed622442d8",
+		"Bukkit": "7e06c5b90030426a4200627364c70cd0c3cecee8",
+		"CraftBukkit": "613be0d8418c044807040bb4c9b72ae4c118f5cd",
+		"Spigot": "7d78b81e398e61a69a774f05f427c24f0debd4fd"
+	},
+	"toolsVersion": 47
+}

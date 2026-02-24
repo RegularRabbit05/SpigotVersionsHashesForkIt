@@ -1,0 +1,10 @@
+{
+	"name": "360",
+	"description": "Jenkins build 360",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "82f9df99196967fd21216fdc211f0e2ec3255ffd",
+		"CraftBukkit": "5cb9b70aaaef68ded762d686e950519f2972a085",
+		"Spigot": "26dfd01a77a7c77c7f253652e75d84048c9432c8"
+	}
+}

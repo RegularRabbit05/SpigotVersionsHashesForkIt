@@ -1,0 +1,11 @@
+{
+	"name": "1804",
+	"description": "Jenkins build 1804",
+	"refs": {
+		"BuildData": "351106b6336fc52f6acf94aabd34ac54fc772432",
+		"Bukkit": "fd6a980affe4ec8ba565e0866e6106ab051f97fd",
+		"CraftBukkit": "f41aae401e71f7fe00987da7ac59982016598c00",
+		"Spigot": "fe3ab0d858960183da1da1b1378c363c3da94bbb"
+	},
+	"toolsVersion": 75
+}

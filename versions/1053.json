@@ -1,0 +1,11 @@
+{
+	"name": "1053",
+	"description": "Jenkins build 1053",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "beb39797294b37e7d444d1ad62404f7a43552a2b",
+		"CraftBukkit": "281376dfb5fa05d53a2cd461db3f2d906c7a600e",
+		"Spigot": "0f17cfb6c463710def7e7ea8b9b93d91df09231c"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2108",
+	"description": "Jenkins build 2108",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "f802d0a5711b4497c7d1c92108a18b34482f5fc2",
+		"CraftBukkit": "39a287b7da8ad52ff94ba70a9a7584a9337d6f3e",
+		"Spigot": "3cb9dcb53e1a5e8c6c199abf8213f1092e3628f8"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "849a",
+	"description": "Jenkins build 849a (hotfix 2)",
+	"refs": {
+		"BuildData": "9b100f8a6f0d86b5fd5f22f65dd6dd9eba6547d3",
+		"Bukkit": "c5bf6bc614bfd1e119e7fc067ff30cd8e8221cb2",
+		"CraftBukkit": "e1d3516bef9fb294689c3a859b828af54d0f883e",
+		"Spigot": "c6871e2ccf10716e9b41deb9d3bf62426dd7314b"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,11 @@
+{
+	"name": "813",
+	"description": "Jenkins build 813",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "2a1d9d6033c8d4734dc38b8f7d42e3a7101c354a",
+		"CraftBukkit": "22dcde52c9b2e20ae5cb3339f8a2c0ce78b0f929",
+		"Spigot": "e6f93f4eed1696907104cb95c00a6f6c035c82f2"
+	},
+	"toolsVersion": 47
+}

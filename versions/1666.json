@@ -1,0 +1,11 @@
+{
+	"name": "1666",
+	"description": "Jenkins build 1666",
+	"refs": {
+		"BuildData": "351106b6336fc52f6acf94aabd34ac54fc772432",
+		"Bukkit": "b7b10ad1c3cd0c03c041e2958a37895ce6990f65",
+		"CraftBukkit": "30ab12cf4ceea49628d27e66fb06f00b9b29aa57",
+		"Spigot": "5eb39219b1987510730e082ef6c14470b11bcc5b"
+	},
+	"toolsVersion": 75
+}

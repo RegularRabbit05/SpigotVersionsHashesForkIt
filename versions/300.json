@@ -1,0 +1,10 @@
+{
+	"name": "300",
+	"description": "Jenkins build 300",
+	"refs": {
+		"BuildData": "946ba99fbb82b6fb2f723bded5bfdb3133f80540",
+		"Bukkit": "5bfe821f3d561d1063e1cff344a9a31dac7000b8",
+		"CraftBukkit": "bdd52c989299fc32d81ccbee200f6e4aeb545f93",
+		"Spigot": "952179b880a1aa91da6893ecf3554fbe65f73641"
+	}
+}

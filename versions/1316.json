@@ -1,0 +1,11 @@
+{
+	"name": "1316",
+	"description": "Jenkins build 1316",
+	"refs": {
+		"BuildData": "ebd264edb506ff3e72e92dd16b1b68c46905972c",
+		"Bukkit": "052c8e5eb578f9c62414f9002f8816e82a198cda",
+		"CraftBukkit": "a7d074c6c0842d716387c7516720208c4afe5755",
+		"Spigot": "cd6ba6798868b56caf949efe0d92fce1560b102e"
+	},
+	"toolsVersion": 47
+}

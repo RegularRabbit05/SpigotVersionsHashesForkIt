@@ -1,0 +1,11 @@
+{
+	"name": "899",
+	"description": "Jenkins build 899",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "f0973327a93ed495f86e96a3e32bc5678b66a15d",
+		"CraftBukkit": "37d08c52ca99cd748793ca715bffbb1c5c60825e",
+		"Spigot": "65a0f1170c38f06928cf916892ae863abecb6927"
+	},
+	"toolsVersion": 47
+}

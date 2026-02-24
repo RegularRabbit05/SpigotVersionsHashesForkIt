@@ -1,0 +1,10 @@
+{
+	"name": "345",
+	"description": "Jenkins build 345",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "ca4fd8554d297f3922d36328efd4612b05f9d8aa",
+		"CraftBukkit": "624c97f0813bc4557bed58a22ea35e787bcfe563",
+		"Spigot": "b100cf9e7dec5b4fb2a4dcecf450cc4003eb9010"
+	}
+}

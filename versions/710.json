@@ -1,0 +1,11 @@
+{
+	"name": "710",
+	"description": "Jenkins build 710",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "485fc0c47004dcad63c4b425a25dfd9850bc3cb6",
+		"CraftBukkit": "4cd46b242beecb828dbe193c9cb913b620e852d1",
+		"Spigot": "04266858e3436dafcb20eba5ae3c9f6d63a7c5a9"
+	},
+	"toolsVersion": 47
+}

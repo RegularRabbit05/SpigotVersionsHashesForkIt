@@ -1,0 +1,12 @@
+{
+	"name": "3073",
+	"description": "Jenkins build 3073",
+	"refs": {
+		"BuildData": "f0a5ed1aeff8156ba4afa504e190c838dd1af50c",
+		"Bukkit": "146a7e4bd764990c56bb326643e92eb69f24d27e",
+		"CraftBukkit": "32e4086604f6df169869172175a194c41422de38",
+		"Spigot": "9fb885e86def1d9d86e25233c9b5a4de45b7a09d"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 60]
+}

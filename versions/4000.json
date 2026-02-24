@@ -1,0 +1,12 @@
+{
+	"name": "4000",
+	"description": "Jenkins build 4000",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "0c7aedbceabcf05dde0a483001acd3d957e06c03",
+		"CraftBukkit": "1da8d9a53aae24ae8dd8e1329b204157901c43fd",
+		"Spigot": "6e87b9ab50879fcff4d65ef191e38adb48036c26"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

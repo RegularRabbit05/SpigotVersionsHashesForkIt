@@ -1,0 +1,11 @@
+{
+	"name": "1003",
+	"description": "Jenkins build 1003",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "c6bf40e4e7600e252157f97e394720e3ca3a9f9c",
+		"CraftBukkit": "d8c6364c4ca791d595b592167d25b8f28ac2fa3c",
+		"Spigot": "d60de0a65bf852f67f22586fcd9e604b988224a3"
+	},
+	"toolsVersion": 47
+}

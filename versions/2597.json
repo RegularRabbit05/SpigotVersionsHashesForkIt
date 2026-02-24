@@ -1,0 +1,12 @@
+{
+	"name": "2597",
+	"description": "Jenkins build 2597",
+	"refs": {
+		"BuildData": "4a6af056693a191400cc4bc242823734c865c282",
+		"Bukkit": "ed75537d1ea5e34eb2f1339c70487faab485a606",
+		"CraftBukkit": "d82b3149449ac18429eb57690a0e96177808c424",
+		"Spigot": "bcd458ad9bbe58a5fb5e3992518ec1b626376aa4"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

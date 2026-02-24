@@ -1,0 +1,11 @@
+{
+	"name": "1581",
+	"description": "Jenkins build 1581",
+	"refs": {
+		"BuildData": "a5effc614208d06202688a775f25d7b820b36d47",
+		"Bukkit": "8ef78e74f2ed68035d59fc97ac6c5adc476e15c1",
+		"CraftBukkit": "fe7db9d53b7ccaf5be93a64ec1a89b2e3af6a0f7",
+		"Spigot": "6505f06b355d5f1ea0fff2d0e8edbd60b2f75354"
+	},
+	"toolsVersion": 75
+}

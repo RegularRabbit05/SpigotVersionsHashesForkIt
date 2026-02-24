@@ -1,0 +1,11 @@
+{
+	"name": "1543",
+	"description": "Jenkins build 1543",
+	"refs": {
+		"BuildData": "a9c4523879abc011821f06283dd468c67c3b0097",
+		"Bukkit": "bf61ffc26b4845816da86e9ce53c29b7263fb7a7",
+		"CraftBukkit": "fb423b8f48335d0dc6c88cd8a24ee07d82ae09a8",
+		"Spigot": "b6ecf3b31636d08e0bac78dd21adc3b0a8ca70ed"
+	},
+	"toolsVersion": 47
+}

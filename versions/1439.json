@@ -1,0 +1,11 @@
+{
+	"name": "1439",
+	"description": "Jenkins build 1439",
+	"refs": {
+		"BuildData": "a9c4523879abc011821f06283dd468c67c3b0097",
+		"Bukkit": "ebed1f62a85a6fcd643de6cbb1a26489f9ed67aa",
+		"CraftBukkit": "82f3b02c675ded7f1c70f84468717a37dfdcf27c",
+		"Spigot": "d21162c022608caa31619b4d2ead39e808947df9"
+	},
+	"toolsVersion": 47
+}

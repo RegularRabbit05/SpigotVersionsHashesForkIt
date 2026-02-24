@@ -1,0 +1,12 @@
+{
+	"name": "3768",
+	"description": "Jenkins build 3768",
+	"refs": {
+		"BuildData": "2881c6b6dd146126596342d4025d37a9a84a0b03",
+		"Bukkit": "3635fe1a771a768acc67a9ab8b3ea184fc724bae",
+		"CraftBukkit": "5f7bd4d78ab8bd50e4245699ea38e9c65a88d021",
+		"Spigot": "81b9def3c89c26289118ed0e43ec4df167edd56c"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 64]
+}

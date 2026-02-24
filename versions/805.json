@@ -1,0 +1,11 @@
+{
+	"name": "805",
+	"description": "Jenkins build 805",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "2a1d9d6033c8d4734dc38b8f7d42e3a7101c354a",
+		"CraftBukkit": "b103841da3263c7bce42ec5e4331ebc821bfd65e",
+		"Spigot": "f972b368da8f4aa32dea47c27c5ac428b37f70d3"
+	},
+	"toolsVersion": 47
+}

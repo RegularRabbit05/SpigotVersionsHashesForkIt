@@ -1,0 +1,11 @@
+{
+	"name": "595",
+	"description": "Jenkins build 595",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "c633591e52e0ecd4f4d146ebd8231659b4b87479",
+		"CraftBukkit": "4831c56cdb3d6cbabdc6a87f755d6ebd659a2459",
+		"Spigot": "604e0463ec2e64e129e137aa516d29a169e86b16"
+	},
+    "toolsVersion": 47
+}

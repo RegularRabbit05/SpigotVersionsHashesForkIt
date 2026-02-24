@@ -1,0 +1,11 @@
+{
+	"name": "1703",
+	"description": "Jenkins build 1703",
+	"refs": {
+		"BuildData": "351106b6336fc52f6acf94aabd34ac54fc772432",
+		"Bukkit": "47e3d2954d0dd279c93524baec241b76acaef7c7",
+		"CraftBukkit": "212fd0f230cb8eebe43e977f171e147c9d85ac71",
+		"Spigot": "69774b3e4419d3213023b46dc791214bd39f48d6"
+	},
+	"toolsVersion": 75
+}

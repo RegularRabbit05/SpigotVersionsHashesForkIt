@@ -1,0 +1,12 @@
+{
+	"name": "3191",
+	"description": "Jenkins build 3191",
+	"refs": {
+		"BuildData": "a4785704979a469daa2b7f6826c84e7fe886bb03",
+		"Bukkit": "e409fe498bfd5c8155ea03e7d02725b04c6d732c",
+		"CraftBukkit": "699f2d36b06dd1c50f8f7fa37989a5e2d54acf36",
+		"Spigot": "d03d7f12a440519dd6f4d1491af3a7988a56b5c0"
+	},
+	"toolsVersion": 128,
+	"javaVersions": [60, 60]
+}

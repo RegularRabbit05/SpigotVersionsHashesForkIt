@@ -1,0 +1,12 @@
+{
+	"name": "3587",
+	"description": "Jenkins build 3587",
+	"refs": {
+		"BuildData": "d96ad8e1e64b7c35bb632339c23621353be1f028",
+		"Bukkit": "9ae3f10f8fa50a825af823131c468c36da3be880",
+		"CraftBukkit": "dc57aa358022f2c611f261a5e0cd6e8aef24bf78",
+		"Spigot": "4c157bb49aa5705967b066e9c2dec5520f720b22"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 62]
+}

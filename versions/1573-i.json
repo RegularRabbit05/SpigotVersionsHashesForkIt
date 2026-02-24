@@ -1,0 +1,12 @@
+{
+	"name": "1573-i",
+	"description": "Jenkins build 1573-i",
+	"refs": {
+		"BuildData": "be360cc298a06b5355ecd057f5b1feb894a73f0f",
+		"Bukkit": "558fdf5f54b0f527cd48903daf9368ac4b862876",
+		"CraftBukkit": "acbc348e925cbdbae41b2055d60bbe40031d470c",
+		"Spigot": "e8ded36bc9c1661fc04f83762e3e0e94a273787b"
+	},
+	"toolsVersion": 47,
+	"javaVersions": [52, 54]
+}

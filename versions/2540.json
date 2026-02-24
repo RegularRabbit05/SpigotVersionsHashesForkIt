@@ -1,0 +1,12 @@
+{
+	"name": "2540",
+	"description": "Jenkins build 2540",
+	"refs": {
+		"BuildData": "b5c57c4676ac2e808179bb545eef531304165d3e",
+		"Bukkit": "bbfd13dd14aeb217cd2730619d06fdb6dcdf23d1",
+		"CraftBukkit": "7d677e7b139ca2c5e83e637ef0135c40040d8c8e",
+		"Spigot": "05bb8bcfea17355cab4b4986524329c51ed5f5fc"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "4333",
+	"description": "Jenkins build 4333",
+	"refs": {
+		"BuildData": "533b02cd6ba8dbf8c8607250b02bf2d8c36421e8",
+		"Bukkit": "133a64a73dd5607294d6b76d9176437f19721f74",
+		"CraftBukkit": "fc5b2d75f53eadbcbd56b2bc5f1a2bc29a5c25fc",
+		"Spigot": "a759b629cbf86401aab56b8c3f21a635e9e76c15"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 66]
+}

@@ -1,0 +1,10 @@
+{
+	"name": "292",
+	"description": "Jenkins build 292",
+	"refs": {
+		"BuildData": "946ba99fbb82b6fb2f723bded5bfdb3133f80540",
+		"Bukkit": "5bfe821f3d561d1063e1cff344a9a31dac7000b8",
+		"CraftBukkit": "a956d73f1024a83a219e9235906db57a9da6963a",
+		"Spigot": "952179b880a1aa91da6893ecf3554fbe65f73641"
+	}
+}

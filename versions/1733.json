@@ -1,0 +1,11 @@
+{
+	"name": "1733",
+	"description": "Jenkins build 1733",
+	"refs": {
+		"BuildData": "351106b6336fc52f6acf94aabd34ac54fc772432",
+		"Bukkit": "df94b61d25e4b957a4e727b16d2813bb91cf8fc9",
+		"CraftBukkit": "a3b7e3433a01a5266c774912d71cb8451dcf7daf",
+		"Spigot": "69774b3e4419d3213023b46dc791214bd39f48d6"
+	},
+	"toolsVersion": 75
+}

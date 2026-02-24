@@ -1,0 +1,11 @@
+{
+	"name": "1700",
+	"description": "Jenkins build 1700",
+	"refs": {
+		"BuildData": "351106b6336fc52f6acf94aabd34ac54fc772432",
+		"Bukkit": "47e3d2954d0dd279c93524baec241b76acaef7c7",
+		"CraftBukkit": "392108bf94d4377f3a6b517a7f549ca41872c34e",
+		"Spigot": "69774b3e4419d3213023b46dc791214bd39f48d6"
+	},
+	"toolsVersion": 75
+}

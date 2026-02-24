@@ -1,0 +1,12 @@
+{
+	"name": "2990",
+	"description": "Jenkins build 2990",
+	"refs": {
+		"BuildData": "656df5e622bba97efb4e858e8cd3ec428a0b2d71",
+		"Bukkit": "85b16b8a5f044eb8d38375c23e8968641d18a933",
+		"CraftBukkit": "f3f30947e07c4ea07dcbf41129c2ca830a73fd4d",
+		"Spigot": "018b9a0d5a7a03eeabe2b2d7d74bca56db2e9949"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 59]
+}

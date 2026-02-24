@@ -1,0 +1,16 @@
+{
+	"name": "4581",
+	"description": "Jenkins build 4581",
+	"refs": {
+		"BuildData": "17f77cee7117ab9d6175f088ae8962bfd04e61a9",
+		"Bukkit": "5905bd8fff152aae44cee72612910838c7f0bb80",
+		"CraftBukkit": "267bc71198e3e70f4245cff0abd8e36b00f98830",
+		"Spigot": "66411b972b0dc482dc64fe1e5ffe1b976de82ccb"
+	},
+	"hashes": {
+		"CraftBukkit": "fa738f2b2818df77930fc5cec4d0e90f295902e28b571445755e7b31315e9396",
+		"Spigot": "4fb2a020eeb168ab1ce603b91692362bb6bcb224416fbf35aa9a55d773c08a04"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 69]
+}

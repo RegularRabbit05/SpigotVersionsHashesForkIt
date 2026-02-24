@@ -1,0 +1,11 @@
+{
+	"name": "1348",
+	"description": "Jenkins build 1348",
+	"refs": {
+		"BuildData": "ebd264edb506ff3e72e92dd16b1b68c46905972c",
+		"Bukkit": "c86a051a8ee61331cf827c429030ba056fb3aa0d",
+		"CraftBukkit": "70be90e1686ca510c4bba0fa9d4d368f753f7a8a",
+		"Spigot": "722832861f0300f0b1e9d9079b0085bca5387ce2"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,12 @@
+{
+	"name": "4035",
+	"description": "Jenkins build 4035",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "a23292a7868c72582a7bfbe8e6c36a6838a525ce",
+		"CraftBukkit": "4398a1b5b913c1c901242feae528d24e9e7fe79d",
+		"Spigot": "c198da22a814a0ba9c3128c3a9946286e0839b5a"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

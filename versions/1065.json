@@ -1,0 +1,11 @@
+{
+	"name": "1065",
+	"description": "Jenkins build 1065",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "daec93fe81b52a67e92607649b9b3e7e14d6b905",
+		"CraftBukkit": "0a1e0455e2dea43657debc158a1b1a2282e5516d",
+		"Spigot": "f950f8e3b87663d53997c2497f2ce1909c8c634a"
+	},
+	"toolsVersion": 47
+}

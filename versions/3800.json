@@ -1,0 +1,12 @@
+{
+	"name": "3800",
+	"description": "Jenkins build 3800",
+	"refs": {
+		"BuildData": "faff587dcbe915bc565bf01f2d54c6af86039414",
+		"Bukkit": "f1dd65ed73b7cca00527ff81d02ce4d27c456a37",
+		"CraftBukkit": "789324e30ad757190763aad5997152dae4baf338",
+		"Spigot": "bed8c61f55c6af77ae202c57842de8899bc8a59b"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 64]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "1013",
+	"description": "Jenkins build 1013",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "da81c56cee19f4ad6d9676682a8a43c83481e5a7",
+		"CraftBukkit": "0805f60443907287a362219b74c1402885bb33a8",
+		"Spigot": "16c940b0677cc9065df920e1113c80b5a047ca32"
+	},
+	"toolsVersion": 47
+}

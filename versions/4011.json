@@ -1,0 +1,12 @@
+{
+	"name": "4011",
+	"description": "Jenkins build 4011",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "b125516c6e0dba0e145e9bd5b8a9f9d83d1e3d53",
+		"CraftBukkit": "76931e8bd4ee3a494d5a8eab07173b02c5968467",
+		"Spigot": "864e4acc0db6ad9899f269740823a23d082d18d0"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

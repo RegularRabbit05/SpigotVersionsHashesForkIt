@@ -1,0 +1,11 @@
+{
+	"name": "1420",
+	"description": "Jenkins build 1420",
+	"refs": {
+		"BuildData": "a9c4523879abc011821f06283dd468c67c3b0097",
+		"Bukkit": "cef79e55153e438d9ef4b87f4de45cd59233f01e",
+		"CraftBukkit": "1257322d1fe41a7c43c698f977ff7a44922c21fe",
+		"Spigot": "93e20b3652e42c34d30c306592aaec7fd3a41504"
+	},
+	"toolsVersion": 47
+}

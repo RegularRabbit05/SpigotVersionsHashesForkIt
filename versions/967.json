@@ -1,0 +1,11 @@
+{
+	"name": "967",
+	"description": "Jenkins build 967",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "450225fe17a930d7bb0de2d646c4a892d5bdcd7e",
+		"CraftBukkit": "9558f31ebb5fe059c10c3590ce92a5f6d3dc3902",
+		"Spigot": "047f737bbf62d3a396c317a58fd9b4034603ee00"
+	},
+	"toolsVersion": 47
+}

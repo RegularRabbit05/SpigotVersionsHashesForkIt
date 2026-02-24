@@ -1,0 +1,12 @@
+{
+	"name": "4249",
+	"description": "Jenkins build 4249",
+	"refs": {
+		"BuildData": "ae1e7b1e31cd3a3892bb05a6ccdcecc48c73c455",
+		"Bukkit": "9738f00514c04b663b24df4b514a45fce3d2f818",
+		"CraftBukkit": "cfe29350be4476bee8a4b8550b41ef017d7f5b2a",
+		"Spigot": "491f36750240694ded097bb893aa03d5f7bb81d8"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 66]
+}

@@ -1,0 +1,10 @@
+{
+	"name": "397",
+	"description": "Jenkins build 397",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "8d91199e35c782e94c4dd41fdc8140f84e048ef1",
+		"CraftBukkit": "96c2c39245073771052345af933174a29bd87d56",
+		"Spigot": "4c7d0c07e1721dfc9de18d59e4e182a525d418f1"
+	}
+}

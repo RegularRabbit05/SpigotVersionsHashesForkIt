@@ -1,0 +1,12 @@
+{
+	"name": "4034",
+	"description": "Jenkins build 4034",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "a23292a7868c72582a7bfbe8e6c36a6838a525ce",
+		"CraftBukkit": "e74107678c38b222e5b9bbf47f2dae0d8b261bd0",
+		"Spigot": "c198da22a814a0ba9c3128c3a9946286e0839b5a"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

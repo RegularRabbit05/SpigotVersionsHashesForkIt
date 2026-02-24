@@ -1,0 +1,12 @@
+{
+	"name": "2048",
+	"description": "Jenkins build 2048",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "35a83d54e6b8cf9d0627534c414cc97c1597cd10",
+		"CraftBukkit": "50fbc3f190390b75d3a58612e4c42a9f5c09d556",
+		"Spigot": "f56e2e787f425025af0d7410ff4cdb4f8edf7f3b"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2006",
+	"description": "Jenkins build 2006",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "2f3ce5b66e7ee173cdb99379cb7aa5d8b89b7e8d",
+		"CraftBukkit": "01a9959aaf6efe5693902209f390e7621b775492",
+		"Spigot": "82e117e11381ab38167a0c29eca94bf61e014e56"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

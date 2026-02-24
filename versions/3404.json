@@ -1,0 +1,12 @@
+{
+	"name": "3404",
+	"description": "Jenkins build 3404",
+	"refs": {
+		"BuildData": "f31eb04b918592f66c6edd17c9b5998383581ae5",
+		"Bukkit": "b99d4c162c7bd74eb54af3355f71ff0c2acda8e7",
+		"CraftBukkit": "e0a6aa36e8b737c689d48b3e5262c9a5067083ae",
+		"Spigot": "f4ff00ffa451bd116cfbab3bd9d83b42e93904dd"
+	},
+	"toolsVersion": 138,
+	"javaVersions": [61, 61]
+}

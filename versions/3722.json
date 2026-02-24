@@ -1,0 +1,12 @@
+{
+	"name": "3722",
+	"description": "Jenkins build 3722",
+	"refs": {
+		"BuildData": "4d9436f7b66190ad21fe4e3975b73a36b7ad2a7e",
+		"Bukkit": "aeb62aa331de90cf1a39f9be40725fd53d20a1b1",
+		"CraftBukkit": "cb6f3c0286d752d68c95d1524dedf08eb21945c5",
+		"Spigot": "d2fdfe39154577ac5ee1dac1672eab79a9577dc2"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 64]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "764",
+	"description": "Jenkins build 764",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "56605a05f6c85762d46b0b76b9eb20cfc7991e7e",
+		"CraftBukkit": "23ce4d1b96edfbd47c7ad400b233fefb5a55dd64",
+		"Spigot": "861713a12f437e5f7223481e83ee5ba91154678e"
+	},
+	"toolsVersion": 47
+}

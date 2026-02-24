@@ -1,0 +1,12 @@
+{
+	"name": "2927",
+	"description": "Jenkins build 2927",
+	"refs": {
+		"BuildData": "b2025bdddde79aea004399ec5f3652a1bce56b7a",
+		"Bukkit": "b45a7eedcfcd975eaa8b75a4d719b220a8263796",
+		"CraftBukkit": "29dd68eb99bc890790a757d59d07e864dce98a4f",
+		"Spigot": "988b41197dad25f715bf535ec725af7c0c1a1627"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 59]
+}

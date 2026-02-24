@@ -1,0 +1,11 @@
+{
+	"name": "1108",
+	"description": "Jenkins build 1108",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "55fa63e8b9c8f5f315f3d631fad2096a008074df",
+		"CraftBukkit": "4602331b1dfe3699e054bcde8b8bd5670eb1046b",
+		"Spigot": "aad97c46dc16cdb9acc1117709590ebd96c19b66"
+	},
+	"toolsVersion": 47
+}

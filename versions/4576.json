@@ -1,0 +1,16 @@
+{
+	"name": "4576",
+	"description": "Jenkins build 4576",
+	"refs": {
+		"BuildData": "17f77cee7117ab9d6175f088ae8962bfd04e61a9",
+		"Bukkit": "5905bd8fff152aae44cee72612910838c7f0bb80",
+		"CraftBukkit": "6975b4b974bb5a8610c6a3ef597af0ce58a6b215",
+		"Spigot": "66411b972b0dc482dc64fe1e5ffe1b976de82ccb"
+	},
+	"hashes": {
+		"CraftBukkit": "b05451a49e24745980c9fba84689378ffbd95ac1e8f73adc295776460071be30",
+		"Spigot": "1f525fbb6a5ff2ffa57b6ca43c0d8343de4ec0538d1adb97053397647415be49"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 69]
+}

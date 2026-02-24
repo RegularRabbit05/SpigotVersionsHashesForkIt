@@ -1,0 +1,11 @@
+{
+	"name": "1593",
+	"description": "Jenkins build 1593",
+	"refs": {
+		"BuildData": "a5effc614208d06202688a775f25d7b820b36d47",
+		"Bukkit": "b4aadc575dfefb3fc2e18f1376149c7c8fd23ee1",
+		"CraftBukkit": "00bba6e86f4d102a3f806b7b940b96fc5ed6866c",
+		"Spigot": "6505f06b355d5f1ea0fff2d0e8edbd60b2f75354"
+	},
+	"toolsVersion": 75
+}

@@ -1,0 +1,12 @@
+{
+	"name": "1999",
+	"description": "Jenkins build 1999",
+	"refs": {
+		"BuildData": "370a4d9802d37f4228aa33720bdd5e9675222784",
+		"Bukkit": "16453bfddb70fd6341715489fe34740bbff8980c",
+		"CraftBukkit": "fe89a8c1bbab24915dacf615ea516043f7678605",
+		"Spigot": "573cdf2c734efd81d75a18f0b6c64d5b4b95efa2"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "1189",
+	"description": "Jenkins build 1189",
+	"refs": {
+		"BuildData": "8df2731012bb6887630ce7ebd4c7220eabe49a07",
+		"Bukkit": "b3034fbbd682d4ccd389cb5b9c6f0eb86e98bc8f",
+		"CraftBukkit": "eac85911f0f4c4252676515dbc1c4db938dde8df",
+		"Spigot": "283de8b687227d823f4f27992e1ee5f8e690fe23"
+	},
+	"toolsVersion": 47
+}

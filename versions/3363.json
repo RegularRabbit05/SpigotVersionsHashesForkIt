@@ -1,0 +1,12 @@
+{
+	"name": "3363",
+	"description": "Jenkins build 3363",
+	"refs": {
+		"BuildData": "f31eb04b918592f66c6edd17c9b5998383581ae5",
+		"Bukkit": "5906bed05d29c64af69983e2521cc3e9060d95ec",
+		"CraftBukkit": "e36f7599d64ed22674f8d51733d3b5d5fa1e0bdb",
+		"Spigot": "f65de01fa82909bd90444c24e49436771663e9c3"
+	},
+	"toolsVersion": 138,
+	"javaVersions": [61, 61]
+}

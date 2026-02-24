@@ -1,0 +1,12 @@
+{
+	"name": "4405",
+	"description": "Jenkins build 4405",
+	"refs": {
+		"BuildData": "3edaf46ec1eed4115ce1b18d2846cded42577e42",
+		"Bukkit": "8c69edd891b11fe07ba239870a0365e39539c6a1",
+		"CraftBukkit": "669b413938803154372d53289d1697b2982ab1c3",
+		"Spigot": "33ece3efc24165112baa4177f2e9343dd922f5bf"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 67]
+}

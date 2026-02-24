@@ -1,0 +1,12 @@
+{
+	"name": "2870",
+	"description": "Jenkins build 2870",
+	"refs": {
+		"BuildData": "2589242ccafbffaeb0a36d16e9f59f97ab3411b7",
+		"Bukkit": "18e9d9315b72ee85bff8ba10c849b72f994f9ae1",
+		"CraftBukkit": "8abed406ce026fb0a86d62606ccc64b22ab0432d",
+		"Spigot": "379750e0474d4ed87bbbf715545fe2e75c0ca4e9"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

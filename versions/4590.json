@@ -1,0 +1,16 @@
+{
+	"name": "4590",
+	"description": "Jenkins build 4590",
+	"refs": {
+		"BuildData": "fe93867b0f6afc60232e1c4ae883b7b11d73880a",
+		"Bukkit": "772a7157b6b61f143ca1a3c6992f8d9ca63576b1",
+		"CraftBukkit": "2746e0b134537b3b73ac26073714bc30e77d6691",
+		"Spigot": "da5d8774d6a60c389dbbf140d516cf80ed882602"
+	},
+	"hashes": {
+		"CraftBukkit": "656d2316e1360beeb213d89c611c89eec631d81bd536370e25a12759d23337eb",
+		"Spigot": "92793d7fb43f0018ab4406a64f150f71106465a326b70271814e0662192373b4"
+	},
+	"toolsVersion": 197,
+	"javaVersions": [65, 69]
+}

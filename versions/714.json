@@ -1,0 +1,11 @@
+{
+	"name": "714",
+	"description": "Jenkins build 714",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "485fc0c47004dcad63c4b425a25dfd9850bc3cb6",
+		"CraftBukkit": "02b26eec0e4be4f8e6df1f7d6c8b3601c7c604a5",
+		"Spigot": "04266858e3436dafcb20eba5ae3c9f6d63a7c5a9"
+	},
+	"toolsVersion": 47
+}

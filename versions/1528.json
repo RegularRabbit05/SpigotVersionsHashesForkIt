@@ -1,0 +1,11 @@
+{
+	"name": "1528",
+	"description": "Jenkins build 1528",
+	"refs": {
+		"BuildData": "a9c4523879abc011821f06283dd468c67c3b0097",
+		"Bukkit": "c03d8909d9822d1e8fe62a2e1550ae765f940893",
+		"CraftBukkit": "bacaf9274bb3c83b40e84d1671f4958e8298a491",
+		"Spigot": "4bd94dc87d622db89bd58f414ffa479348775e88"
+	},
+	"toolsVersion": 47
+}

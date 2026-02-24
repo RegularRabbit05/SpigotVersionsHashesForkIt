@@ -1,0 +1,12 @@
+{
+	"name": "2074",
+	"description": "Jenkins build 2074",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "bb813f6f69028b8effd085244d33fec70cbb30f9",
+		"CraftBukkit": "2ced02339aeb75e0c59014b1543e75f85f3dac36",
+		"Spigot": "b0f4c22b92c82146214dad69ea296ab7034592d8"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

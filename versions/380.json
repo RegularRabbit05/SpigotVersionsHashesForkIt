@@ -1,0 +1,10 @@
+{
+	"name": "380",
+	"description": "Jenkins build 380",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "dcd92097e987ccd4030fa11135cf5147d6b6f7ad",
+		"CraftBukkit": "1cccea969ec4e0c73233e9fe47237628ad2a385d",
+		"Spigot": "7bd386951cf24cc325d8886ce169a44785475d08"
+	}
+}

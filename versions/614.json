@@ -1,0 +1,11 @@
+{
+	"name": "614",
+	"description": "Jenkins build 614",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "cbd3ac315311b2882bfeab44ad7ac2074c77bc06",
+		"CraftBukkit": "ed8cef0edb8058ff9d5f452956e3b63036c64875",
+		"Spigot": "3af460505f0f852ca0f508d082f7576dc1062f59"
+	},
+    "toolsVersion": 47
+}

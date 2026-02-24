@@ -1,0 +1,12 @@
+{
+	"name": "3310",
+	"description": "Jenkins build 3310",
+	"refs": {
+		"BuildData": "8581e449a3490934f8bfa8b36d45842393dc8a20",
+		"Bukkit": "ea30a299e948f5545b0ad042bd8e11716aeaa7f2",
+		"CraftBukkit": "a58fde42cc9cd946db4c502a91dfe5cdf314fade",
+		"Spigot": "c07753b057d92ef6c0f9ad8e8446f51bcc37604d"
+	},
+	"toolsVersion": 138,
+	"javaVersions": [61, 61]
+}

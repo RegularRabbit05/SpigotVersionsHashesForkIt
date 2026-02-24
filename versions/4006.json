@@ -1,0 +1,12 @@
+{
+	"name": "4006",
+	"description": "Jenkins build 4006",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "2b198268e935716dc669f9dfb2e29c5114e64747",
+		"CraftBukkit": "4e419c774cf3186e42c9e8bba0dfe2fcf6c69e60",
+		"Spigot": "828f059332b479c47d3b7928cc7947d82faf4638"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

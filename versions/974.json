@@ -1,0 +1,11 @@
+{
+	"name": "974",
+	"description": "Jenkins build 974",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "450225fe17a930d7bb0de2d646c4a892d5bdcd7e",
+		"CraftBukkit": "e20928f7da265577c771b63ca7ce49c35ef19b2b",
+		"Spigot": "850da7e0741c8af9a852d495092dc98249162950"
+	},
+	"toolsVersion": 47
+}

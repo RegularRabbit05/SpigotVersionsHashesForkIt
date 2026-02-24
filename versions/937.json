@@ -1,0 +1,11 @@
+{
+	"name": "937",
+	"description": "Jenkins build 937",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "78d84f67890ed0ba57c1701cfd6c1ef94e89899d",
+		"CraftBukkit": "29e1d72893f5eae579d5a4e0b5102b797d565c99",
+		"Spigot": "90f61bc448cdf47982cbeadcad280f229fe10b24"
+	},
+	"toolsVersion": 47
+}

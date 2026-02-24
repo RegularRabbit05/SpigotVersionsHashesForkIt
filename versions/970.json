@@ -1,0 +1,11 @@
+{
+	"name": "970",
+	"description": "Jenkins build 970",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "450225fe17a930d7bb0de2d646c4a892d5bdcd7e",
+		"CraftBukkit": "70aace03129560549b84d7a6b3896308248311ef",
+		"Spigot": "047f737bbf62d3a396c317a58fd9b4034603ee00"
+	},
+	"toolsVersion": 47
+}

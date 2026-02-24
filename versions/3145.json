@@ -1,0 +1,12 @@
+{
+	"name": "3145",
+	"description": "Jenkins build 3145",
+	"refs": {
+		"BuildData": "3cec511b16ffa31cb414997a14be313716882e12",
+		"Bukkit": "ebb0e28d11747aa0bb4bb39fad8979ccfaa925b6",
+		"CraftBukkit": "f992ce6097f846ed5967fc797d98ae3e84ef1b10",
+		"Spigot": "9472b09d5fa46afc41871d063689b5ddd89764b3"
+	},
+	"toolsVersion": 128,
+	"javaVersions": [60, 60]
+}

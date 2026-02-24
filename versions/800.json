@@ -1,0 +1,11 @@
+{
+	"name": "800",
+	"description": "Jenkins build 800",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "85107d1f3d607cd2a38926f3abaae7d6f376eead",
+		"CraftBukkit": "1e2fcb38e4a20cb0839d1b22103b04661cc9f229",
+		"Spigot": "5a403651d2b6da681d7aba14e3b1df8171fc5249"
+	},
+	"toolsVersion": 47
+}

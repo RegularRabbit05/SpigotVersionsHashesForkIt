@@ -1,0 +1,12 @@
+{
+	"name": "3016",
+	"description": "Jenkins build 3016",
+	"refs": {
+		"BuildData": "656df5e622bba97efb4e858e8cd3ec428a0b2d71",
+		"Bukkit": "95ff95ed62d42bc96c0d6396d9192ebfaaf5ce93",
+		"CraftBukkit": "ea050e6e980a3dee733c572194d675692b30136f",
+		"Spigot": "73fb6094f4fa318955bb5bb11a1ec1af12cf90a1"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 59]
+}

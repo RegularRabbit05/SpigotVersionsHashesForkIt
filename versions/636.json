@@ -1,0 +1,11 @@
+{
+	"name": "636",
+	"description": "Jenkins build 636",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "c44c41ef02307f87bd978a6021a10d9b3d751d5e",
+		"CraftBukkit": "94ba82430263ebb42632f51bc266c5a0297c10b7",
+		"Spigot": "87e2f4705fe9fcffd9ea810978ac7ec531f0fab9"
+	},
+    "toolsVersion": 47
+}

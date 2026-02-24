@@ -1,0 +1,12 @@
+{
+	"name": "2093",
+	"description": "Jenkins build 2093",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "217dc08dff6ff9d0482f7952b9555ff66d31800a",
+		"CraftBukkit": "acbba8badd83c5a66f60f5a608b052a89287425e",
+		"Spigot": "e5e5c7c6d438c89ced4041c0d3361ae9e6bcc177"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

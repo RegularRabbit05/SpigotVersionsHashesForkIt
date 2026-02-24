@@ -1,0 +1,11 @@
+{
+	"name": "1086",
+	"description": "Jenkins build 1086",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "b7a392c072a92bdeef8e6fc1e2849740bdb1ccca",
+		"CraftBukkit": "bfbd868a37b8c02e34965469cde894b3cbe0331a",
+		"Spigot": "f950f8e3b87663d53997c2497f2ce1909c8c634a"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,16 @@
+{
+	"name": "4594",
+	"description": "Jenkins build 4594",
+	"refs": {
+		"BuildData": "fe93867b0f6afc60232e1c4ae883b7b11d73880a",
+		"Bukkit": "06106afa3ae66fd8699ddc35ec3b7e75dbf55cd3",
+		"CraftBukkit": "249c293b860e4f337ec6081cf78dc2027bcf3551",
+		"Spigot": "da5d8774d6a60c389dbbf140d516cf80ed882602"
+	},
+	"hashes": {
+		"CraftBukkit": "3ce95506f3d09ead74b9a90f922e13fcde56afe46b42f1b573f023cc3b0b030d",
+		"Spigot": "a1e8f94dd4dfcd0445631f0498b3190df2dd2abed880aa0021b6d57da16b0db1"
+	},
+	"toolsVersion": 197,
+	"javaVersions": [65, 69]
+}

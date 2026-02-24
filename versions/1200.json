@@ -1,0 +1,11 @@
+{
+	"name": "1200",
+	"description": "Jenkins build 1200",
+	"refs": {
+		"BuildData": "8df2731012bb6887630ce7ebd4c7220eabe49a07",
+		"Bukkit": "9bddba5df799013ffb309d62a40db3a5d044da60",
+		"CraftBukkit": "91c315273e441625e1a78d8ba65ec126ece37818",
+		"Spigot": "b605b31852cde6278bbdf329135841bae3e4c499"
+	},
+	"toolsVersion": 47
+}

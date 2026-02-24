@@ -1,0 +1,11 @@
+{
+	"name": "1090",
+	"description": "Jenkins build 1090",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "b7a392c072a92bdeef8e6fc1e2849740bdb1ccca",
+		"CraftBukkit": "0fa1ad23ed52d1d5b8bcc8ca73783d11a56b93cb",
+		"Spigot": "f950f8e3b87663d53997c2497f2ce1909c8c634a"
+	},
+	"toolsVersion": 47
+}

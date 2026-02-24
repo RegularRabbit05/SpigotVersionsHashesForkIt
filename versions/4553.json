@@ -1,0 +1,16 @@
+{
+	"name": "4553",
+	"description": "Jenkins build 4553",
+	"refs": {
+		"BuildData": "6cf716da198f9d94f9c36e36d9be6417c5c24824",
+		"Bukkit": "570b7be3920fe82f34ccd112fec3371c2f0fe444",
+		"CraftBukkit": "91f0bbb203a2317d846768e94585fbd0d5dd5e14",
+		"Spigot": "6e369ba56125a52a628785448c15afa062a76932"
+	},
+	"hashes": {
+		"CraftBukkit": "57b5f575176db3b7e980c8103905d66e0eb6b29994e49c4bf1e42d17b9c83742",
+		"Spigot": "cf756f20f365936630961244c001a61696b3055555b1da135ef2747183e9d88f"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 69]
+}

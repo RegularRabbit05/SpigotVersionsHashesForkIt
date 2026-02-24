@@ -1,0 +1,12 @@
+{
+	"name": "3603",
+	"description": "Jenkins build 3603",
+	"refs": {
+		"BuildData": "d96ad8e1e64b7c35bb632339c23621353be1f028",
+		"Bukkit": "9a4de0976907a81c4089cf5e8434155e77960145",
+		"CraftBukkit": "48f3a2258b22c0a68c586e0359da4b6ee3fc21d1",
+		"Spigot": "1aec3fc14916eb7dfd6b1fa8a41cd071b57ded50"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 63]
+}

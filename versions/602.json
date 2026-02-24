@@ -1,0 +1,11 @@
+{
+	"name": "602",
+	"description": "Jenkins build 602",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "ad385cd3f6e3ab9911cfb51683ea9c4dc9cff523",
+		"CraftBukkit": "92602ad172d792ba43de7e8b8b7df4953e75b9ab",
+		"Spigot": "1a196e11b3872febd1a92e5e401389094979ebf2"
+	},
+    "toolsVersion": 47
+}

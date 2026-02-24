@@ -1,0 +1,12 @@
+{
+	"name": "2720",
+	"description": "Jenkins build 2720",
+	"refs": {
+		"BuildData": "be3371e67489b5a2293306e24420793106baadc1",
+		"Bukkit": "6f3c5f4a5a0867ef265df9d58b48bdc43079e3dd",
+		"CraftBukkit": "72c080cca676de402eeff1fc55650441db922bee",
+		"Spigot": "758abbeee4e12f5ff65470999dd9955d0ebb49cd"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

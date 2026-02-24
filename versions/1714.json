@@ -1,0 +1,11 @@
+{
+	"name": "1714",
+	"description": "Jenkins build 1714",
+	"refs": {
+		"BuildData": "351106b6336fc52f6acf94aabd34ac54fc772432",
+		"Bukkit": "235aa19c407f548f8f9b75394b5012dc5b861820",
+		"CraftBukkit": "3b8f5be77be456fa291a8089ba10ddbad1cb82b6",
+		"Spigot": "69774b3e4419d3213023b46dc791214bd39f48d6"
+	},
+	"toolsVersion": 75
+}

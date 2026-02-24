@@ -1,0 +1,12 @@
+{
+	"name": "2025",
+	"description": "Jenkins build 2025",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "ffccf6b7e9b5a37440df364ed94fff6af34483e0",
+		"CraftBukkit": "8e65d8df6cce009a76d0cb05e396f1bdc8c87c81",
+		"Spigot": "518206a1d250cdc7ae6448383ea9063f69c766c4"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

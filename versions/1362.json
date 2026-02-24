@@ -1,0 +1,11 @@
+{
+	"name": "1362",
+	"description": "Jenkins build 1362",
+	"refs": {
+		"BuildData": "ebd264edb506ff3e72e92dd16b1b68c46905972c",
+		"Bukkit": "650f5090d6dee8e7921eb55f43bf4ccee4470e82",
+		"CraftBukkit": "5c4864398d5773ec209fb8dd64fa146c38930f73",
+		"Spigot": "596221bf2ffd4e694d008406f7940a8a041a71fb"
+	},
+	"toolsVersion": 47
+}

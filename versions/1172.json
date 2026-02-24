@@ -1,0 +1,11 @@
+{
+	"name": "1172",
+	"description": "Jenkins build 1172",
+	"refs": {
+		"BuildData": "8df2731012bb6887630ce7ebd4c7220eabe49a07",
+		"Bukkit": "ba3e9b43b2db4869061a50014dc01501f5a24fd3",
+		"CraftBukkit": "1a710213df1c7dd1d23cf3ec8fab1f3039d6d534",
+		"Spigot": "65a03470106fdceec943006e8b9b1cb3f5b89235"
+	},
+	"toolsVersion": 47
+}

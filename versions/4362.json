@@ -1,0 +1,12 @@
+{
+	"name": "4362",
+	"description": "Jenkins build 4362",
+	"refs": {
+		"BuildData": "0c5ebabcb4ce41f69a7d2319b468b6faee434038",
+		"Bukkit": "97c5926140420c7b9e8a06b2b8348b1816f2a6bd",
+		"CraftBukkit": "7235ad7b04542ce214869eb1ec1966bb392aedc7",
+		"Spigot": "5eb8a94b2f4dfefed5c71a40f87a84c34d1c8828"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 67]
+}

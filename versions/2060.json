@@ -1,0 +1,12 @@
+{
+	"name": "2060",
+	"description": "Jenkins build 2060",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "2b6f3d7f79bbe684764cdc14ac21aae6dfcd9cad",
+		"CraftBukkit": "13f71402e8a26a8beb6f7d4c74cd0985c7a8dbda",
+		"Spigot": "f56e2e787f425025af0d7410ff4cdb4f8edf7f3b"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

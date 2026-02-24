@@ -1,0 +1,12 @@
+{
+	"name": "3716",
+	"description": "Jenkins build 3716",
+	"refs": {
+		"BuildData": "4d9436f7b66190ad21fe4e3975b73a36b7ad2a7e",
+		"Bukkit": "5efeb7bdbfa459cd0a59aa6a8941ff962662617f",
+		"CraftBukkit": "c4c0bb0e9431d1ae2707220167d0ec4f29644b38",
+		"Spigot": "b31949f2f33ef94ed07dbe37fb00939cf049a989"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 64]
+}

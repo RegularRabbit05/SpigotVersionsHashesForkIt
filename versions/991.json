@@ -1,0 +1,11 @@
+{
+	"name": "991",
+	"description": "Jenkins build 991",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "ac338aa46c95600372e0b9d7f8e8f7a4c6f84c45",
+		"CraftBukkit": "c25ddf063a808e3adb749e22017661f403c5fb7e",
+		"Spigot": "d60de0a65bf852f67f22586fcd9e604b988224a3"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,10 @@
+{
+	"name": "403",
+	"description": "Jenkins build 403",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "8d91199e35c782e94c4dd41fdc8140f84e048ef1",
+		"CraftBukkit": "35d953bac8222289e039fb2c736020e94699c195",
+		"Spigot": "2f787bd9962e65a89fa6b5954db39b101181e36a"
+	}
+}

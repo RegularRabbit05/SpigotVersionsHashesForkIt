@@ -1,0 +1,12 @@
+{
+	"name": "4231",
+	"description": "Jenkins build 4231",
+	"refs": {
+		"BuildData": "ae1e7b1e31cd3a3892bb05a6ccdcecc48c73c455",
+		"Bukkit": "02161cb4b4291ab2c7fcd7a0a786a43c64a7d885",
+		"CraftBukkit": "5e46f1c82135013a06ddb1ef819c2b96a8fe45aa",
+		"Spigot": "1aabe506c6ba5accd09d7447f68821db9c33987b"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 66]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "1432",
+	"description": "Jenkins build 1432",
+	"refs": {
+		"BuildData": "a9c4523879abc011821f06283dd468c67c3b0097",
+		"Bukkit": "11f70ddb4786ada16e597a86bd43af50ccaefdb7",
+		"CraftBukkit": "3e3bbd42724e3c5e691f4aebfbdf5e1e784c1f68",
+		"Spigot": "95dd09703307e923ccd31aeb1e5744c01df2a1b7"
+	},
+	"toolsVersion": 47
+}

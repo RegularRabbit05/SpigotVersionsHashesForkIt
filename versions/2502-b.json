@@ -1,0 +1,12 @@
+{
+	"name": "2502-b",
+	"description": "Jenkins build 2502-b",
+	"refs": {
+		"BuildData": "2dbde4c18d3b3e34142da21d42cea4b1beb33d7d",
+		"Bukkit": "8b6dd103832def3e8d1a7c3cdb98cde9826d543c",
+		"CraftBukkit": "009d8af6810dc25eb22f21eaebee096390e95253",
+		"Spigot": "cbd1a1bd0db7bd113bea0436ff7e5c0112f553f7"
+	},
+	"toolsVersion": 101,
+	"javaVersions": [52, 57]
+}

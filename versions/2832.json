@@ -1,0 +1,12 @@
+{
+	"name": "2832",
+	"description": "Jenkins build 2832",
+	"refs": {
+		"BuildData": "be3371e67489b5a2293306e24420793106baadc1",
+		"Bukkit": "ef0999fee4bdd7005bf5e0d787ebf0c96ec1167a",
+		"CraftBukkit": "8b831a965200a2ba7d1c01d720e265565ae9f4d4",
+		"Spigot": "05090020ed6f9fe4c24f1b7ff81299621e70755b"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

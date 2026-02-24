@@ -1,0 +1,11 @@
+{
+	"name": "592",
+	"description": "Jenkins build 592",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "6b1594cb519371243d8dc1c1775f2cf4eda31745",
+		"CraftBukkit": "3879b98ac23ca9c473e9cfd7d8e51b66a272b968",
+		"Spigot": "ee4e41a2e067df78edb50ca8ecff8f8d5376a392"
+	},
+    "toolsVersion": 47
+}

@@ -1,0 +1,12 @@
+{
+	"name": "4016",
+	"description": "Jenkins build 4016",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "63c208dd3f16a0874b5e21348c35ce9e5c829d03",
+		"CraftBukkit": "771182f70cd789f3d220cfef80876845a48ebec5",
+		"Spigot": "864e4acc0db6ad9899f269740823a23d082d18d0"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

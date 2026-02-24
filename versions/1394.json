@@ -1,0 +1,11 @@
+{
+	"name": "1394",
+	"description": "Jenkins build 1394",
+	"refs": {
+		"BuildData": "206f6172a057dcb5243f17f99af6495f2af364cf",
+		"Bukkit": "a9d0c37ce4142bb7e4ccb9ef0668aec2828f6294",
+		"CraftBukkit": "178caf9ac289d9e9d274e6ba421ea390bc5755b0",
+		"Spigot": "65e8124d1adfa77a02ecd619be8ee28f3e89cafd"
+	},
+	"toolsVersion": 47
+}

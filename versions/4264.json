@@ -1,0 +1,12 @@
+{
+	"name": "4264",
+	"description": "Jenkins build 4264",
+	"refs": {
+		"BuildData": "ae1e7b1e31cd3a3892bb05a6ccdcecc48c73c455",
+		"Bukkit": "a8e278f03b6ada12f8d83a1997183d13dd55075a",
+		"CraftBukkit": "812761660c9b5cbfe813ef6c4f61a6f2bcbb213a",
+		"Spigot": "491f36750240694ded097bb893aa03d5f7bb81d8"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 66]
+}

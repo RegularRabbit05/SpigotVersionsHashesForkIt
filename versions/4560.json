@@ -1,0 +1,16 @@
+{
+	"name": "4560",
+	"description": "Jenkins build 4560",
+	"refs": {
+		"BuildData": "6cf716da198f9d94f9c36e36d9be6417c5c24824",
+		"Bukkit": "ec08701b63ad49717c896ef19832a92765de159a",
+		"CraftBukkit": "63acc159f20e0c01f47561c072b8ec96c1bb6b1c",
+		"Spigot": "6e369ba56125a52a628785448c15afa062a76932"
+	},
+	"hashes": {
+		"CraftBukkit": "15138ddbf5a37addf0d832bf4f8c548643635f069363a60002a35b5b1df7bede",
+		"Spigot": "0fc1bec701d12cf755ef00b2d87730c25be7375ae974d385fbc7b101dead544c"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 69]
+}

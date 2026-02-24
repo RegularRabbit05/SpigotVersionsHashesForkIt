@@ -1,0 +1,11 @@
+{
+	"name": "783",
+	"description": "Jenkins build 783",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "8ce4d2f45fbdb7cd85346b220f6a9d34f2000910",
+		"CraftBukkit": "f326992b8b4df295dc35b06e8c3701c7b4397c9b",
+		"Spigot": "a1b8bf3530b3f83fbd94cc8624d05426b0d9de5f"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,11 @@
+{
+	"name": "695",
+	"description": "Jenkins build 695",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "a09454032a06eeeb9e405167a9a4aff02b4ce0f9",
+		"CraftBukkit": "55a85357a6d5118fbb2d3117d596ae83aae34239",
+		"Spigot": "6f291eaafcba6387f4365eb8215f229f7950c3dc"
+	},
+    "toolsVersion": 47
+}

@@ -1,0 +1,12 @@
+{
+	"name": "3681",
+	"description": "Jenkins build 3681",
+	"refs": {
+		"BuildData": "4d9436f7b66190ad21fe4e3975b73a36b7ad2a7e",
+		"Bukkit": "3a54fb167d6354b6e39f5027bcde56641f487b8f",
+		"CraftBukkit": "cef8bd993373b452866f66c39bc31b95a293570d",
+		"Spigot": "41150f3919a43f833c5c81734afc71ad419c6816"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 64]
+}

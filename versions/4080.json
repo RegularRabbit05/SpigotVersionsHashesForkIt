@@ -1,0 +1,12 @@
+{
+	"name": "4080",
+	"description": "Jenkins build 4080",
+	"refs": {
+		"BuildData": "a9c23e0aa2429445ce39109e093bce0d89a14ab3",
+		"Bukkit": "9756fccce8ab1434014b162b30579db8d8d81063",
+		"CraftBukkit": "1703691225940c39733592ae483dad61fcb33989",
+		"Spigot": "b754dccf0c43518a34701b863125fde5a9fbbd32"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 66]
+}

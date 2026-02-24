@@ -1,0 +1,11 @@
+{
+	"name": "993",
+	"description": "Jenkins build 993",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "bf804e6e4a9f51c646d8e1e81023f29ed18d7da6",
+		"CraftBukkit": "a951a88398d88c4823aedde5e88beb352fa38b64",
+		"Spigot": "d60de0a65bf852f67f22586fcd9e604b988224a3"
+	},
+	"toolsVersion": 47
+}

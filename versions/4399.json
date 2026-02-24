@@ -1,0 +1,12 @@
+{
+	"name": "4399",
+	"description": "Jenkins build 4399",
+	"refs": {
+		"BuildData": "3edaf46ec1eed4115ce1b18d2846cded42577e42",
+		"Bukkit": "3339db1661695d48bf170e58c24c4f8021ddced7",
+		"CraftBukkit": "ff9a8bf8287245918b691aca892f7517e0930a02",
+		"Spigot": "33ece3efc24165112baa4177f2e9343dd922f5bf"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 67]
+}

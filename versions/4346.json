@@ -1,0 +1,12 @@
+{
+	"name": "4346",
+	"description": "Jenkins build 4346",
+	"refs": {
+		"BuildData": "0ea6fcc9bc8ad9e7c729f5031123bcc69ce2b033",
+		"Bukkit": "205360171ca27ce7e5cf0d4cded89d26d404194b",
+		"CraftBukkit": "4ee88e81e40e597b006efd369777888d66ccc015",
+		"Spigot": "a084d85da8604d468f81091f56dc81166d912931"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 67]
+}

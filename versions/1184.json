@@ -1,0 +1,11 @@
+{
+	"name": "1184",
+	"description": "Jenkins build 1184",
+	"refs": {
+		"BuildData": "8df2731012bb6887630ce7ebd4c7220eabe49a07",
+		"Bukkit": "65310d01a355a2ff4088e8bafc24020752ad8c63",
+		"CraftBukkit": "4316a8c246428aa7cf154198efe18d2252971651",
+		"Spigot": "283de8b687227d823f4f27992e1ee5f8e690fe23"
+	},
+	"toolsVersion": 47
+}

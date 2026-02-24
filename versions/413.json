@@ -1,0 +1,10 @@
+{
+	"name": "413",
+	"description": "Jenkins build 413",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "8d91199e35c782e94c4dd41fdc8140f84e048ef1",
+		"CraftBukkit": "ab309d78c687f70b0e2c05cd2179cecb82d44cb4",
+		"Spigot": "52df9dd70f032a5e763929d01090bc88ad0e9602"
+	}
+}

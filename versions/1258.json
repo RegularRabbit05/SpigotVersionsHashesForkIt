@@ -1,0 +1,11 @@
+{
+	"name": "1258",
+	"description": "Jenkins build 1258",
+	"refs": {
+		"BuildData": "f4d4fd9c0ff899191e17fb7f7a3673f5529c0e05",
+		"Bukkit": "2b64e53a2c1d6bd8c0454283cf3d001089b140de",
+		"CraftBukkit": "743252dbe56e69e7c75aeacb5ecb768c52c6bee7",
+		"Spigot": "429b0e3b082cc23ac8c9813994c27b23262860e0"
+	},
+	"toolsVersion": 47
+}

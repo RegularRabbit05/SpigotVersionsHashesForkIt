@@ -1,0 +1,12 @@
+{
+	"name": "4065",
+	"description": "Jenkins build 4065",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "2611967663a357fe1c9e2d8d67d796deb13cd659",
+		"CraftBukkit": "06d915943c90badfd0064f5b0fdce6f02594ce71",
+		"Spigot": "e9ec54852f825ba470576cd1b5a33b0d76091fbe"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

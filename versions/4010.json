@@ -1,0 +1,12 @@
+{
+	"name": "4010",
+	"description": "Jenkins build 4010",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "309497c12f5f1ded04d75b216acb75d71658a49d",
+		"CraftBukkit": "76931e8bd4ee3a494d5a8eab07173b02c5968467",
+		"Spigot": "864e4acc0db6ad9899f269740823a23d082d18d0"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "906",
+	"description": "Jenkins build 906",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "c87a3104aed9d252da92241c0a5b5eef19ffe038",
+		"CraftBukkit": "2239ff0f97cc894157a1246da707804d9e89be7f",
+		"Spigot": "a9631d283112b9a22a1a3969ad3fd9d611915589"
+	},
+	"toolsVersion": 47
+}

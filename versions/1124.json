@@ -1,0 +1,11 @@
+{
+	"name": "1124",
+	"description": "Jenkins build 1124",
+	"refs": {
+		"BuildData": "c7f29d05017084c03eb1424919ba41ed622442d8",
+		"Bukkit": "b2f4716e05e089f5b85ab3ac5d0eca124120bcbe",
+		"CraftBukkit": "056af8b9c2ea790721ce19e05e90be7731fa69c1",
+		"Spigot": "7d78b81e398e61a69a774f05f427c24f0debd4fd"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,11 @@
+{
+	"name": "1337",
+	"description": "Jenkins build 1337",
+	"refs": {
+		"BuildData": "ebd264edb506ff3e72e92dd16b1b68c46905972c",
+		"Bukkit": "d01a9a06ad79797315c75c9f64f65b9982356e30",
+		"CraftBukkit": "477fb2bb7257503a7c15d5f1e0857d4cbf26971f",
+		"Spigot": "23b6354742083ff4b613da6129a70ef94ede3d90"
+	},
+	"toolsVersion": 47
+}

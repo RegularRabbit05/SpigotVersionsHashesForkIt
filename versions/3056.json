@@ -1,0 +1,12 @@
+{
+	"name": "3056",
+	"description": "Jenkins build 3056",
+	"refs": {
+		"BuildData": "f0a5ed1aeff8156ba4afa504e190c838dd1af50c",
+		"Bukkit": "a030a41b0dc44d2865eab705c82d07741e3ecb42",
+		"CraftBukkit": "6f55b5b8883b1bd2a8661478e078be359fad1294",
+		"Spigot": "4225eac084af31c8b9dca9eed3f7d146f3bc3625"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 60]
+}

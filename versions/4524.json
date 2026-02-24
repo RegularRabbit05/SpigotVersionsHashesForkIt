@@ -1,0 +1,16 @@
+{
+	"name": "4524",
+	"description": "Jenkins build 4524",
+	"refs": {
+		"BuildData": "62f9b85b300b6bbf1c559e379567699a6e281cec",
+		"Bukkit": "8fff56f36fb2ba2c5ce3ed1aaa86e03038ee8326",
+		"CraftBukkit": "26087634c789fd81f91bb2817eb8f466eb0fa74e",
+		"Spigot": "7c52c662ccee93e52a21c54a1b8f93721e4ec773"
+	},
+	"hashes": {
+		"CraftBukkit": "1f048ad96dbaa4b45b33895c85d6a2b0d9c4d1f91ddeaf98e4a66395ec203f32",
+		"Spigot": "3d31e3d5feb2acedee794055268308f3cbb6d091caa0bf989b761b6131833043"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 68]
+}

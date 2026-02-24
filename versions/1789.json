@@ -1,0 +1,11 @@
+{
+	"name": "1789",
+	"description": "Jenkins build 1789",
+	"refs": {
+		"BuildData": "351106b6336fc52f6acf94aabd34ac54fc772432",
+		"Bukkit": "7ba8d63388f6263d052cac1b541ba12c795696c4",
+		"CraftBukkit": "7c341e9beb46de47af7c9fae5857abdbe6f7a549",
+		"Spigot": "fe3ab0d858960183da1da1b1378c363c3da94bbb"
+	},
+	"toolsVersion": 75
+}

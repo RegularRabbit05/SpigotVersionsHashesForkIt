@@ -1,0 +1,11 @@
+{
+	"name": "869",
+	"description": "Jenkins build 869",
+	"refs": {
+		"BuildData": "cede5450c952c76341e047b8d04f9894f16e596d",
+		"Bukkit": "82821325a6b1645d5607057e9656ef3689f5ae1a",
+		"CraftBukkit": "f642d4bcc3ee5a6e29876a213544f4502cfc863c",
+		"Spigot": "6016ac773a4f7bb51b82cdc0e8c87a6a8b164ceb"
+	},
+	"toolsVersion": 47
+}

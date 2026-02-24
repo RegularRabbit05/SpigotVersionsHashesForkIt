@@ -1,0 +1,11 @@
+{
+	"name": "711",
+	"description": "Jenkins build 711",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "485fc0c47004dcad63c4b425a25dfd9850bc3cb6",
+		"CraftBukkit": "105df861edd5af531681378274419bca42cdbe05",
+		"Spigot": "04266858e3436dafcb20eba5ae3c9f6d63a7c5a9"
+	},
+	"toolsVersion": 47
+}

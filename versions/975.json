@@ -1,0 +1,11 @@
+{
+	"name": "975",
+	"description": "Jenkins build 975",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "450225fe17a930d7bb0de2d646c4a892d5bdcd7e",
+		"CraftBukkit": "8e5e90d5eba3253fc7d77943b64a71d50ff1422c",
+		"Spigot": "850da7e0741c8af9a852d495092dc98249162950"
+	},
+	"toolsVersion": 47
+}

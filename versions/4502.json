@@ -1,0 +1,16 @@
+{
+	"name": "4502",
+	"description": "Jenkins build 4502",
+	"refs": {
+		"BuildData": "9b48cd40193ae9f0cebbadce39052a242485eb4c",
+		"Bukkit": "c80061286e3bb33d611e1034fe6794ab98256582",
+		"CraftBukkit": "e74f0d2d704e9738984cbdc50e5fdfa52b325123",
+		"Spigot": "270012a3149d0a6e4200bcbb8dde44fc63dbe863"
+	},
+	"hashes": {
+		"CraftBukkit": "da1ff3dada2833976886620aadd28fef4b35cc44d14fb9b1583f55e86e1c3dfd",
+		"Spigot": "f5d0e75298e252524af2374719153e7e5a85194520950b0b18f9312b73c66f84"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 68]
+}

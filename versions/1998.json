@@ -1,0 +1,12 @@
+{
+	"name": "1998",
+	"description": "Jenkins build 1998",
+	"refs": {
+		"BuildData": "370a4d9802d37f4228aa33720bdd5e9675222784",
+		"Bukkit": "78568d11d3ad8bb1f6a90c1b5dff3394f22f12fc",
+		"CraftBukkit": "fc1024944e753cbd231e25fceee39391b89f8053",
+		"Spigot": "573cdf2c734efd81d75a18f0b6c64d5b4b95efa2"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

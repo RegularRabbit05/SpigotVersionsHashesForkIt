@@ -1,0 +1,11 @@
+{
+	"name": "693",
+	"description": "Jenkins build 693",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "58b2aab4746e91a03e5f67b9f8b864ca0d21aaba",
+		"CraftBukkit": "6026dad12479bef92ca7a51ca2f9009207843e82",
+		"Spigot": "6f291eaafcba6387f4365eb8215f229f7950c3dc"
+	},
+    "toolsVersion": 47
+}

@@ -1,0 +1,11 @@
+{
+	"name": "1642",
+	"description": "Jenkins build 1642",
+	"refs": {
+		"BuildData": "a5effc614208d06202688a775f25d7b820b36d47",
+		"Bukkit": "6014108495394835c6c168d7604818bca3d2e869",
+		"CraftBukkit": "49ac8a74461de1c2571296e300de001a93e00c75",
+		"Spigot": "83d9d09afb65204de4f6050c4033d482dd2a0d6a"
+	},
+	"toolsVersion": 75
+}

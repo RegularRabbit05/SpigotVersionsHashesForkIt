@@ -1,0 +1,11 @@
+{
+	"name": "887",
+	"description": "Jenkins build 887",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "0631f168ea99e6f32a1c79fae9abf3341ab98c3b",
+		"CraftBukkit": "75f99ec7c5c3d7281d73f03d79e3339abcb59faa",
+		"Spigot": "687a0190ef59611cca4cba981e17b4881c51df17"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2748",
+	"description": "Jenkins build 2748",
+	"refs": {
+		"BuildData": "be3371e67489b5a2293306e24420793106baadc1",
+		"Bukkit": "3284612a10e704b4658aa087213a3fa9670b6926",
+		"CraftBukkit": "983305bb4a8601367e31f44b691f6e598bde9d0c",
+		"Spigot": "33ea98fc42b85d2849346d8831b6403ac95b4baa"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

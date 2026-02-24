@@ -1,0 +1,11 @@
+{
+	"name": "982",
+	"description": "Jenkins build 982",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "b80e520acb9f3e5a14a92a06c08c470290b323cb",
+		"CraftBukkit": "709783c1313d28d96375c4e944af6b36a33d7285",
+		"Spigot": "72c26058df3d4c3a8d2e2b3255d3a032623a01f0"
+	},
+	"toolsVersion": 47
+}

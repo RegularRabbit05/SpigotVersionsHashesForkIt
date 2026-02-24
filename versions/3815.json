@@ -1,0 +1,12 @@
+{
+	"name": "3815",
+	"description": "Jenkins build 3815",
+	"refs": {
+		"BuildData": "faff587dcbe915bc565bf01f2d54c6af86039414",
+		"Bukkit": "f2bb168e06e3d35c2e0756dbdb945a71bd22e878",
+		"CraftBukkit": "9f64f0d22a39a5356e2a31f84eeb1b3ef60fe3cf",
+		"Spigot": "64b565e63452c1ed4bd472a5fb25c8935b60d436"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 64]
+}

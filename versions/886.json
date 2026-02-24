@@ -1,0 +1,11 @@
+{
+	"name": "886",
+	"description": "Jenkins build 886",
+	"refs": {
+		"BuildData": "da49b96b47c219f2284ec3f25939e223cf17665d",
+		"Bukkit": "da1195392ac6db7015a83165a01b9c62b8380a24",
+		"CraftBukkit": "1953f52da1ece0feb56dea20592c1b86616b31a5",
+		"Spigot": "c3e4052b69acbcf52439c51ae8b0d65a4b1bb98a"
+	},
+	"toolsVersion": 47
+}

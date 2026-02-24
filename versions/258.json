@@ -1,0 +1,10 @@
+{
+	"name": "258",
+	"description": "Jenkins build 258",
+	"refs": {
+		"BuildData": "c6fee81b6145012635654dfed3560abba911dbb2",
+		"Bukkit": "685a7d4b66147864e52a2687a5d2a2bf14d8a491",
+		"CraftBukkit": "faa27ed29807dad2ad7594f89b4795f1a6be4413",
+		"Spigot": "7297fbdcb860cff681bb9365eafbbf98bf54e118"
+	}
+}

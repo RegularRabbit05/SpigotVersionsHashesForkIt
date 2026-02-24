@@ -1,0 +1,12 @@
+{
+	"name": "2506",
+	"description": "Jenkins build 2506",
+	"refs": {
+		"BuildData": "f845c6ee8a6d41562c71dc218c7d5b7b9eeb03d6",
+		"Bukkit": "170d7386ad0243eb9a27f4de9a296dcb08b516c6",
+		"CraftBukkit": "4633e6c5c74ce0015e995bc7675819ee00a83869",
+		"Spigot": "f39a89ef2d9083acae5a1e09d5991409213b0a89"
+	},
+	"toolsVersion": 101,
+	"javaVersions": [52, 57]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2906",
+	"description": "Jenkins build 2906",
+	"refs": {
+		"BuildData": "2589242ccafbffaeb0a36d16e9f59f97ab3411b7",
+		"Bukkit": "0e90062a2976d944b4c58187cbd8af95b9764b11",
+		"CraftBukkit": "a939fbdf0b07cb8289d243d67e737a63eb773c43",
+		"Spigot": "b5a13e6d369902135ae04e4e218846ad10201c85"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

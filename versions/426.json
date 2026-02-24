@@ -1,0 +1,10 @@
+{
+	"name": "426",
+	"description": "Jenkins build 426. Spigot 1.8.4",
+	"refs": {
+		"BuildData": "10ffe71dcde690d1b2b41786b9396434f332ecb4",
+		"Bukkit": "b333b58c05a0392f3fcf825028c058518a50d1c7",
+		"CraftBukkit": "db5fd9c79ec48151092c649cd6e8ae90c08b1786",
+		"Spigot": "5818108e3ac7e96e66484b36ad4bf1cda23cc6ad"
+	}
+}

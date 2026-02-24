@@ -1,0 +1,12 @@
+{
+	"name": "4083",
+	"description": "Jenkins build 4083",
+	"refs": {
+		"BuildData": "a9c23e0aa2429445ce39109e093bce0d89a14ab3",
+		"Bukkit": "507052e1128db859c297492d6467cfe06715a428",
+		"CraftBukkit": "e8f91497fa7f098aa90eb5eb6fe454557d6b3d4e",
+		"Spigot": "b754dccf0c43518a34701b863125fde5a9fbbd32"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 66]
+}

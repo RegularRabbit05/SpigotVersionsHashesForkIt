@@ -1,0 +1,12 @@
+{
+	"name": "3910",
+	"description": "Jenkins build 3910",
+	"refs": {
+		"BuildData": "172197ceb99364701937947ea7fc424ecf1bb694",
+		"Bukkit": "255b2aa10a972635fd229ab840f960dd6691f087",
+		"CraftBukkit": "a6bcb84890c67873b1d17e76c1fb0af23d0f700e",
+		"Spigot": "e0e223fe5197272feb12eba337cfbbc567316a84"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

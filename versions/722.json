@@ -1,0 +1,11 @@
+{
+	"name": "722",
+	"description": "Jenkins build 722",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "b3f619f3c5ceb503c3649fe16a36b3fc90326a44",
+		"CraftBukkit": "52c7fc0a1ab20d9fdb91dbad0285ab6a6b511079",
+		"Spigot": "f04e043eb1aa5cb0c8450cd57d88fdb051cf99fd"
+	},
+	"toolsVersion": 47
+}

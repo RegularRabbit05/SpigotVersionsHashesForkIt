@@ -1,0 +1,12 @@
+{
+	"name": "2590",
+	"description": "Jenkins build 2590",
+	"refs": {
+		"BuildData": "4a6af056693a191400cc4bc242823734c865c282",
+		"Bukkit": "fa8a97815c1305470a27c4333bce54897a35200d",
+		"CraftBukkit": "e911c70f855e7785f79ffb8b428a12d0e8c31fec",
+		"Spigot": "800b93fb8cfcad0ac393eb401e00a40475722be3"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

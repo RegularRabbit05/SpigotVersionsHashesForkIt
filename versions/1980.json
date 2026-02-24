@@ -1,0 +1,12 @@
+{
+	"name": "1980",
+	"description": "Jenkins build 1980",
+	"refs": {
+		"BuildData": "d56672db7d59c99f62c4e78532aeca0d143bef42",
+		"Bukkit": "db06c80d7f7c8deeea1f6caf9cef549064897d05",
+		"CraftBukkit": "068dab5be3e2f9f5086b0b61522a30eb8302c11c",
+		"Spigot": "e769fe4d929af9813b597a438f543c782b7c4806"
+	},
+	"toolsVersion": 75,
+	"javaVersions": [52, 55]
+}

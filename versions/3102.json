@@ -1,0 +1,12 @@
+{
+	"name": "3102",
+	"description": "Jenkins build 3102",
+	"refs": {
+		"BuildData": "3cec511b16ffa31cb414997a14be313716882e12",
+		"Bukkit": "1dff62ae8309a5b5a95afc06eb3562cd9f9e7aac",
+		"CraftBukkit": "4d2c780090a451b746118014621bce1a9eaa4fcf",
+		"Spigot": "c9cea600043b1dc6fa306b4baee307d064c65eac"
+	},
+	"toolsVersion": 128,
+	"javaVersions": [60, 60]
+}

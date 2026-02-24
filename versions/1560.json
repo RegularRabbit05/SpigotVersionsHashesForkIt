@@ -1,0 +1,11 @@
+{
+	"name": "1560",
+	"description": "Jenkins build 1560",
+	"refs": {
+		"BuildData": "be360cc298a06b5355ecd057f5b1feb894a73f0f",
+		"Bukkit": "33a62b95913e6df50dc60f0fdad3144ba094bef7",
+		"CraftBukkit": "61ca7d92c1fc78e1ddb3339637493ad6e36a93a8",
+		"Spigot": "2086bb074d6795823451bdb9f857d83c0f566990"
+	},
+	"toolsVersion": 47
+}

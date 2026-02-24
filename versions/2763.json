@@ -1,0 +1,12 @@
+{
+	"name": "2763",
+	"description": "Jenkins build 2763",
+	"refs": {
+		"BuildData": "be3371e67489b5a2293306e24420793106baadc1",
+		"Bukkit": "85e57f7ac56f5cb4741ff21add44372f58c4877c",
+		"CraftBukkit": "44109b726b3d248da87fa89a86ca036502e4f52f",
+		"Spigot": "ad703da04d2ffbf84a75e5ee32f2829380864bb7"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

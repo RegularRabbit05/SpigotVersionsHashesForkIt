@@ -1,0 +1,12 @@
+{
+	"name": "3873",
+	"description": "Jenkins build 3873",
+	"refs": {
+		"BuildData": "172197ceb99364701937947ea7fc424ecf1bb694",
+		"Bukkit": "1961ead6ff77ff5bbbed791187b5e6cc2dfb1950",
+		"CraftBukkit": "9024a09b92c2ffd88437c0cb2226ba1d5b6baa08",
+		"Spigot": "17ca32d0b23fa936083ed19c5da14c3b9e422e50"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

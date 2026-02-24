@@ -1,0 +1,16 @@
+{
+	"name": "4558",
+	"description": "Jenkins build 4558",
+	"refs": {
+		"BuildData": "6cf716da198f9d94f9c36e36d9be6417c5c24824",
+		"Bukkit": "ec08701b63ad49717c896ef19832a92765de159a",
+		"CraftBukkit": "668f74e86c59917e723a2a29bfc30b7877977baa",
+		"Spigot": "6e369ba56125a52a628785448c15afa062a76932"
+	},
+	"hashes": {
+		"CraftBukkit": "fe69278b90c7ecea56ce7e7f2d8f703d9d2f7d515495da13f235ddd79fbaf701",
+		"Spigot": "a1866214d94074a797339e7a66e8131d5b69c47622c80bee6cdd5c941018e420"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 69]
+}

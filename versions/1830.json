@@ -1,0 +1,11 @@
+{
+	"name": "1830",
+	"description": "Jenkins build 1830",
+	"refs": {
+		"BuildData": "83455962edb05fea080f04d6708eede4fa8be7b1",
+		"Bukkit": "aa81efb023ccfef19448cc3d954e3602f64e9c6d",
+		"CraftBukkit": "3831ae621f5b75add3ad528b1f07dd30c154fcae",
+		"Spigot": "2440e18926007124b1b968b7d81b0aa29627c332"
+	},
+	"toolsVersion": 75
+}

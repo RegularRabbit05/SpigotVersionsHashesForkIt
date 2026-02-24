@@ -1,0 +1,12 @@
+{
+	"name": "3929",
+	"description": "Jenkins build 3929",
+	"refs": {
+		"BuildData": "172197ceb99364701937947ea7fc424ecf1bb694",
+		"Bukkit": "f6f7c79d83d380b417d3275f4e2a9d985ca3f3e8",
+		"CraftBukkit": "2c1b5f78fc49dae41bec29d205c70a6355f74c5c",
+		"Spigot": "dba3cdc33be9abb98bb8d13b612b33b18a812db6"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

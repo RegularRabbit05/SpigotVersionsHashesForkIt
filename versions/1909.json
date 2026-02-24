@@ -1,0 +1,12 @@
+{
+	"name": "1909",
+	"description": "Jenkins build 1909",
+	"refs": {
+		"BuildData": "83455962edb05fea080f04d6708eede4fa8be7b1",
+		"Bukkit": "ee12ca7b712793de5356eec6a9162073faae88f8",
+		"CraftBukkit": "8ab46ff7c68434c9be24f191ce0126b656a86a0d",
+		"Spigot": "f6a273b19fc2eeb2a91cd90d59f1faaad8134379"
+	},
+	"toolsVersion": 75,
+	"javaVersions": [52, 55]
+}

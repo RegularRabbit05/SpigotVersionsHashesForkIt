@@ -1,0 +1,12 @@
+{
+	"name": "1970",
+	"description": "Jenkins build 1970",
+	"refs": {
+		"BuildData": "f527a8ff0d2f2efafc292ac7648ae3a184245a74",
+		"Bukkit": "0c1d258bb8185c39ce12c816a826973e94939b0e",
+		"CraftBukkit": "6a398ac443ac411c2e1723eb9aaa1a38792c7645",
+		"Spigot": "a1f2566f6906c2d67514cc6473ababaf3986f9ac"
+	},
+	"toolsVersion": 75,
+	"javaVersions": [52, 55]
+}

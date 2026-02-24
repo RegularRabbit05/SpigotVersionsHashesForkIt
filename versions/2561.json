@@ -1,0 +1,12 @@
+{
+	"name": "2561",
+	"description": "Jenkins build 2561",
+	"refs": {
+		"BuildData": "b5c57c4676ac2e808179bb545eef531304165d3e",
+		"Bukkit": "34f6e645a9edd0cacc3bd5811da801ecae771403",
+		"CraftBukkit": "d208733e7087bd3c85ac7bfde618b0cdc372f703",
+		"Spigot": "492a779218933f1887f97c7fccf24e54b1d18e4e"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

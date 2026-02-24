@@ -1,0 +1,11 @@
+{
+	"name": "1288",
+	"description": "Jenkins build 1288",
+	"refs": {
+		"BuildData": "c93ef25131651aa8eb956e2397f7784e91ee7d93",
+		"Bukkit": "80c927a7496c4a4c0085ca84668ea458a03e055e",
+		"CraftBukkit": "e13d1196863d5dcfea3d17b79238427dfb2c61b2",
+		"Spigot": "ac83d698d48a362995bcebe48ab89ab71bcf4d18"
+	},
+	"toolsVersion": 47
+}

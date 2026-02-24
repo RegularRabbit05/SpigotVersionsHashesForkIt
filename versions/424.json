@@ -1,0 +1,10 @@
+{
+	"name": "424",
+	"description": "Jenkins build 424",
+	"refs": {
+		"BuildData": "10ffe71dcde690d1b2b41786b9396434f332ecb4",
+		"Bukkit": "65de010efb1a3a5ddad36160b8ad9b49420306e8",
+		"CraftBukkit": "a48660074969c52ed2547e02981d224b696f93e2",
+		"Spigot": "5818108e3ac7e96e66484b36ad4bf1cda23cc6ad"
+	}
+}

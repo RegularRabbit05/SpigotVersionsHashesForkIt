@@ -1,0 +1,12 @@
+{
+	"name": "2333",
+	"description": "Jenkins build 2333",
+	"refs": {
+		"BuildData": "fb5e14fce5af96290063bf4ee833c2ad72bef028",
+		"Bukkit": "6eac6d706208e0b32105835b838a16341189ad0f",
+		"CraftBukkit": "cb3d14c5a7369f94c2037d179666583e0e3945dd",
+		"Spigot": "093165d1b54392a8d8d33e77e74a7f67adc56e9a"
+	},
+	"toolsVersion": 101,
+	"javaVersions": [52, 56]
+}

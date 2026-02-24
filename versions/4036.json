@@ -1,0 +1,12 @@
+{
+	"name": "4036",
+	"description": "Jenkins build 4036",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "2e3024a9b071864334155d4bb0725cce33d38ed7",
+		"CraftBukkit": "b8d6109f0c0b6fa526c46c1d11a70b96353e51c7",
+		"Spigot": "c198da22a814a0ba9c3128c3a9946286e0839b5a"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

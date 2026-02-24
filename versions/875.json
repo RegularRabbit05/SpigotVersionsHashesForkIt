@@ -1,0 +1,11 @@
+{
+	"name": "875",
+	"description": "Jenkins build 875",
+	"refs": {
+		"BuildData": "cede5450c952c76341e047b8d04f9894f16e596d",
+		"Bukkit": "268e8e7836982a63dea448c0ef6f4dae020de23a",
+		"CraftBukkit": "fb568fdc70321e6325a057868bf65d1ebcba1596",
+		"Spigot": "3ccadba36a71e973ca556ee22bc9e147bacbda12"
+	},
+	"toolsVersion": 47
+}

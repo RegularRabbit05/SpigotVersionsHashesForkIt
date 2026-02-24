@@ -1,0 +1,12 @@
+{
+	"name": "2687",
+	"description": "Jenkins build 2687",
+	"refs": {
+		"BuildData": "455d45a4244894335cd07451bdda79ccd380aff6",
+		"Bukkit": "1c2eaf9686d83b96677dd8a470f336bf9eae64e0",
+		"CraftBukkit": "eb1b19d979f55bf690d8336c8d97813eb69fa196",
+		"Spigot": "2f5d615f157752a2b28b0986b34cc708d5e77674"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

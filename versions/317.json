@@ -1,0 +1,10 @@
+{
+	"name": "317",
+	"description": "Jenkins build 317",
+	"refs": {
+		"BuildData": "946ba99fbb82b6fb2f723bded5bfdb3133f80540",
+		"Bukkit": "66c832f8ca365c528aab0250a93fe46b91f2ca56",
+		"CraftBukkit": "726656b864cfff0851926df4fe95a2d51e911897",
+		"Spigot": "b73910a7b7dbc45e5b493b988201c8ba8a8de66f"
+	}
+}

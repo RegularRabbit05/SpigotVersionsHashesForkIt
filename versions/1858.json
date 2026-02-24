@@ -1,0 +1,12 @@
+{
+	"name": "1858",
+	"description": "Jenkins build 1858",
+	"refs": {
+		"BuildData": "83455962edb05fea080f04d6708eede4fa8be7b1",
+		"Bukkit": "5466e28123d69eebfccf83e0c29d8eb37be7ec56",
+		"CraftBukkit": "226db0eae7bbaac7d7a14c4ddc608f5868e3731a",
+		"Spigot": "145a37ae8c1032ac0dd0ea0a9f93c235ab2a6423"
+	},
+	"toolsVersion": 75,
+	"javaVersions": [52, 55]
+}

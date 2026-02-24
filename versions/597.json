@@ -1,0 +1,11 @@
+{
+	"name": "597",
+	"description": "Jenkins build 597",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "fbfd8d55ba0a14223999e2402f3446d1934c05f0",
+		"CraftBukkit": "dcbb2a45ab025e2abbb2f2376ab9966bb623b4df",
+		"Spigot": "e01eaa03350e92f4483bc75ee55e1cd196928a25"
+	},
+    "toolsVersion": 47
+}

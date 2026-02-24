@@ -1,0 +1,12 @@
+{
+	"name": "1990",
+	"description": "Jenkins build 1990",
+	"refs": {
+		"BuildData": "370a4d9802d37f4228aa33720bdd5e9675222784",
+		"Bukkit": "b850a822c1cd79cc5b8e9181b4b9e6b61977e0ec",
+		"CraftBukkit": "bb6f384a830548def9c73264dab1a4d06fc2bdf4",
+		"Spigot": "1dc156ce484f25ce6cfc7526f1de88aac5ac7a95"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

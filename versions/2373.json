@@ -1,0 +1,12 @@
+{
+	"name": "2373",
+	"description": "Jenkins build 2373",
+	"refs": {
+		"BuildData": "d526c9af5ffd94a80fdb5994c05275b87ea67a53",
+		"Bukkit": "3dc4cdcdb1ccd3a21d3679bed5735fb4ecc23692",
+		"CraftBukkit": "f1f33559fab04373c940fee1668c62933a9b4ab9",
+		"Spigot": "4d2f30f1bea328b673c4d670504ff5c73d8d9579"
+	},
+	"toolsVersion": 101,
+	"javaVersions": [52, 56]
+}

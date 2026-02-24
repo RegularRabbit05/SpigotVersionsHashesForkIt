@@ -1,0 +1,12 @@
+{
+	"name": "2019",
+	"description": "Jenkins build 2019",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "5d2a10c5c519f69d908e931ec684d767786fd00a",
+		"CraftBukkit": "5be2ddcbd57fc4a9e192cc398f9d881e917b0210",
+		"Spigot": "518206a1d250cdc7ae6448383ea9063f69c766c4"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

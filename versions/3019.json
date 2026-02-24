@@ -1,0 +1,12 @@
+{
+	"name": "3019",
+	"description": "Jenkins build 3019",
+	"refs": {
+		"BuildData": "656df5e622bba97efb4e858e8cd3ec428a0b2d71",
+		"Bukkit": "d264e972e9fecfea2f4a016c5d89ab8611680eb3",
+		"CraftBukkit": "ee5006d1873170ce1ad908455f680b228096da87",
+		"Spigot": "bff526193eec525c624bf7e65f8a5239866bfcbf"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 59]
+}

@@ -1,0 +1,10 @@
+{
+	"name": "323",
+	"description": "Jenkins build 323",
+	"refs": {
+		"BuildData": "946ba99fbb82b6fb2f723bded5bfdb3133f80540",
+		"Bukkit": "66c832f8ca365c528aab0250a93fe46b91f2ca56",
+		"CraftBukkit": "3ee97a30eb7125a7b528fc8b89fa14f0d9bd4b8f",
+		"Spigot": "bf0ac554c9b40f227c787e59a6c2f6cfc828d43f"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2136",
+	"description": "Jenkins build 2136",
+	"refs": {
+		"BuildData": "7886694452c8a42e0f708be0bb846c118bb7180a",
+		"Bukkit": "7634491fdee5c9ac4f0bfcf0b4bd1b51c2072b0d",
+		"CraftBukkit": "812f66aa99d7ef65f29ea60690dccbcc4ccec369",
+		"Spigot": "f09662d0ea3632c3294c6db86bdcd92f68aac8c2"
+	},
+	"toolsVersion": 93,
+	"javaVersions": [52, 56]
+}

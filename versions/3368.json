@@ -1,0 +1,12 @@
+{
+	"name": "3368",
+	"description": "Jenkins build 3368",
+	"refs": {
+		"BuildData": "f31eb04b918592f66c6edd17c9b5998383581ae5",
+		"Bukkit": "031731e60ece4b3fe0468a0df94b89d339b4169d",
+		"CraftBukkit": "2a2caa7e25cfcf66c368b0098f320ac93d416d6a",
+		"Spigot": "8965a5024427f83a4e82ce3e3d4773fd78d22d76"
+	},
+	"toolsVersion": 138,
+	"javaVersions": [61, 61]
+}

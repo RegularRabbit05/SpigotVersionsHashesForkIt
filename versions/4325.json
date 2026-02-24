@@ -1,0 +1,12 @@
+{
+	"name": "4325",
+	"description": "Jenkins build 4325",
+	"refs": {
+		"BuildData": "533b02cd6ba8dbf8c8607250b02bf2d8c36421e8",
+		"Bukkit": "d1b31df24512788c583690612ba4ac1aca3f0af7",
+		"CraftBukkit": "e4c92ef65bc1a9e202ad53bd99e43d6a601bf905",
+		"Spigot": "a759b629cbf86401aab56b8c3f21a635e9e76c15"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 66]
+}

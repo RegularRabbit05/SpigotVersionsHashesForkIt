@@ -1,0 +1,11 @@
+{
+	"name": "973",
+	"description": "Jenkins build 973",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "450225fe17a930d7bb0de2d646c4a892d5bdcd7e",
+		"CraftBukkit": "b5fb9a1cd769a0ee1283c47b5b8b54bbf559c9a9",
+		"Spigot": "850da7e0741c8af9a852d495092dc98249162950"
+	},
+	"toolsVersion": 47
+}

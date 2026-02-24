@@ -1,0 +1,10 @@
+{
+	"name": "356",
+	"description": "Jenkins build 356",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "c4858369b3ff4cc3702f86ac19401c25020a7406",
+		"CraftBukkit": "d03ffbf54bd60d1b808ad531472a9e474139c29c",
+		"Spigot": "fcb68de0a500ddb670573c32799a3938f38278fa"
+	}
+}

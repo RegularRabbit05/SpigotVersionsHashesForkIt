@@ -1,0 +1,11 @@
+{
+	"name": "1639",
+	"description": "Jenkins build 1639",
+	"refs": {
+		"BuildData": "a5effc614208d06202688a775f25d7b820b36d47",
+		"Bukkit": "0bfac352ece5fd5bca7b8476eb233579a0772fab",
+		"CraftBukkit": "c1d9f942238443b0b3074b49e2c5f57700f8af3c",
+		"Spigot": "83d9d09afb65204de4f6050c4033d482dd2a0d6a"
+	},
+	"toolsVersion": 75
+}

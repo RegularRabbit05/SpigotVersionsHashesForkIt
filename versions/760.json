@@ -1,0 +1,11 @@
+{
+	"name": "760",
+	"description": "Jenkins build 760",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "56605a05f6c85762d46b0b76b9eb20cfc7991e7e",
+		"CraftBukkit": "1d9c5c628da5adcc73984901ad444ad322d140af",
+		"Spigot": "2038f4a1ee03c4152ac216589a008bcdd099cd67"
+	},
+	"toolsVersion": 47
+}

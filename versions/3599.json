@@ -1,0 +1,12 @@
+{
+	"name": "3599",
+	"description": "Jenkins build 3599",
+	"refs": {
+		"BuildData": "d96ad8e1e64b7c35bb632339c23621353be1f028",
+		"Bukkit": "006049902d41e91d01844126dd968ca92fb99c8a",
+		"CraftBukkit": "aaf484f6fdb052306f7612bc0e721fa440d1b841",
+		"Spigot": "4aa5ead2377692b934a84b6853d188e2d9cbd53a"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 63]
+}

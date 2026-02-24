@@ -1,0 +1,11 @@
+{
+	"name": "892",
+	"description": "Jenkins build 892",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "0631f168ea99e6f32a1c79fae9abf3341ab98c3b",
+		"CraftBukkit": "f068c5e8439dd6b6998aa7cd8f376c8fdb9d11ad",
+		"Spigot": "687a0190ef59611cca4cba981e17b4881c51df17"
+	},
+	"toolsVersion": 47
+}

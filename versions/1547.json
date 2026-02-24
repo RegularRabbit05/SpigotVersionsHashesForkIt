@@ -1,0 +1,11 @@
+{
+	"name": "1547",
+	"description": "Jenkins build 1547",
+	"refs": {
+		"BuildData": "be360cc298a06b5355ecd057f5b1feb894a73f0f",
+		"Bukkit": "bf61ffc26b4845816da86e9ce53c29b7263fb7a7",
+		"CraftBukkit": "4509a144db68e6d0b7a6ead1f2095c32cba7f26d",
+		"Spigot": "eadd615b8418d25885b85acb922c4f3be674dd76"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,11 @@
+{
+	"name": "732",
+	"description": "Jenkins build 732",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "db1761e3c9dd2a74cda188145a5d3dc9da57f712",
+		"CraftBukkit": "0ff499cf03a013e8999042d6e758ecab6ddf41b6",
+		"Spigot": "90839e6224403fb7f32e6eeba704623a3121d541"
+	},
+	"toolsVersion": 47
+}

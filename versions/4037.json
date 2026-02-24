@@ -1,0 +1,12 @@
+{
+	"name": "4037",
+	"description": "Jenkins build 4037",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "08f86d1ce25022dc0458dcfcd78cf6265b0026ce",
+		"CraftBukkit": "cb7dccce27f9ead4c39994b7e70b7e8119617ffe",
+		"Spigot": "c198da22a814a0ba9c3128c3a9946286e0839b5a"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

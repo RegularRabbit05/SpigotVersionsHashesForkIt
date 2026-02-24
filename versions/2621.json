@@ -1,0 +1,12 @@
+{
+	"name": "2621",
+	"description": "Jenkins build 2621",
+	"refs": {
+		"BuildData": "4a6af056693a191400cc4bc242823734c865c282",
+		"Bukkit": "6a4242cb72fba34b45bb584f75c12da1acd0beb2",
+		"CraftBukkit": "d70084e53d09bb15a6d40ce8ce0ebc90ee74851e",
+		"Spigot": "c574e08b715634fcaee82dea911226f8194362a8"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

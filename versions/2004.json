@@ -1,0 +1,12 @@
+{
+	"name": "2004",
+	"description": "Jenkins build 2004",
+	"refs": {
+		"BuildData": "370a4d9802d37f4228aa33720bdd5e9675222784",
+		"Bukkit": "0969eedc88f58ce58fc03bcd4acdfaa1ac91301c",
+		"CraftBukkit": "dff66dfccd64280d066715340c0692f6e376be0b",
+		"Spigot": "573cdf2c734efd81d75a18f0b6c64d5b4b95efa2"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

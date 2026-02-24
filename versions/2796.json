@@ -1,0 +1,12 @@
+{
+	"name": "2796",
+	"description": "Jenkins build 2796",
+	"refs": {
+		"BuildData": "be3371e67489b5a2293306e24420793106baadc1",
+		"Bukkit": "dfa80a522d171459235325c3195c14514c0b8439",
+		"CraftBukkit": "7f6b4f587c1dd219ad12c344d578cb1d5b36a135",
+		"Spigot": "beb7d47c1d386faa934fceb3b8bd914721074b59"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

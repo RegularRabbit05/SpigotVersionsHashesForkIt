@@ -1,0 +1,12 @@
+{
+	"name": "3007",
+	"description": "Jenkins build 3007",
+	"refs": {
+		"BuildData": "656df5e622bba97efb4e858e8cd3ec428a0b2d71",
+		"Bukkit": "315b69c1d189f057263c5ac54c058352f706a8b9",
+		"CraftBukkit": "a82b21297372bff77085d76f1fda58e8b0e2e1ab",
+		"Spigot": "cd23533a5b0ce59fcd0dd509be994b94d7c5f55e"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 59]
+}

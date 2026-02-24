@@ -1,0 +1,10 @@
+{
+	"name": "580",
+	"description": "Jenkins build 580",
+	"refs": {
+		"BuildData": "838b40587fa7a68a130b75252959bc8a3481d94f",
+		"Bukkit": "01d1820664a5f881665b84b28871dadd132deaef",
+		"CraftBukkit": "3f3c65f471d01f4440f6bb32646fb8d48204783f",
+		"Spigot": "db6de12919982a660de79df83af75e9c18965aa8"
+	}
+}

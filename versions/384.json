@@ -1,0 +1,10 @@
+{
+	"name": "384",
+	"description": "Jenkins build 384",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "dcd92097e987ccd4030fa11135cf5147d6b6f7ad",
+		"CraftBukkit": "30d751b3626704d01cced352c728830136d77a54",
+		"Spigot": "0b997a9fbf792061dd7eff097c21f18f36d17a45"
+	}
+}

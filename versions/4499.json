@@ -1,0 +1,16 @@
+{
+	"name": "4499",
+	"description": "Jenkins build 4499",
+	"refs": {
+		"BuildData": "9b48cd40193ae9f0cebbadce39052a242485eb4c",
+		"Bukkit": "c80061286e3bb33d611e1034fe6794ab98256582",
+		"CraftBukkit": "3d4bff88273200c5a5b49ed7ac48ef0bc3e1fee5",
+		"Spigot": "270012a3149d0a6e4200bcbb8dde44fc63dbe863"
+	},
+	"hashes": {
+		"CraftBukkit": "8983845e1ad12b211ec915e1f0aaf87c9aef739f2678cbbdda55bd44c6f955b4",
+		"Spigot": "b079e9684ac88d582071dea1d2d7f7142e139cfd875b8229e8dc30d769afc620"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 68]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2588",
+	"description": "Jenkins build 2588",
+	"refs": {
+		"BuildData": "4a6af056693a191400cc4bc242823734c865c282",
+		"Bukkit": "e601e7aaa1372fb30ee4334f446d73273a0a3cd1",
+		"CraftBukkit": "596b0b2d0742570834818056842d43d0b957b354",
+		"Spigot": "800b93fb8cfcad0ac393eb401e00a40475722be3"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

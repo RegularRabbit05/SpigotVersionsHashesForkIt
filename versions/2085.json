@@ -1,0 +1,12 @@
+{
+	"name": "2085",
+	"description": "Jenkins build 2085",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "c64cc93f20b089767dcb3cffb4cc7f1d0a360a0e",
+		"CraftBukkit": "bc99dfe89fbb6f262bacb3dadf7de539a124cf84",
+		"Spigot": "b0f4c22b92c82146214dad69ea296ab7034592d8"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

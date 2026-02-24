@@ -1,0 +1,10 @@
+{
+	"name": "439",
+	"description": "Jenkins build 439",
+	"refs": {
+		"BuildData": "16282cac77b18aca195bb6cab1ef8055c860e21d",
+		"Bukkit": "7d306d4e0200e8acc6e11a047235d4c8a678f71b",
+		"CraftBukkit": "b0e81a4ede6b8a9d3d51aa8a78518f6e4ded6c93",
+		"Spigot": "6a6b83943e9b399ef9ef31c61f00d8a1ab1b4898"
+	}
+}

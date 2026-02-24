@@ -1,0 +1,12 @@
+{
+	"name": "3084",
+	"description": "Jenkins build 3084",
+	"refs": {
+		"BuildData": "f0a5ed1aeff8156ba4afa504e190c838dd1af50c",
+		"Bukkit": "f563167d33eac6217c94e1cdffb1bc0bfd3031c9",
+		"CraftBukkit": "afa0678e1b9efcc2fdd3f3ecbecfb7fed22dd218",
+		"Spigot": "9fb885e86def1d9d86e25233c9b5a4de45b7a09d"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 60]
+}

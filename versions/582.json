@@ -1,0 +1,10 @@
+{
+	"name": "582",
+	"description": "Jenkins build 582 (hotfix 1)",
+	"refs": {
+		"BuildData": "838b40587fa7a68a130b75252959bc8a3481d94f",
+		"Bukkit": "01d1820664a5f881665b84b28871dadd132deaef",
+		"CraftBukkit": "e1ebe524a78e27f6a2829ed4574fded3779094e1",
+		"Spigot": "21fe7077d9140e0f9db01587a39c2ffec29e3ec8"
+	}
+}

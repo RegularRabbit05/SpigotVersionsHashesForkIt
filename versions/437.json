@@ -1,0 +1,10 @@
+{
+	"name": "437",
+	"description": "Jenkins build 437",
+	"refs": {
+		"BuildData": "ae5ded1f9d9630be16fe79c95ad939c7d1f6cfc2",
+		"Bukkit": "c7e7f720d2412244dcf3a02ab01d5c64aae57f0a",
+		"CraftBukkit": "25de1e6baf8ffa29add5d00fab33c92fad655e5b",
+		"Spigot": "17fce80700513953a36afa8339d278c53649d2df"
+	}
+}

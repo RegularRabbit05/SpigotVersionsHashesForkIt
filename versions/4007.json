@@ -1,0 +1,12 @@
+{
+	"name": "4007",
+	"description": "Jenkins build 4007",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "2fd45ae392e6068fdd723919d54c9dbe0b523e22",
+		"CraftBukkit": "9fde4c037cb8b8c2e44b5f06d2029f6e8180f79d",
+		"Spigot": "828f059332b479c47d3b7928cc7947d82faf4638"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

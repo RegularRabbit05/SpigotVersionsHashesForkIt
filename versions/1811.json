@@ -1,0 +1,11 @@
+{
+	"name": "1811",
+	"description": "Jenkins build 1811",
+	"refs": {
+		"BuildData": "83455962edb05fea080f04d6708eede4fa8be7b1",
+		"Bukkit": "efeeab2fbab5d1877ff93e57fe3bf6bbe616bc7b",
+		"CraftBukkit": "a677257885de9baf0bda21975380ae0ec7d2c6a9",
+		"Spigot": "4ecffced4c9fd2dc5486895d3e6eb3ef7279b127"
+	},
+	"toolsVersion": 75
+}

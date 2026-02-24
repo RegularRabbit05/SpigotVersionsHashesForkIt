@@ -1,0 +1,12 @@
+{
+	"name": "1984",
+	"description": "Jenkins build 1984",
+	"refs": {
+		"BuildData": "d56672db7d59c99f62c4e78532aeca0d143bef42",
+		"Bukkit": "72520b78bb45ad6e931843c128baaf2cd4017109",
+		"CraftBukkit": "a3c2ec03148f9f38d4d27d045b1afee2fc6ff173",
+		"Spigot": "078a7f524de58bbb5febe73f1f31db69bfbd8eff"
+	},
+	"toolsVersion": 75,
+	"javaVersions": [52, 55]
+}

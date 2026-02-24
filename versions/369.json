@@ -1,0 +1,10 @@
+{
+	"name": "369",
+	"description": "Jenkins build 369",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "dcd92097e987ccd4030fa11135cf5147d6b6f7ad",
+		"CraftBukkit": "2acb9e4ec3c567017cdf8b246e49beadc6bba8ae",
+		"Spigot": "529ff99cb5c9d3b678dc91909a1a4aac9f29e2c0"
+	}
+}

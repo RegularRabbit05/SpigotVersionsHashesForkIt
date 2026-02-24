@@ -1,0 +1,11 @@
+{
+	"name": "1809",
+	"description": "Jenkins build 1809",
+	"refs": {
+		"BuildData": "83455962edb05fea080f04d6708eede4fa8be7b1",
+		"Bukkit": "f502bc6f911f7d161741d6e6010fdda707ce7589",
+		"CraftBukkit": "ce1af0c348a8477f9ec58d79e6267e9226dc5dba",
+		"Spigot": "4ecffced4c9fd2dc5486895d3e6eb3ef7279b127"
+	},
+	"toolsVersion": 75
+}

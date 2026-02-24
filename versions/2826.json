@@ -1,0 +1,12 @@
+{
+	"name": "2826",
+	"description": "Jenkins build 2826",
+	"refs": {
+		"BuildData": "be3371e67489b5a2293306e24420793106baadc1",
+		"Bukkit": "d0d2ac0a6a244c40d773e93b9408e52ea6a875f6",
+		"CraftBukkit": "b0c6dfe1ae6fd5907379ba180851f94f45a8a2da",
+		"Spigot": "c3a49df215f30328bf56f08227072c79944760ed"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

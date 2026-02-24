@@ -1,0 +1,12 @@
+{
+	"name": "3136",
+	"description": "Jenkins build 3136",
+	"refs": {
+		"BuildData": "3cec511b16ffa31cb414997a14be313716882e12",
+		"Bukkit": "aee70d263ba70dbf9911493b876f7010bed54b40",
+		"CraftBukkit": "ea1a84338cec25549effae6bbccfa12b4617b8ed",
+		"Spigot": "66f9d3c17bd578dacbb87702cc0347148696e105"
+	},
+	"toolsVersion": 128,
+	"javaVersions": [60, 60]
+}

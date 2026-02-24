@@ -1,0 +1,12 @@
+{
+	"name": "2000",
+	"description": "Jenkins build 2000",
+	"refs": {
+		"BuildData": "370a4d9802d37f4228aa33720bdd5e9675222784",
+		"Bukkit": "16453bfddb70fd6341715489fe34740bbff8980c",
+		"CraftBukkit": "bc943daf944c12c16223bc7dc23fce085620b38c",
+		"Spigot": "573cdf2c734efd81d75a18f0b6c64d5b4b95efa2"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

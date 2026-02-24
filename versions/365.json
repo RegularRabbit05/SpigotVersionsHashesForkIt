@@ -1,0 +1,10 @@
+{
+	"name": "365",
+	"description": "Jenkins build 365",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "8f84f08506c18b46f3975d9c0192664e4fff1822",
+		"CraftBukkit": "294d07dcc011e44469fabe86d5735682fbecffc6",
+		"Spigot": "529ff99cb5c9d3b678dc91909a1a4aac9f29e2c0"
+	}
+}

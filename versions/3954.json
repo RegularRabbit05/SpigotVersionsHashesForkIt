@@ -1,0 +1,12 @@
+{
+	"name": "3954",
+	"description": "Jenkins build 3954",
+	"refs": {
+		"BuildData": "58819a3c2a15e6e47ad89d32fb60d44c253491f3",
+		"Bukkit": "d9c1eb83af46e61e089cb899a24a8cc0a66e625b",
+		"CraftBukkit": "8232a74cf8d32bce37c33ff6d0cd9b688a1ef8e9",
+		"Spigot": "9d728858d26d780a91aa8e3541bcfda9de7f76dc"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

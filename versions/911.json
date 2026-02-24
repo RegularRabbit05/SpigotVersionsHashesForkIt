@@ -1,0 +1,11 @@
+{
+	"name": "911",
+	"description": "Jenkins build 911",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "a1760b6baec0db18f0eeda14e371a75fa6fc3d3b",
+		"CraftBukkit": "02d704b55af439337a63becf23d8a1e05780ef01",
+		"Spigot": "7745d45de92679ec54435905ec56cec46f5ce709"
+	},
+	"toolsVersion": 47
+}

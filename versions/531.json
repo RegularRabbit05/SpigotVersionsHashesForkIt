@@ -1,0 +1,10 @@
+{
+	"name": "531",
+	"description": "Jenkins build 531",
+	"refs": {
+		"BuildData": "c48104cb841f7e7740aced01792b5aa79bed4278",
+		"Bukkit": "3e3e3430e2baf9d07bedad2dd2cc601d9bb7322b",
+		"CraftBukkit": "dc40c528d76425e9f0423c561a850f5f7668f537",
+		"Spigot": "74e8786763ce26fdba8279d4c101f92aaa64355f"
+	}
+}

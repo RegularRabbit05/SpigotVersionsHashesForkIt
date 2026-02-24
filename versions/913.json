@@ -1,0 +1,11 @@
+{
+	"name": "913",
+	"description": "Jenkins build 913",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "a1760b6baec0db18f0eeda14e371a75fa6fc3d3b",
+		"CraftBukkit": "a625e4567d990a3d48fbce41ddd575f09ecb4d58",
+		"Spigot": "f09019bf81bcbcf4b8d71bf608928bf49bd8968d"
+	},
+	"toolsVersion": 47
+}

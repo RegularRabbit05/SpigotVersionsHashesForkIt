@@ -1,0 +1,12 @@
+{
+	"name": "2115",
+	"description": "Jenkins build 2115",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "96e2bb1850a5ce88f7059cf845a8f03bef190ee0",
+		"CraftBukkit": "5259d80c48c5509e65b05711c59b96bf388f8744",
+		"Spigot": "cf694d87c16991fd93ca48fa1343072f468423ff"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

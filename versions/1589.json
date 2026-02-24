@@ -1,0 +1,11 @@
+{
+	"name": "1589",
+	"description": "Jenkins build 1589",
+	"refs": {
+		"BuildData": "a5effc614208d06202688a775f25d7b820b36d47",
+		"Bukkit": "62633f31dfbad79a5dd03af2ccb26f4bb2dbcd9f",
+		"CraftBukkit": "10261f31d730455e64e5344648096ce58e9787e3",
+		"Spigot": "6505f06b355d5f1ea0fff2d0e8edbd60b2f75354"
+	},
+	"toolsVersion": 75
+}

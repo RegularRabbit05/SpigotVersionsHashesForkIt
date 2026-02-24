@@ -1,0 +1,12 @@
+{
+	"name": "3392",
+	"description": "Jenkins build 3392",
+	"refs": {
+		"BuildData": "f31eb04b918592f66c6edd17c9b5998383581ae5",
+		"Bukkit": "9db6df7d09d07d657200935e0848a4a9bf452aa3",
+		"CraftBukkit": "aeaeb359317e6ba25b7c45cf6d70ff945a3777cf",
+		"Spigot": "54b4afaa840b547d4daff7b725242d6f55b78068"
+	},
+	"toolsVersion": 138,
+	"javaVersions": [61, 61]
+}

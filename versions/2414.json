@@ -1,0 +1,12 @@
+{
+	"name": "2414",
+	"description": "Jenkins build 2414",
+	"refs": {
+		"BuildData": "2dbde4c18d3b3e34142da21d42cea4b1beb33d7d",
+		"Bukkit": "c987938a6a8f595cd71e5e8974c28e13db0c4b0b",
+		"CraftBukkit": "1215188ff7116f233134e6aae8187765884fe51f",
+		"Spigot": "6a14ca46a9defbd7020676e4e85937d546c9247b"
+	},
+	"toolsVersion": 101,
+	"javaVersions": [52, 56]
+}

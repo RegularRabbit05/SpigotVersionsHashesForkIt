@@ -1,0 +1,16 @@
+{
+	"name": "4520",
+	"description": "Jenkins build 4520",
+	"refs": {
+		"BuildData": "436eac9815c211be1a2a6ca0702615f995e81c44",
+		"Bukkit": "16fa9b76cd90ce93872e2a8accc88319dd9938f7",
+		"CraftBukkit": "d257c87b12b590c2363102bc4fa7c35a7f02012a",
+		"Spigot": "6e79c50e5e20567b67cb5d67c49e1417399215c1"
+	},
+	"hashes": {
+		"CraftBukkit": "e6abf903e8f3bb619101655aabde3fa251f4bd65b53882b490cf151563c45863",
+		"Spigot": "5afdca8a63ba779019cffa616ff3f0907e0157fa94edfe6e7bdf74006066575c"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 68]
+}

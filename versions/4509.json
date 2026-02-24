@@ -1,0 +1,16 @@
+{
+	"name": "4509",
+	"description": "Jenkins build 4509",
+	"refs": {
+		"BuildData": "281ac0de7a76d808753ede97d11b034bc801b63d",
+		"Bukkit": "263d8147c921a2e04d6713c792622c9c74f00a26",
+		"CraftBukkit": "58bf15a379eb7b5b01284cbf3eedb11ffb412ea4",
+		"Spigot": "d5ca3f833bb6128d88eaab2211b9c203953d23db"
+	},
+	"hashes": {
+		"CraftBukkit": "2055b5899cd382db841c84944e969050c86e7b05f77ebc30353a54bc5275381c",
+		"Spigot": "8746356c45b927055a3d6f18039aa1c16687ba47a5f44c68edc0c6e839f2cf23"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 68]
+}

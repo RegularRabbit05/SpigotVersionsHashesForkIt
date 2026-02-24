@@ -1,0 +1,11 @@
+{
+	"name": "712",
+	"description": "Jenkins build 712",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "485fc0c47004dcad63c4b425a25dfd9850bc3cb6",
+		"CraftBukkit": "d2834cec18814e2a5d203f1c7e2eccfb1ff5b6de",
+		"Spigot": "04266858e3436dafcb20eba5ae3c9f6d63a7c5a9"
+	},
+	"toolsVersion": 47
+}

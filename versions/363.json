@@ -1,0 +1,10 @@
+{
+	"name": "363",
+	"description": "Jenkins build 363",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "82f9df99196967fd21216fdc211f0e2ec3255ffd",
+		"CraftBukkit": "7a30c3117e058ab82ad9721a1abc6500bb02cbd2",
+		"Spigot": "529ff99cb5c9d3b678dc91909a1a4aac9f29e2c0"
+	}
+}

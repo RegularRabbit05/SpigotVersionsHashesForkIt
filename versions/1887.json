@@ -1,0 +1,12 @@
+{
+	"name": "1887",
+	"description": "Jenkins build 1887",
+	"refs": {
+		"BuildData": "83455962edb05fea080f04d6708eede4fa8be7b1",
+		"Bukkit": "6f57bf95de3ab77effbe58c103ecf471fdeac581",
+		"CraftBukkit": "5cffeca21fcb6266999d8b5fbda443eee58d996f",
+		"Spigot": "f823ac54b178bd043f126507996ba57ca38f0ecf"
+	},
+	"toolsVersion": 75,
+	"javaVersions": [52, 55]
+}

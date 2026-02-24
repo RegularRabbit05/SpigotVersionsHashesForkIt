@@ -1,0 +1,12 @@
+{
+	"name": "1987",
+	"description": "Jenkins build 1987",
+	"refs": {
+		"BuildData": "b4a48d5fddc12f1ca921e3548fd8ecaa3112d9a7",
+		"Bukkit": "b850a822c1cd79cc5b8e9181b4b9e6b61977e0ec",
+		"CraftBukkit": "b446cb5d744836d3de6288da0ef5761dc127a78a",
+		"Spigot": "140f654d3ceed85a5212c26089acf1c3ed5cf5ce"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

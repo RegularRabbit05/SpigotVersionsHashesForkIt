@@ -1,0 +1,11 @@
+{
+	"name": "839",
+	"description": "Jenkins build 839",
+	"refs": {
+		"BuildData": "9b100f8a6f0d86b5fd5f22f65dd6dd9eba6547d3",
+		"Bukkit": "b276e93f56cc04aaa2011efa1fe16b839c611eb7",
+		"CraftBukkit": "ef3ccc94e038fadaf3fe5d460fee62a84ada2e6a",
+		"Spigot": "8a048fe4a4351b6a293cea7409a42332a31f17f5"
+	},
+	"toolsVersion": 47
+}

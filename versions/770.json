@@ -1,0 +1,11 @@
+{
+	"name": "770",
+	"description": "Jenkins build 770",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "8ce4d2f45fbdb7cd85346b220f6a9d34f2000910",
+		"CraftBukkit": "45bb40353aac654c7861a41c5ddbe0f8d781a4fb",
+		"Spigot": "1480adb82751e38cca5bcc75202ece68277b0113"
+	},
+	"toolsVersion": 47
+}

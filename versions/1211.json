@@ -1,0 +1,11 @@
+{
+	"name": "1211",
+	"description": "Jenkins build 1211",
+	"refs": {
+		"BuildData": "8df2731012bb6887630ce7ebd4c7220eabe49a07",
+		"Bukkit": "7fd370c8c087679c0324e2acf91efa8751df0273",
+		"CraftBukkit": "7dd77d7340d2bcc1ebab5ab0b0b60e8fb3e0add7",
+		"Spigot": "625bc007002982e7c07a9d184fcdb1b6e13162b2"
+	},
+	"toolsVersion": 47
+}

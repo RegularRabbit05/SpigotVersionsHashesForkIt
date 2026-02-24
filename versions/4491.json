@@ -1,0 +1,16 @@
+{
+	"name": "4491",
+	"description": "Jenkins build 4491",
+	"refs": {
+		"BuildData": "9b48cd40193ae9f0cebbadce39052a242485eb4c",
+		"Bukkit": "d6a05557dd5c82b22dec63af223b5eb29d8dd59c",
+		"CraftBukkit": "07a3b657a0fe9dbf2ce0fb0fe8122ff5b605146c",
+		"Spigot": "3dafb730f3ac2c60e1823ce546e167cc02835300"
+	},
+	"hashes": {
+		"CraftBukkit": "9e80a29cda82d82caae50bb6fcd2d58ff2d8abd408d11a3f7a26702560f6b685",
+		"Spigot": "196aa9b331939133e8f578fd16675ef2f7168531c40ae3835cec166c0e1ddc22"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 68]
+}

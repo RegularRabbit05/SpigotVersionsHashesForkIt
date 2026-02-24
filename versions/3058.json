@@ -1,0 +1,12 @@
+{
+	"name": "3058",
+	"description": "Jenkins build 3058",
+	"refs": {
+		"BuildData": "f0a5ed1aeff8156ba4afa504e190c838dd1af50c",
+		"Bukkit": "5eece9f8580658aff45ba851b79059c0e16b921a",
+		"CraftBukkit": "95544a2da8707a3b3ee758e346da9ab063f1dbb2",
+		"Spigot": "4225eac084af31c8b9dca9eed3f7d146f3bc3625"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 60]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "4533",
+	"description": "Jenkins build 4533",
+	"refs": {
+		"BuildData": "851ec26f86db9951c78dd8868e0b474c2290ecd2",
+		"Bukkit": "9ef6c8db34776b9d661a91e2d44c0a2d4e43e6cb",
+		"CraftBukkit": "e703c03b4a0c29c81940fc434c780c4f1b02daa2",
+		"Spigot": "7c52c662ccee93e52a21c54a1b8f93721e4ec773"
+	},
+	"hashes": {
+		"CraftBukkit": "de20704aadd99a5b9e6ee681f2355df37de0ef44094d69d49d40df1ddd3ec195",
+		"Spigot": "427fa564fafb21eb710800a9efbfe72204f5b38c970a08b921295176f07a11a1"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 69]
+}

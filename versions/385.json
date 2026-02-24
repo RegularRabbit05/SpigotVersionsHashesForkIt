@@ -1,0 +1,10 @@
+{
+	"name": "385",
+	"description": "Jenkins build 385",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "dcd92097e987ccd4030fa11135cf5147d6b6f7ad",
+		"CraftBukkit": "234e60735ca6f4ecb7e56996c95ea31b5bb97cc0",
+		"Spigot": "beb883d5783509cfbc2598a3b72001b92fbacef6"
+	}
+}

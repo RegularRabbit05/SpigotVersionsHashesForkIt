@@ -1,0 +1,12 @@
+{
+	"name": "3902",
+	"description": "Jenkins build 3902",
+	"refs": {
+		"BuildData": "172197ceb99364701937947ea7fc424ecf1bb694",
+		"Bukkit": "c085f3de1db1b671a436563c8bf33ca5804a64c2",
+		"CraftBukkit": "40d5e6c023cb002a597c474b8fb3c3f36fa8555a",
+		"Spigot": "a0f3d48691557f3f6e528fc62cd7d48a1974f016"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2919",
+	"description": "Jenkins build 2919",
+	"refs": {
+		"BuildData": "b2025bdddde79aea004399ec5f3652a1bce56b7a",
+		"Bukkit": "ccb9614e9506fe08c159e1c566561bdacf03935d",
+		"CraftBukkit": "a339310c48548f0f82f923ff3f5fe2cdc7a8e8ba",
+		"Spigot": "17d78dbd136932f09b61fced8a8c8439117d3e81"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 59]
+}

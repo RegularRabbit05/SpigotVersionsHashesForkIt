@@ -1,0 +1,12 @@
+{
+	"name": "2591",
+	"description": "Jenkins build 2591",
+	"refs": {
+		"BuildData": "4a6af056693a191400cc4bc242823734c865c282",
+		"Bukkit": "612fd8e1c2418d1269e398c42068e0016384338a",
+		"CraftBukkit": "e911c70f855e7785f79ffb8b428a12d0e8c31fec",
+		"Spigot": "800b93fb8cfcad0ac393eb401e00a40475722be3"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "3634",
+	"description": "Jenkins build 3634",
+	"refs": {
+		"BuildData": "177811e1fa90f674897a302820f3ed84e4d65688",
+		"Bukkit": "d352d96500fbd215d06f4561f374faabb1c0b1fd",
+		"CraftBukkit": "397c5557cac66a242573cec11a2966d812b710d2",
+		"Spigot": "d90018e043c1bdf8dd894701e61927c4f1a8b064"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 63]
+}

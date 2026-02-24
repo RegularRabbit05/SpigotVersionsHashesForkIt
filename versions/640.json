@@ -1,0 +1,11 @@
+{
+	"name": "640",
+	"description": "Jenkins build 640",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "c44c41ef02307f87bd978a6021a10d9b3d751d5e",
+		"CraftBukkit": "45171f086413936099a2335ca32dbdc129cf640e",
+		"Spigot": "b39373b6c56639c4aefced2044fb818a7fb4baf3"
+	},
+    "toolsVersion": 47
+}

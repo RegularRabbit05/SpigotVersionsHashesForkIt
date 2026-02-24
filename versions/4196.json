@@ -1,0 +1,12 @@
+{
+	"name": "4196",
+	"description": "Jenkins build 4196",
+	"refs": {
+		"BuildData": "ae1e7b1e31cd3a3892bb05a6ccdcecc48c73c455",
+		"Bukkit": "b0a1d5b74806be6c64ac48b16fa91b3667fe7541",
+		"CraftBukkit": "a4c2ee70db50ade62436c7eaf6ec1f5376dce192",
+		"Spigot": "146439e88cdda2de5ce54c2a9d6a6cdd9aa8bc1b"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 66]
+}

@@ -1,0 +1,10 @@
+{
+	"name": "301",
+	"description": "Jenkins build 301",
+	"refs": {
+		"BuildData": "946ba99fbb82b6fb2f723bded5bfdb3133f80540",
+		"Bukkit": "5bfe821f3d561d1063e1cff344a9a31dac7000b8",
+		"CraftBukkit": "7bdb8f9f215a1bc64daaf6490a1e0e184dcb2f88",
+		"Spigot": "952179b880a1aa91da6893ecf3554fbe65f73641"
+	}
+}

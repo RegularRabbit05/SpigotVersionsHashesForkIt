@@ -1,0 +1,12 @@
+{
+	"name": "3039",
+	"description": "Jenkins build 3039",
+	"refs": {
+		"BuildData": "f0a5ed1aeff8156ba4afa504e190c838dd1af50c",
+		"Bukkit": "ccccb62537bfd711d60053ce578c136011522ca2",
+		"CraftBukkit": "170d6febd5d4bfd89df2d323cef5732db37bf561",
+		"Spigot": "a25e8ed26cbca903b4d6ee3823d1b9f4f5d06cc3"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 60]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "910",
+	"description": "Jenkins build 910",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "a1760b6baec0db18f0eeda14e371a75fa6fc3d3b",
+		"CraftBukkit": "9c02c121791427c4608af3fab36d4c01a4ed8faa",
+		"Spigot": "7745d45de92679ec54435905ec56cec46f5ce709"
+	},
+	"toolsVersion": 47
+}

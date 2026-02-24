@@ -1,0 +1,11 @@
+{
+	"name": "1387",
+	"description": "Jenkins build 1387",
+	"refs": {
+		"BuildData": "80d0a0138c11d926255e1b4d8b04d923ab969021",
+		"Bukkit": "b44d1d7b0940236deb5798b0f7a964bd94d089b4",
+		"CraftBukkit": "963b19c5995b14f8980a42f13b1bd693a5b411d1",
+		"Spigot": "65e8124d1adfa77a02ecd619be8ee28f3e89cafd"
+	},
+	"toolsVersion": 47
+}

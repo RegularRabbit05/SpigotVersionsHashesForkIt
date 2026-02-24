@@ -1,0 +1,11 @@
+{
+	"name": "1304",
+	"description": "Jenkins build 1304",
+	"refs": {
+		"BuildData": "ebd264edb506ff3e72e92dd16b1b68c46905972c",
+		"Bukkit": "7b5ab33d620b1d19e00152b4a0d64c160712c3b7",
+		"CraftBukkit": "ed8c725d1906b97ab83eaeef4b6acf187c90575a",
+		"Spigot": "d5dfb24fe8548399131df30df9995918bb58721e"
+	},
+	"toolsVersion": 47
+}

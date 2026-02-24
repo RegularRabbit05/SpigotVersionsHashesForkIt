@@ -1,0 +1,12 @@
+{
+	"name": "4303",
+	"description": "Jenkins build 4303",
+	"refs": {
+		"BuildData": "533b02cd6ba8dbf8c8607250b02bf2d8c36421e8",
+		"Bukkit": "7004fcf2e839d5354c0ec59870c0db3d3fde9455",
+		"CraftBukkit": "8d52226914ce4b99f35be3d6954f35616d92476d",
+		"Spigot": "a759b629cbf86401aab56b8c3f21a635e9e76c15"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 66]
+}

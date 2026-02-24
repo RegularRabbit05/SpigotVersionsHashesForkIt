@@ -1,0 +1,12 @@
+{
+	"name": "3032",
+	"description": "Jenkins build 3032",
+	"refs": {
+		"BuildData": "f0a5ed1aeff8156ba4afa504e190c838dd1af50c",
+		"Bukkit": "15ba9ae78ad9048f810de887431dfc6d0c2bdf50",
+		"CraftBukkit": "b530534f03b449539028e2adead9ef1150b2d9d0",
+		"Spigot": "1ad83543c04b26f4da8a2b7cf206b41ad8028063"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 60]
+}

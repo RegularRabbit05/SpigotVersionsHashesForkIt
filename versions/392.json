@@ -1,0 +1,10 @@
+{
+	"name": "392",
+	"description": "Jenkins build 392",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "fc9b07810a28a0bdaf5541bf1b7bb2107d90323d",
+		"CraftBukkit": "63e28b1c3d7d505d37a16d662141e91fd7cde065",
+		"Spigot": "dbe012b14fc3a32376c4ebfd7dd4d6d4c9bf2998"
+	}
+}

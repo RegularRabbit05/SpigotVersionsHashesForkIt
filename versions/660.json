@@ -1,0 +1,11 @@
+{
+	"name": "660",
+	"description": "Jenkins build 660",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "f714a0eb175d1619a7847946cdea1056649cd597",
+		"CraftBukkit": "a06e5cf8e82240893db66171331da647a3252c53",
+		"Spigot": "bc01c3ad5699d4a349b2896864685e405ac383d6"
+	},
+    "toolsVersion": 47
+}

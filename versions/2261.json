@@ -1,0 +1,12 @@
+{
+	"name": "2261",
+	"description": "Jenkins build 2261",
+	"refs": {
+		"BuildData": "df665071847a0ace1b4b7149f504e5bb8eca992c",
+		"Bukkit": "c28920643d98217a50ad5fe71a166105fb29dbf8",
+		"CraftBukkit": "e8c929356eed50a8c9dfa07400348a0d2d560b36",
+		"Spigot": "1eece4fcb49d23d9f09dd21e0e5462a5d3d81b83"
+	},
+	"toolsVersion": 101,
+	"javaVersions": [52, 56]
+}

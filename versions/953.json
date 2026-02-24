@@ -1,0 +1,11 @@
+{
+	"name": "953",
+	"description": "Jenkins build 953",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "96d1ed2624717c570dfdad74e6b968b0859aac44",
+		"CraftBukkit": "2f5bda8a67b24d8569964f64fb92c2fcda05303e",
+		"Spigot": "2486fb7c1ffa9da1e925f8fd80680a8874a775b8"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,10 @@
+{
+	"name": "527",
+	"description": "Jenkins build 527",
+	"refs": {
+		"BuildData": "c48104cb841f7e7740aced01792b5aa79bed4278",
+		"Bukkit": "3e3e3430e2baf9d07bedad2dd2cc601d9bb7322b",
+		"CraftBukkit": "58d972f1ddc6fad892e7b7cee0ae1290a1bfe459",
+		"Spigot": "18b238b2d7c0f3e420cf0d3dc250dd1d2eb0301e"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"name": "864",
+	"description": "Jenkins build 864",
+	"refs": {
+		"BuildData": "cede5450c952c76341e047b8d04f9894f16e596d",
+		"Bukkit": "a4fe2264e678cdc646098df61398ea8a10b0731a",
+		"CraftBukkit": "fa83b1b80c0955c083150931a47a7c6d5998319e",
+		"Spigot": "6016ac773a4f7bb51b82cdc0e8c87a6a8b164ceb"
+	},
+	"toolsVersion": 47
+}

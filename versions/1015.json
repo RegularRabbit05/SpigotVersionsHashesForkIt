@@ -1,0 +1,11 @@
+{
+	"name": "1015",
+	"description": "Jenkins build 1015",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "da81c56cee19f4ad6d9676682a8a43c83481e5a7",
+		"CraftBukkit": "8095a750e7eebc5c3d67532a8f1fa84b5a8e1976",
+		"Spigot": "16c940b0677cc9065df920e1113c80b5a047ca32"
+	},
+	"toolsVersion": 47
+}

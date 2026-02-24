@@ -1,0 +1,10 @@
+{
+	"name": "534",
+	"description": "Jenkins build 534",
+	"refs": {
+		"BuildData": "c48104cb841f7e7740aced01792b5aa79bed4278",
+		"Bukkit": "9cda1d21ad30511c89c051295d20a32b992923a9",
+		"CraftBukkit": "2642f9b344917de873d7e10075eb024f94f0b445",
+		"Spigot": "f94fe8f7a058fa072103c69b49a5b4876809e1c2"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"name": "1719",
+	"description": "Jenkins build 1719",
+	"refs": {
+		"BuildData": "351106b6336fc52f6acf94aabd34ac54fc772432",
+		"Bukkit": "949d53709bae68956175c93f540f46e97b427422",
+		"CraftBukkit": "bef764020e65646765a0d2af8a2a2638c75c480a",
+		"Spigot": "69774b3e4419d3213023b46dc791214bd39f48d6"
+	},
+	"toolsVersion": 75
+}

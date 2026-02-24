@@ -1,0 +1,12 @@
+{
+	"name": "3970",
+	"description": "Jenkins build 3970",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "9dd562554ce8fdc7976762fcd1fb46c3efc486cf",
+		"CraftBukkit": "492dd80ce7b6c64e72e005540b9da1461db5d6d4",
+		"Spigot": "ce0f71e4276e911707a258a968371f06f8718aca"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

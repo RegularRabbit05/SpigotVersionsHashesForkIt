@@ -1,0 +1,11 @@
+{
+	"name": "1538",
+	"description": "Jenkins build 1538",
+	"refs": {
+		"BuildData": "a9c4523879abc011821f06283dd468c67c3b0097",
+		"Bukkit": "bf61ffc26b4845816da86e9ce53c29b7263fb7a7",
+		"CraftBukkit": "aa255689c1e00b77b066440bbfd2d84b641bfd58",
+		"Spigot": "c3093efafc5eab1ea62a8a57aa47f28f5ea85d03"
+	},
+	"toolsVersion": 47
+}

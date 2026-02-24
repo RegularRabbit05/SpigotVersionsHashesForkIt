@@ -1,0 +1,12 @@
+{
+	"name": "3939",
+	"description": "Jenkins build 3939",
+	"refs": {
+		"BuildData": "172197ceb99364701937947ea7fc424ecf1bb694",
+		"Bukkit": "e979ee952247ea64ae99e494dee0a43cdd8c4f71",
+		"CraftBukkit": "d433f086d5f67d660a0ab7fd9982e37997878e37",
+		"Spigot": "7de1049b2a99eaca8090596e3b8e2ba8431f27e6"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

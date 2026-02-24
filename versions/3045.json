@@ -1,0 +1,12 @@
+{
+	"name": "3045",
+	"description": "Jenkins build 3045",
+	"refs": {
+		"BuildData": "f0a5ed1aeff8156ba4afa504e190c838dd1af50c",
+		"Bukkit": "14883d6b17f7cbf695a154266fa23372a4381ebe",
+		"CraftBukkit": "115244c744b1ef289d97d4e6cc777e60f185ff64",
+		"Spigot": "a25e8ed26cbca903b4d6ee3823d1b9f4f5d06cc3"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 60]
+}

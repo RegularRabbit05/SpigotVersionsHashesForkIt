@@ -1,0 +1,11 @@
+{
+	"name": "1047",
+	"description": "Jenkins build 1047",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "99d9e07ccd449936589dff48fa2a25b2918a39b8",
+		"CraftBukkit": "c1462a24d83ef50e4cfd81948fd8868f00aaaccd",
+		"Spigot": "0f17cfb6c463710def7e7ea8b9b93d91df09231c"
+	},
+	"toolsVersion": 47
+}

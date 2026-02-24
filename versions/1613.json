@@ -1,0 +1,11 @@
+{
+	"name": "1613",
+	"description": "Jenkins build 1613",
+	"refs": {
+		"BuildData": "a5effc614208d06202688a775f25d7b820b36d47",
+		"Bukkit": "1d21dc022e7e6905ef64f54b165e7559dfa40ade",
+		"CraftBukkit": "8c9dea83c3ffc341ccec57e978d40559d7a04f94",
+		"Spigot": "1d0aef704b8cca70ab2c71dbabad4a09b91287e3"
+	},
+	"toolsVersion": 75
+}

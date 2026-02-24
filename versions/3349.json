@@ -1,0 +1,12 @@
+{
+	"name": "3349",
+	"description": "Jenkins build 3349",
+	"refs": {
+		"BuildData": "8814411100e91e323a23a9a6355fa7d28e091054",
+		"Bukkit": "1c9ca4054853af6e4210a63cb71fc537d4d4af95",
+		"CraftBukkit": "fd3478bc77e3b1280e1e02dba6822490a51f011d",
+		"Spigot": "dbf493829eb4bf37ff6492e725058424138cc651"
+	},
+	"toolsVersion": 138,
+	"javaVersions": [61, 61]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "659",
+	"description": "Jenkins build 659",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "f714a0eb175d1619a7847946cdea1056649cd597",
+		"CraftBukkit": "8ad0cd08950c8fc99cd89d825ae8f38e9f6df1cf",
+		"Spigot": "bc01c3ad5699d4a349b2896864685e405ac383d6"
+	},
+    "toolsVersion": 47
+}

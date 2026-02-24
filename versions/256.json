@@ -1,0 +1,10 @@
+{
+	"name": "256",
+	"description": "Jenkins build 256",
+	"refs": {
+		"BuildData": "c6fee81b6145012635654dfed3560abba911dbb2",
+		"Bukkit": "685a7d4b66147864e52a2687a5d2a2bf14d8a491",
+		"CraftBukkit": "e6f9fd4dc783f0e26a73bc4152c172667d6adca4",
+		"Spigot": "c46583fa0cd8d938aa0f225295868240e4eae097"
+	}
+}

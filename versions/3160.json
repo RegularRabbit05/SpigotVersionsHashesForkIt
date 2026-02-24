@@ -1,0 +1,12 @@
+{
+	"name": "3160",
+	"description": "Jenkins build 3160",
+	"refs": {
+		"BuildData": "3cec511b16ffa31cb414997a14be313716882e12",
+		"Bukkit": "ecf35dd77aebd9ad5297fc629c8fb2b41f355e95",
+		"CraftBukkit": "295ab080d3913e5a2d9322cefee8c8d5207ed15c",
+		"Spigot": "f773da845ca2da21064a4025b6ad12178da0ed7c"
+	},
+	"toolsVersion": 128,
+	"javaVersions": [60, 60]
+}

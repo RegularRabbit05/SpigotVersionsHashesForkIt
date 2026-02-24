@@ -1,0 +1,12 @@
+{
+	"name": "3421",
+	"description": "Jenkins build 3421",
+	"refs": {
+		"BuildData": "f31eb04b918592f66c6edd17c9b5998383581ae5",
+		"Bukkit": "71564210098783e79b9205d1495caaa38a7328b9",
+		"CraftBukkit": "911875d4f83c2b5ac770eece166a810f45bfe80d",
+		"Spigot": "862678eabf78c1fc309e4b9cd1c38515712e7ada"
+	},
+	"toolsVersion": 138,
+	"javaVersions": [61, 61]
+}

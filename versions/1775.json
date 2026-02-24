@@ -1,0 +1,11 @@
+{
+	"name": "1775",
+	"description": "Jenkins build 1775",
+	"refs": {
+		"BuildData": "351106b6336fc52f6acf94aabd34ac54fc772432",
+		"Bukkit": "1f85e52623dbf90e6d6f482660b34cb15f8f0f1b",
+		"CraftBukkit": "96778caabb82eff6c2155d016bea938cebed3953",
+		"Spigot": "417cfb3603e0c07ca743b46144b4fafd12c136dc"
+	},
+	"toolsVersion": 75
+}

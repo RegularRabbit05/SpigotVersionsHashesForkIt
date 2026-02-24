@@ -1,0 +1,12 @@
+{
+	"name": "3275",
+	"description": "Jenkins build 3275",
+	"refs": {
+		"BuildData": "a4785704979a469daa2b7f6826c84e7fe886bb03",
+		"Bukkit": "cfd18bd0ac9000319520374d6950d95bf8a218f4",
+		"CraftBukkit": "b58f4299c6f1438846f14ba5bb88cda531e33da1",
+		"Spigot": "38929296b008a62a7a8532c46550aa493e2246a8"
+	},
+	"toolsVersion": 128,
+	"javaVersions": [60, 61]
+}

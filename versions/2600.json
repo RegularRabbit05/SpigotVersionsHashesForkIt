@@ -1,0 +1,12 @@
+{
+	"name": "2600",
+	"description": "Jenkins build 2600",
+	"refs": {
+		"BuildData": "4a6af056693a191400cc4bc242823734c865c282",
+		"Bukkit": "6bb6f07d9f66fedfeb9e7bc765cb661b2ede7b4e",
+		"CraftBukkit": "6515ea4957c5ebc8b88e3f7581a8a4dbb55fecb1",
+		"Spigot": "f2c1cd15d99e523ef21cd1f761914a2b9eb940b8"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 57]
+}

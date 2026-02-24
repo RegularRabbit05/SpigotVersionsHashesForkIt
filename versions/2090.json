@@ -1,0 +1,12 @@
+{
+	"name": "2090",
+	"description": "Jenkins build 2090",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "e167e549afd442461df623cdb3c6ba1f2be797d9",
+		"CraftBukkit": "6430d9c0ba73bb5321743ba8ea842cc611e807c9",
+		"Spigot": "e5e5c7c6d438c89ced4041c0d3361ae9e6bcc177"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

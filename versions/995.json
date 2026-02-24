@@ -1,0 +1,11 @@
+{
+	"name": "995",
+	"description": "Jenkins build 995",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "0099068dbdb2e5fb31141a95ecd899441ea6fb81",
+		"CraftBukkit": "2dd38f2dc4a3da36dba19a1d41f89e6ef0a87847",
+		"Spigot": "d60de0a65bf852f67f22586fcd9e604b988224a3"
+	},
+	"toolsVersion": 47
+}

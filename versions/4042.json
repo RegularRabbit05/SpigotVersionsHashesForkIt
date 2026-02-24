@@ -1,0 +1,12 @@
+{
+	"name": "4042",
+	"description": "Jenkins build 4042",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "b252cf058ae564c08a3e43eae5307ad9778e87e7",
+		"CraftBukkit": "7e43f3b1642c66bef8ca4f445e912979583d6d9c",
+		"Spigot": "c198da22a814a0ba9c3128c3a9946286e0839b5a"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

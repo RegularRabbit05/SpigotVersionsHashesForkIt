@@ -1,0 +1,12 @@
+{
+	"name": "2062",
+	"description": "Jenkins build 2062",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "7ab335f242aea459f45037e7275ed3f109183a11",
+		"CraftBukkit": "6e476c0d4231afe293c929561f918b8655673bb9",
+		"Spigot": "f56e2e787f425025af0d7410ff4cdb4f8edf7f3b"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

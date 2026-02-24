@@ -1,0 +1,11 @@
+{
+	"name": "586",
+	"description": "Jenkins build 586",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "972b9fea86022c4136504fbd3ac9c00070b96baa",
+		"CraftBukkit": "c194444207ae8543dc4ec4669a6e0d446f41d3b6",
+		"Spigot": "7d15d07c929caae6454ae2cd7197cb86b0582a16"
+	},
+    "toolsVersion": 47
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2707",
+	"description": "Jenkins build 2707",
+	"refs": {
+		"BuildData": "be3371e67489b5a2293306e24420793106baadc1",
+		"Bukkit": "aec8ec33fc28c2b63c1c4f3eed00361b905b595a",
+		"CraftBukkit": "76d2add0bbb0955f07034f6f0fad27d719f1c3a2",
+		"Spigot": "758abbeee4e12f5ff65470999dd9955d0ebb49cd"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

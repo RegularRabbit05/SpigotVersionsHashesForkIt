@@ -1,0 +1,11 @@
+{
+	"name": "850",
+	"description": "Jenkins build 850",
+	"refs": {
+		"BuildData": "cede5450c952c76341e047b8d04f9894f16e596d",
+		"Bukkit": "6f0f13d56504477dc09adddcae92500cceb91b4f",
+		"CraftBukkit": "a8a4bedd2a9ef3c192ecf76db9afaf0b784ed08d",
+		"Spigot": "da278d16b469b98f961d0e8fbffe81f274a930db"
+	},
+	"toolsVersion": 47
+}

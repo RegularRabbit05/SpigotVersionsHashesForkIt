@@ -1,0 +1,10 @@
+{
+	"name": "388",
+	"description": "Jenkins build 388",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "2b61299288d0ae25d50d24d5cf74b5bcc0192230",
+		"CraftBukkit": "0af2738ae2889e08268a4315a4f63486cfc65e28",
+		"Spigot": "c136710bfd8019e01a94c10578dfcb3ce5f04bcb"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"name": "749",
+	"description": "Jenkins build 749",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "67b9a6f66b74a8df1977067ef2bbf45274da1bdf",
+		"CraftBukkit": "1ea1adc10f3f068f3d67f472469443fd732d8d2c",
+		"Spigot": "53e65c99d236cba48e641458aca98993fd11d7bd"
+	},
+	"toolsVersion": 47
+}

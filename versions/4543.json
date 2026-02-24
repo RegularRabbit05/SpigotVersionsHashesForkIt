@@ -1,0 +1,16 @@
+{
+	"name": "4543",
+	"description": "Jenkins build 4543",
+	"refs": {
+		"BuildData": "6cf716da198f9d94f9c36e36d9be6417c5c24824",
+		"Bukkit": "ad8087e5ccfc9229dadc5c6e959c71f065568e94",
+		"CraftBukkit": "172ebc698bc5f405b450338bd9a0a41f0950d63a",
+		"Spigot": "6e369ba56125a52a628785448c15afa062a76932"
+	},
+	"hashes": {
+		"CraftBukkit": "fe2a61c09078eb43cca97a8735d37e9c62054c21bd95322da3a31a2fa1c25fa4",
+		"Spigot": "aa1158930e8c4ed980a09fd30ba57c2e8f50f7bedbf40001bdfb40512d4a49dd"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 69]
+}

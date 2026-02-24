@@ -1,0 +1,12 @@
+{
+	"name": "2469",
+	"description": "Jenkins build 2469",
+	"refs": {
+		"BuildData": "2dbde4c18d3b3e34142da21d42cea4b1beb33d7d",
+		"Bukkit": "92f24ff245ea60fc4d9cff5bac8775d7caf6f3e9",
+		"CraftBukkit": "5d335e9684996e392a563edbcf932fad3a871afc",
+		"Spigot": "065a3734e85cc81787512247ef77a3a474b67f1b"
+	},
+	"toolsVersion": 101,
+	"javaVersions": [52, 56]
+}

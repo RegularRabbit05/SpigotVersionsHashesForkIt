@@ -1,0 +1,10 @@
+{
+	"name": "287",
+	"description": "Jenkins build 287",
+	"refs": {
+		"BuildData": "946ba99fbb82b6fb2f723bded5bfdb3133f80540",
+		"Bukkit": "e3d656cd5ddf85a650a533867fdb9b834c493d43",
+		"CraftBukkit": "bc03b6f017ba2120a52813c37de4eace79166f3c",
+		"Spigot": "952179b880a1aa91da6893ecf3554fbe65f73641"
+	}
+}

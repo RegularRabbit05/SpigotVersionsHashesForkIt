@@ -1,0 +1,11 @@
+{
+	"name": "777",
+	"description": "Jenkins build 777",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "8ce4d2f45fbdb7cd85346b220f6a9d34f2000910",
+		"CraftBukkit": "f92e01ba5cf46c123d0cd38b29321c78706257e0",
+		"Spigot": "ccb60162676136c2f1b6d0d83edf1574e404b11a"
+	},
+	"toolsVersion": 47
+}

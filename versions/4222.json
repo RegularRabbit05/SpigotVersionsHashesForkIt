@@ -1,0 +1,12 @@
+{
+	"name": "4222",
+	"description": "Jenkins build 4222",
+	"refs": {
+		"BuildData": "ae1e7b1e31cd3a3892bb05a6ccdcecc48c73c455",
+		"Bukkit": "ccbf091556d0fce281f65e031de1de9c0124bcee",
+		"CraftBukkit": "b2b08f68cfc2caf2d48cc536a3ecd40516fd99c6",
+		"Spigot": "146439e88cdda2de5ce54c2a9d6a6cdd9aa8bc1b"
+	},
+	"toolsVersion": 181,
+	"javaVersions": [65, 66]
+}

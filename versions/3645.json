@@ -1,0 +1,12 @@
+{
+	"name": "3645",
+	"description": "Jenkins build 3645",
+	"refs": {
+		"BuildData": "177811e1fa90f674897a302820f3ed84e4d65688",
+		"Bukkit": "e417a748562bea1baef49c07567ce7fdcc2b023b",
+		"CraftBukkit": "7cd3244d3d725fbc2f799f3457e61491ebced818",
+		"Spigot": "19641c7577eefd3f47df12167c5e01f449bce47c"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 63]
+}

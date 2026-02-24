@@ -1,0 +1,12 @@
+{
+	"name": "3789",
+	"description": "Jenkins build 3789",
+	"refs": {
+		"BuildData": "2881c6b6dd146126596342d4025d37a9a84a0b03",
+		"Bukkit": "54e8ec7b47ec9a77e05d44d8898a0f247c8db046",
+		"CraftBukkit": "c0f1ad4b9b8042cf7bf61dd7c0ea22407e8558fd",
+		"Spigot": "ddcbdcca952aa304fa1ddb98307e3592a8d2b724"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 64]
+}

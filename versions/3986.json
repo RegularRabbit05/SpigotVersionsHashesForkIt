@@ -1,0 +1,12 @@
+{
+	"name": "3986",
+	"description": "Jenkins build 3986",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "0b541e604df21b751854b9ba352e8f22d9787058",
+		"CraftBukkit": "57d7ef433ce20f1d03ee185dd94b6daf52cee96f",
+		"Spigot": "6dff577efb4a1fb2cf48e4bb77656e0195c0087b"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

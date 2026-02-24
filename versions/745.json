@@ -1,0 +1,11 @@
+{
+	"name": "745",
+	"description": "Jenkins build 745",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "0052c3c5a767adde7a333bdda46629971bc3edb9",
+		"CraftBukkit": "6067e54dd23803b340e22650df56940fbd0e7ba3",
+		"Spigot": "129f87a2c0ca73bea240b952d62e98ec59a1dc66"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,11 @@
+{
+	"name": "988",
+	"description": "Jenkins build 988",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "dd1c703c9ff5fcaf625b479c5f800489663fc746",
+		"CraftBukkit": "c25ddf063a808e3adb749e22017661f403c5fb7e",
+		"Spigot": "d60de0a65bf852f67f22586fcd9e604b988224a3"
+	},
+	"toolsVersion": 47
+}

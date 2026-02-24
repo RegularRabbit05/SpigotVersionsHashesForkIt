@@ -1,0 +1,11 @@
+{
+	"name": "1041",
+	"description": "Jenkins build 1041",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "5037da9d4c088c32d235647c7ff37e4ad573926d",
+		"CraftBukkit": "6220b5c542acaabf60cf46e7c4d34943688d11bb",
+		"Spigot": "261f18109ea6338aa7a5dfe34fbb87e87945b8e5"
+	},
+	"toolsVersion": 47
+}

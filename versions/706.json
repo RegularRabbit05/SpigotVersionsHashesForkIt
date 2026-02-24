@@ -1,0 +1,11 @@
+{
+	"name": "706",
+	"description": "Jenkins build 706",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "5a1a8ef5ad40aeeaab05232668d0a045c8ae38c3",
+		"CraftBukkit": "8269b993936262e845788843889007383a370484",
+		"Spigot": "cce4667dd087baf149634720c66139b7ffa7d2af"
+	},
+	"toolsVersion": 47
+}

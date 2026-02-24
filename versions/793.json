@@ -1,0 +1,11 @@
+{
+	"name": "793",
+	"description": "Jenkins build 793",
+	"refs": {
+		"BuildData": "46d0be39f2fae4732ebe544dfada3949a18e2092",
+		"Bukkit": "facc9c353c3b9b9b24986cbe13ca894cb641077c",
+		"CraftBukkit": "8cb1b362eb718fa091b683f1ea5f49eea3cfbe14",
+		"Spigot": "944aa2003b1a56b732e8cf6062f189aaef45a058"
+	},
+	"toolsVersion": 47
+}

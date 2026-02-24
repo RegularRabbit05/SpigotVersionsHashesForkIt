@@ -1,0 +1,10 @@
+{
+	"name": "411",
+	"description": "Jenkins build 411",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "8d91199e35c782e94c4dd41fdc8140f84e048ef1",
+		"CraftBukkit": "8e5e4c189bdbaabfdf98293a83cc007b17735e28",
+		"Spigot": "6e32d182b138c298c5dfcbd982f8685f4460494b"
+	}
+}

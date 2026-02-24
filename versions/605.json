@@ -1,0 +1,11 @@
+{
+	"name": "605",
+	"description": "Jenkins build 605",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "3019b6a70c0c70d6286eb1bc6fd21aaf3205ad48",
+		"CraftBukkit": "2fe69605ec54d40a3d0dbf240af84ba15e555169",
+		"Spigot": "1a196e11b3872febd1a92e5e401389094979ebf2"
+	},
+    "toolsVersion": 47
+}

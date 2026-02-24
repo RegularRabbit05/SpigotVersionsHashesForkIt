@@ -1,0 +1,11 @@
+{
+	"name": "700",
+	"description": "Jenkins build 700",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "6e846a5517443fddf08133186e439f4c121b2386",
+		"CraftBukkit": "8b69bdd0d1c4a6f6cfc32e60e30751f5f6440ce7",
+		"Spigot": "23e921ffff76f22b2c8e202a3dadb9ca8ac2c3b7"
+	},
+	"toolsVersion": 47
+}

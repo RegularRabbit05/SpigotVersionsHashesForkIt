@@ -1,0 +1,12 @@
+{
+	"name": "1976",
+	"description": "Jenkins build 1976",
+	"refs": {
+		"BuildData": "d56672db7d59c99f62c4e78532aeca0d143bef42",
+		"Bukkit": "db06c80d7f7c8deeea1f6caf9cef549064897d05",
+		"CraftBukkit": "aa36c8417bda9bdd4812c6094895677654cff83d",
+		"Spigot": "e769fe4d929af9813b597a438f543c782b7c4806"
+	},
+	"toolsVersion": 75,
+	"javaVersions": [52, 55]
+}

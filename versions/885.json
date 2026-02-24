@@ -1,0 +1,11 @@
+{
+	"name": "885",
+	"description": "Jenkins build 885",
+	"refs": {
+		"BuildData": "da49b96b47c219f2284ec3f25939e223cf17665d",
+		"Bukkit": "da1195392ac6db7015a83165a01b9c62b8380a24",
+		"CraftBukkit": "9af379fc4741a6fb487aaf4b5c7ffdbcbb12ca4f",
+		"Spigot": "c55900f7285842593df7101bf7ee81516aacb0c5"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,10 @@
+{
+	"name": "373",
+	"description": "Jenkins build 373",
+	"refs": {
+		"BuildData": "264466a4bebb5aa2b41b66c5009b098a8f2e90dc",
+		"Bukkit": "dcd92097e987ccd4030fa11135cf5147d6b6f7ad",
+		"CraftBukkit": "6e0120a058db88ac609679116988c672dec2952f",
+		"Spigot": "ea179b395a8244239c90f7fe5cd048ed8a31fb62"
+	}
+}

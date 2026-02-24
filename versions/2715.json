@@ -1,0 +1,12 @@
+{
+	"name": "2715",
+	"description": "Jenkins build 2715",
+	"refs": {
+		"BuildData": "be3371e67489b5a2293306e24420793106baadc1",
+		"Bukkit": "f42d62fb1801c4253c1b697f30ef613d3e3b3dfd",
+		"CraftBukkit": "b5db08bea582f2f9983a26b71a81d5578075e1ff",
+		"Spigot": "758abbeee4e12f5ff65470999dd9955d0ebb49cd"
+	},
+	"toolsVersion": 105,
+	"javaVersions": [52, 58]
+}

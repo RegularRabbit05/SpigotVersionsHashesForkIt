@@ -1,0 +1,11 @@
+{
+	"name": "1554",
+	"description": "Jenkins build 1554",
+	"refs": {
+		"BuildData": "be360cc298a06b5355ecd057f5b1feb894a73f0f",
+		"Bukkit": "17ee35ec62eb9128f8c45599f4e4939f9821e443",
+		"CraftBukkit": "21d5f75d6c7b2f13faf8815b20ba877681a0f47f",
+		"Spigot": "73ea0a853a3c721ab69705d9481b3108845b8a5c"
+	},
+	"toolsVersion": 47
+}

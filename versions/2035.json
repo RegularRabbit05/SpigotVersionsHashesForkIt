@@ -1,0 +1,12 @@
+{
+	"name": "2035",
+	"description": "Jenkins build 2035",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "5b680f0b3229afd88011315696d19fc1c04d32e6",
+		"CraftBukkit": "5932f8a7dae0fbf852592579edfa277ab260752a",
+		"Spigot": "19c3c5a51d345122f722bc1edf2a703dc40cee3c"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

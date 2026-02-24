@@ -1,0 +1,12 @@
+{
+	"name": "4075",
+	"description": "Jenkins build 4075",
+	"refs": {
+		"BuildData": "a9c23e0aa2429445ce39109e093bce0d89a14ab3",
+		"Bukkit": "f02baa38696abb62cc2588af8aaed4c9e0e1b30f",
+		"CraftBukkit": "dfaa89bbe33da3db95b8cc61f9897845076ba757",
+		"Spigot": "e9ec54852f825ba470576cd1b5a33b0d76091fbe"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 66]
+}

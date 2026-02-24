@@ -1,0 +1,11 @@
+{
+	"name": "826",
+	"description": "Jenkins build 826",
+	"refs": {
+		"BuildData": "9b100f8a6f0d86b5fd5f22f65dd6dd9eba6547d3",
+		"Bukkit": "b7b8f1e11ae7789a465f0e987be24161a1eba7df",
+		"CraftBukkit": "6d133d5440c7c79721f5eafd80b792a0011dc2a3",
+		"Spigot": "4af49dc0abc0056b1f66f92a2ee107f9f1749a82"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,11 @@
+{
+	"name": "1280",
+	"description": "Jenkins build 1280",
+	"refs": {
+		"BuildData": "ceb1b906afeaa302a4038f73c2d2029914c6a6b2",
+		"Bukkit": "1f3b0516a644fe37fdee0626f137dd65d4fcd88d",
+		"CraftBukkit": "274304b8ca4f1f84cdd5d0746fef9bbe59a59862",
+		"Spigot": "5278fd42daa971d60abb5dc6d75e12c2679c0a26"
+	},
+	"toolsVersion": 47
+}

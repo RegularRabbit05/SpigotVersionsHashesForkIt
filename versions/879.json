@@ -1,0 +1,11 @@
+{
+	"name": "879",
+	"description": "Jenkins build 879",
+	"refs": {
+		"BuildData": "cede5450c952c76341e047b8d04f9894f16e596d",
+		"Bukkit": "268e8e7836982a63dea448c0ef6f4dae020de23a",
+		"CraftBukkit": "02f4218da5186d0f7e627fa958e311dd0d7e8c42",
+		"Spigot": "c55900f7285842593df7101bf7ee81516aacb0c5"
+	},
+	"toolsVersion": 47
+}

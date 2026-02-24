@@ -1,0 +1,10 @@
+{
+	"name": "582a",
+	"description": "Jenkins build 582a (hotfix 2)",
+	"refs": {
+		"BuildData": "838b40587fa7a68a130b75252959bc8a3481d94f",
+		"Bukkit": "01d1820664a5f881665b84b28871dadd132deaef",
+		"CraftBukkit": "741a1bdf3db8c4d5237407df2872d9857427bfaf",
+		"Spigot": "21fe7077d9140e0f9db01587a39c2ffec29e3ec8"
+	}
+}

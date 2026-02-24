@@ -1,0 +1,10 @@
+{
+	"name": "502",
+	"description": "Jenkins build 502",
+	"refs": {
+		"BuildData": "c48104cb841f7e7740aced01792b5aa79bed4278",
+		"Bukkit": "0facd12906843a2309c3fe0bfb6f5bc4fad63517",
+		"CraftBukkit": "e91aed81b37a81a73dd89a48f53931948b896cc1",
+		"Spigot": "f928e7aa73b10dfaa6023608e244d0f29c4dcb81"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "3726",
+	"description": "Jenkins build 3726",
+	"refs": {
+		"BuildData": "4d9436f7b66190ad21fe4e3975b73a36b7ad2a7e",
+		"Bukkit": "13eb41466918e64be98fccf96fd3c75c3ea07ae4",
+		"CraftBukkit": "5ee3419b794bc7f9235c234d762dbc7da05cb127",
+		"Spigot": "514cf03ae91c086bf9e47825379698b3a97b6326"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 64]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2195",
+	"description": "Jenkins build 2195",
+	"refs": {
+		"BuildData": "df665071847a0ace1b4b7149f504e5bb8eca992c",
+		"Bukkit": "2eb71095340ccc6a5be764d352c0349afbba758f",
+		"CraftBukkit": "735f4ea33e5cb3de22513461ce4f7b97d696453a",
+		"Spigot": "766dab2a111b15a826d0a4560dfd967abdd6e516"
+	},
+	"toolsVersion": 101,
+	"javaVersions": [52, 56]
+}

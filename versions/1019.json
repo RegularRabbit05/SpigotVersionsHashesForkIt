@@ -1,0 +1,11 @@
+{
+	"name": "1019",
+	"description": "Jenkins build 1019",
+	"refs": {
+		"BuildData": "77931c01e72ff84c004a310b121a72b52f0efdd5",
+		"Bukkit": "6c22b7154d62d5db3dc72132de1d966ca4d5a6b0",
+		"CraftBukkit": "26377b763b2877b033d33ddd865d07faeb590d0c",
+		"Spigot": "16c940b0677cc9065df920e1113c80b5a047ca32"
+	},
+	"toolsVersion": 47
+}

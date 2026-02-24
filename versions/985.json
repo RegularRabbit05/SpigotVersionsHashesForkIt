@@ -1,0 +1,11 @@
+{
+	"name": "985",
+	"description": "Jenkins build 985",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "570e0e67528698b67770ea12e22c82d937fd3080",
+		"CraftBukkit": "c310383e89702ab6a9959f73728d0950e09bfcf4",
+		"Spigot": "907961ddf9621339a8d44b8f589d571ac57447a7"
+	},
+	"toolsVersion": 47
+}

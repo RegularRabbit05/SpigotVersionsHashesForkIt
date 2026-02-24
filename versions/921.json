@@ -1,0 +1,11 @@
+{
+	"name": "921",
+	"description": "Jenkins build 921",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "19b3d5ef4cd3cc4cef246dd9dba02199e19f5daf",
+		"CraftBukkit": "301db84d3d85f5218f3ec590224071c04140bbe2",
+		"Spigot": "9797151286c045686e3d09389353431efcc6034a"
+	},
+	"toolsVersion": 47
+}

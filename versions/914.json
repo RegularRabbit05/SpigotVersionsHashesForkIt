@@ -1,0 +1,11 @@
+{
+	"name": "914",
+	"description": "Jenkins build 914",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "a1760b6baec0db18f0eeda14e371a75fa6fc3d3b",
+		"CraftBukkit": "a625e4567d990a3d48fbce41ddd575f09ecb4d58",
+		"Spigot": "f6305411b89f476731c002c72a4fac97068c9afa"
+	},
+	"toolsVersion": 47
+}

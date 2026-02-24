@@ -1,0 +1,16 @@
+{
+	"name": "4584",
+	"description": "Jenkins build 4584",
+	"refs": {
+		"BuildData": "198a22ac785b7b774d0895204e950a29d2a7e5a6",
+		"Bukkit": "711a73b4c609ce692297152618b42be275f9ce30",
+		"CraftBukkit": "63148eeb7d6297bac295279b5f7c1aa4298ee110",
+		"Spigot": "4fc3fc9b811fbc2fea0b299e059f7deced196d35"
+	},
+	"hashes": {
+		"CraftBukkit": "c927b3ddc0f5a67aa2a75ebeee4f0307c31fb99b9c98f5664598ef1b5578edcf",
+		"Spigot": "7e1e29eb0f064924276940940858d18a4b262f662bf1a659099b01bd5e88dea8"
+	},
+	"toolsVersion": 197,
+	"javaVersions": [65, 69]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "2023",
+	"description": "Jenkins build 2023",
+	"refs": {
+		"BuildData": "bcf503132cdd66b4f92e41a8174e1b901467ec81",
+		"Bukkit": "7fca5fd456b36db811d10990ff1fe9a532f8c5dd",
+		"CraftBukkit": "a83828623b260cfe0c0bae904ed32a97062f704a",
+		"Spigot": "518206a1d250cdc7ae6448383ea9063f69c766c4"
+	},
+	"toolsVersion": 84,
+	"javaVersions": [52, 55]
+}

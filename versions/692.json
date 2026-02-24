@@ -1,0 +1,11 @@
+{
+	"name": "692",
+	"description": "Jenkins build 692",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "58b2aab4746e91a03e5f67b9f8b864ca0d21aaba",
+		"CraftBukkit": "1386bd3ddf76e5c2e56b931de57b60af8737252c",
+		"Spigot": "6f291eaafcba6387f4365eb8215f229f7950c3dc"
+	},
+    "toolsVersion": 47
+}

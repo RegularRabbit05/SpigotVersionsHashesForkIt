@@ -1,0 +1,12 @@
+{
+	"name": "4002",
+	"description": "Jenkins build 4002",
+	"refs": {
+		"BuildData": "17eb87e5cd509ff55d691b74902ac19c3b62ca0c",
+		"Bukkit": "0c7aedbceabcf05dde0a483001acd3d957e06c03",
+		"CraftBukkit": "69027820058ea32a6cc95214539b42a4ea8b830e",
+		"Spigot": "cdc4e0351f73717725c98e7136c1dd18d86beaee"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 65]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "922",
+	"description": "Jenkins build 922",
+	"refs": {
+		"BuildData": "f37e6395d8f7d4865df27a4ab77e0c0d45de8fb9",
+		"Bukkit": "e73ec6b833d245ce3c984d6da1cccb22fbe9f3e5",
+		"CraftBukkit": "301db84d3d85f5218f3ec590224071c04140bbe2",
+		"Spigot": "9797151286c045686e3d09389353431efcc6034a"
+	},
+	"toolsVersion": 47
+}

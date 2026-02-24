@@ -1,0 +1,11 @@
+{
+	"name": "727",
+	"description": "Jenkins build 727",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "db1761e3c9dd2a74cda188145a5d3dc9da57f712",
+		"CraftBukkit": "9a072ddc1f181a1eef3b1a5d306af21756f8211b",
+		"Spigot": "90839e6224403fb7f32e6eeba704623a3121d541"
+	},
+	"toolsVersion": 47
+}

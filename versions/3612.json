@@ -1,0 +1,12 @@
+{
+	"name": "3612",
+	"description": "Jenkins build 3612",
+	"refs": {
+		"BuildData": "177811e1fa90f674897a302820f3ed84e4d65688",
+		"Bukkit": "bf3239f7a3d8ff0359bcacd13012081146ff3c3b",
+		"CraftBukkit": "e85280e02001d680ce3a624cbff7790e41c14810",
+		"Spigot": "61bffe0cce4e22325a65715f407823d860a32c5c"
+	},
+	"toolsVersion": 148,
+	"javaVersions": [61, 63]
+}

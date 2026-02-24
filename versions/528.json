@@ -1,0 +1,10 @@
+{
+	"name": "528",
+	"description": "Jenkins build 528",
+	"refs": {
+		"BuildData": "c48104cb841f7e7740aced01792b5aa79bed4278",
+		"Bukkit": "3e3e3430e2baf9d07bedad2dd2cc601d9bb7322b",
+		"CraftBukkit": "58d972f1ddc6fad892e7b7cee0ae1290a1bfe459",
+		"Spigot": "b2c2c6348e9ced360e15f6f71317bd81e369c64b"
+	}
+}

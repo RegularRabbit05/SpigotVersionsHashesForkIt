@@ -1,0 +1,10 @@
+{
+	"name": "273",
+	"description": "Jenkins build 273",
+	"refs": {
+		"BuildData": "c6fee81b6145012635654dfed3560abba911dbb2",
+		"Bukkit": "bd465016092b2281861d27847901772b5d6b99f7",
+		"CraftBukkit": "e08f5e3d3518e9d24cc56f61d8bc04bbd6a07c60",
+		"Spigot": "899f5ee8c6f0b9eea82f52050dda084ce9f18a62"
+	}
+}

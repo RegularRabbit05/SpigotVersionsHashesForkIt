@@ -1,0 +1,11 @@
+{
+	"name": "677",
+	"description": "Jenkins build 677",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "0c042936d8219121ae44d93c4fe0071ce7a9b50a",
+		"CraftBukkit": "dd016e7135dec2ae6d8163a307b9705fa379a4ae",
+		"Spigot": "b1c1b55c47e67c26cb439e0dbc1993a468f4e4d1"
+	},
+    "toolsVersion": 47
+}

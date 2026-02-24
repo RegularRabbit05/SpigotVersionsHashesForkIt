@@ -1,0 +1,11 @@
+{
+	"name": "716",
+	"description": "Jenkins build 716",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "0b10b8e543444426153f48d4ec348ac15f4cf1f3",
+		"CraftBukkit": "b3f6de0da51ba476bb6792f6fdf44cec472d3cce",
+		"Spigot": "f04e043eb1aa5cb0c8450cd57d88fdb051cf99fd"
+	},
+	"toolsVersion": 47
+}

@@ -1,0 +1,11 @@
+{
+	"name": "590",
+	"description": "Jenkins build 590",
+	"refs": {
+		"BuildData": "29cbded5ff05b66a9af3ac22efe07031d5fb5742",
+		"Bukkit": "499807467c9e5d6fc856131cdcb3cc94f94465cf",
+		"CraftBukkit": "ea28c1e47856f1f3842eea6ba26b81dd319c525f",
+		"Spigot": "ee4e41a2e067df78edb50ca8ecff8f8d5376a392"
+	},
+    "toolsVersion": 47
+}
